@@ -1,0 +1,2394 @@
+[
+  {
+    "position": 1,
+    "title": "KEBAKARAN HUTAN DAN LAHAN - WRI Indonesia",
+    "link": "https://wri-indonesia.org/sites/default/files/keadaan_hutan_bab_4.pdf",
+    "displayed_link": "https://wri-indonesia.org › keadaan_hutan_bab_4",
+    "snippet": "Berbagai proses degradasi hutan dan deforestasi yang dibahas dalam Bab 3 mengubah kawasan hutan yang luas di Indonesia dari suatu ekosistem yang tahan kebakaran ...",
+    "snippet_highlighted_words": [
+      "hutan",
+      "hutan",
+      "Indonesia",
+      "kebakaran"
+    ],
+    "rich_snippet": {
+      "top": {
+        "detected_extensions": {
+          "pages": 8
+        },
+        "extensions": [
+          "8 pages"
+        ]
+      }
+    },
+    "about_this_result": {
+      "source": {
+        "description": "wri-indonesia.org was first indexed by Google in May 2015",
+        "source_info_link": "https://wri-indonesia.org/sites/default/files/keadaan_hutan_bab_4.pdf",
+        "security": "secure",
+        "icon": "https://serpapi.com/searches/63ec2cb42c084497608a71bc/images/c7d4185c0bb4457749fda288e7c1aab184af579abd3c80c480f86eec0007591c8f611bea653529e5d109f863d7f5d996.png"
+      }
+    },
+    "about_page_link": "https://www.google.com/search?q=About+https://wri-indonesia.org/sites/default/files/keadaan_hutan_bab_4.pdf&tbm=ilp&ilps=AB_Lh3pk113ASfChD-jRrU4lPhWCHma1sg",
+    "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&ilps=AB_Lh3pk113ASfChD-jRrU4lPhWCHma1sg&q=About+https%3A%2F%2Fwri-indonesia.org%2Fsites%2Fdefault%2Ffiles%2Fkeadaan_hutan_bab_4.pdf",
+    "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:YSfKwcQ9vlIJ:https://wri-indonesia.org/sites/default/files/keadaan_hutan_bab_4.pdf&cd=11&hl=en&ct=clnk&gl=us"
+  },
+  {
+    "position": 2,
+    "title": "Hanan Rozak Imbau KLHK Antisipasi Kebakaran Hutan ...",
+    "link": "https://www.dpr.go.id/berita/detail/id/40592/t/Hanan+Rozak+Imbau+KLHK+Antisipasi+Kebakaran+Hutan+Setelah+Tahun+Basah+Usai",
+    "displayed_link": "https://www.dpr.go.id › berita › detail",
+    "date": "Sep 8, 2022",
+    "snippet": "Website Resmi Dewan Perwakilan Rakyat Republik Indonesia. ... Angka luas kebakaran hutan dan lahan pada tahun 2022 mengalami penurunan.",
+    "snippet_highlighted_words": [
+      "Indonesia",
+      "kebakaran hutan"
+    ],
+    "about_this_result": {
+      "source": {
+        "description": "The People's Representative Council of the Republic of Indonesia, also known as the House of Representatives, is one of two elected chambers of the People's Consultative Assembly, the national legislature of Indonesia.",
+        "source_info_link": "https://www.dpr.go.id/berita/detail/id/40592/t/Hanan+Rozak+Imbau+KLHK+Antisipasi+Kebakaran+Hutan+Setelah+Tahun+Basah+Usai",
+        "security": "secure",
+        "icon": "https://serpapi.com/searches/63ec2cb42c084497608a71bc/images/c7d4185c0bb4457749fda288e7c1aab155c21b787a8e0a721f8cd4ac745aed5a5af78f41dfe237e204eae4e43b0888e2.png"
+      }
+    },
+    "about_page_link": "https://www.google.com/search?q=About+https://www.dpr.go.id/berita/detail/id/40592/t/Hanan%2BRozak%2BImbau%2BKLHK%2BAntisipasi%2BKebakaran%2BHutan%2BSetelah%2BTahun%2BBasah%2BUsai&tbm=ilp&ilps=AB_Lh3oOkTr5aVhH81KactnYSUPBy5F42w",
+    "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&ilps=AB_Lh3oOkTr5aVhH81KactnYSUPBy5F42w&q=About+https%3A%2F%2Fwww.dpr.go.id%2Fberita%2Fdetail%2Fid%2F40592%2Ft%2FHanan%2BRozak%2BImbau%2BKLHK%2BAntisipasi%2BKebakaran%2BHutan%2BSetelah%2BTahun%2BBasah%2BUsai",
+    "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:AVT_SZRyp_AJ:https://www.dpr.go.id/berita/detail/id/40592/t/Hanan%2BRozak%2BImbau%2BKLHK%2BAntisipasi%2BKebakaran%2BHutan%2BSetelah%2BTahun%2BBasah%2BUsai&cd=12&hl=en&ct=clnk&gl=us"
+  },
+  {
+    "position": 3,
+    "title": "Spartan BMKG – Sistem Peringatan Kebakaran Hutan dan ...",
+    "link": "http://spartan.bmkg.go.id/",
+    "displayed_link": "http://spartan.bmkg.go.id",
+    "snippet": "... pencegahan dan mitigasi bencana kebakaran hutan dan lahan ... yang berhubungan dengan kemungkinan wilayah Indonesia yang berpotensi terjadi karhutla.",
+    "snippet_highlighted_words": [
+      "kebakaran hutan",
+      "Indonesia"
+    ],
+    "about_this_result": {
+      "source": {
+        "description": "Meteorology, Climatology, and Geophysical Agency is an Indonesian non-departmental government agency for meteorology, climatology, and geophysics.",
+        "source_info_link": "http://spartan.bmkg.go.id/",
+        "security": "not secure",
+        "icon": "https://serpapi.com/searches/63ec2cb42c084497608a71bc/images/c7d4185c0bb4457749fda288e7c1aab12230460a31a6e5ebea62cc40c5b8754e1c4e708d20907079733d22df9da198ee.png"
+      }
+    },
+    "about_page_link": "https://www.google.com/search?q=About+http://spartan.bmkg.go.id/&tbm=ilp&ilps=AB_Lh3rqsbh9yRq2jrawwvBqRkxoeWb3qw",
+    "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&ilps=AB_Lh3rqsbh9yRq2jrawwvBqRkxoeWb3qw&q=About+http%3A%2F%2Fspartan.bmkg.go.id%2F",
+    "cached_page_link": "http://webcache.googleusercontent.com/search?q=cache:fmO0hPKZUc0J:spartan.bmkg.go.id/&cd=13&hl=en&ct=clnk&gl=us",
+    "related_results": [
+      {
+        "position": 1,
+        "title": "Sistem Peringatan Kebakaran Hutan dan Lahan - BMKG",
+        "link": "https://www.bmkg.go.id/cuaca/kebakaran-hutan.bmkg",
+        "displayed_link": "https://www.bmkg.go.id › cuaca › ke...",
+        "snippet": "Sistem kebakaran hutan dan lahan (SPARTAN) di Indonesia didasarkan pada Fire Danger Rating System (FDRS) dengan Fire Weather Index (FWI) dari Kanada.",
+        "snippet_highlighted_words": [
+          "kebakaran hutan",
+          "Indonesia"
+        ],
+        "about_this_result": {
+          "source": {
+            "description": "Meteorology, Climatology, and Geophysical Agency is an Indonesian non-departmental government agency for meteorology, climatology, and geophysics.",
+            "source_info_link": "https://www.bmkg.go.id/cuaca/kebakaran-hutan.bmkg",
+            "security": "secure",
+            "icon": "https://serpapi.com/searches/63ec2cb42c084497608a71bc/images/c7d4185c0bb4457749fda288e7c1aab10fe9ad1f82a9f9ce99d94bfa3681d1c7a229be2d844a650b1890d05ee28a17c0ccc974ba3e720750ab9b015a6be7438e0e5a234e1ec73681.png"
+          }
+        },
+        "about_page_link": "https://www.google.com/search?q=About+https://www.bmkg.go.id/cuaca/kebakaran-hutan.bmkg&tbm=ilp&ilps=AB_Lh3ouCqers4K5ci0WdsMJzdXT6VHf2g",
+        "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&ilps=AB_Lh3ouCqers4K5ci0WdsMJzdXT6VHf2g&q=About+https%3A%2F%2Fwww.bmkg.go.id%2Fcuaca%2Fkebakaran-hutan.bmkg",
+        "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:dLeUzYy6o_AJ:https://www.bmkg.go.id/cuaca/kebakaran-hutan.bmkg&cd=14&hl=en&ct=clnk&gl=us"
+      }
+    ]
+  },
+  {
+    "position": 4,
+    "title": "Waspada Dampak Kebakaran Hutan dan Lahan - Indonesiabaik",
+    "link": "https://indonesiabaik.id/infografis/waspada-dampak-kebakaran-hutan-dan-lahan",
+    "displayed_link": "https://indonesiabaik.id › infografis",
+    "snippet": "Tersebarnya asap dan emisi gas Karbondioksida dan gas-gas lain ke udara juga akan berdampak pada pemanasan global dan perubahan iklim. Kebakaran hutan ...",
+    "snippet_highlighted_words": [
+      "Kebakaran hutan"
+    ],
+    "about_this_result": {
+      "source": {
+        "description": "indonesiabaik.id was first indexed by Google in January 2016",
+        "source_info_link": "https://indonesiabaik.id/infografis/waspada-dampak-kebakaran-hutan-dan-lahan",
+        "security": "secure",
+        "icon": "https://serpapi.com/searches/63ec2cb42c084497608a71bc/images/c7d4185c0bb4457749fda288e7c1aab17479b8bfa05cbd8aa668fd37b93fdf07bc823d0c10cafa7fa30c861db7bcc714.png"
+      }
+    },
+    "about_page_link": "https://www.google.com/search?q=About+https://indonesiabaik.id/infografis/waspada-dampak-kebakaran-hutan-dan-lahan&tbm=ilp&ilps=AB_Lh3o9Qnu4nbimZz50egXfUKZiDcpE8g",
+    "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&ilps=AB_Lh3o9Qnu4nbimZz50egXfUKZiDcpE8g&q=About+https%3A%2F%2Findonesiabaik.id%2Finfografis%2Fwaspada-dampak-kebakaran-hutan-dan-lahan",
+    "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:nkreHVdx9LkJ:https://indonesiabaik.id/infografis/waspada-dampak-kebakaran-hutan-dan-lahan&cd=15&hl=en&ct=clnk&gl=us"
+  },
+  {
+    "position": 5,
+    "title": "Luas Kebakaran Hutan dan Lahan Indonesia Meningkat pada ...",
+    "link": "https://dataindonesia.id/ragam/detail/luas-kebakaran-hutan-dan-lahan-indonesia-meningkat-pada-2021",
+    "displayed_link": "https://dataindonesia.id › ... › Varia",
+    "date": "Apr 22, 2022",
+    "snippet": "Kementerian Lingkungan Hidup dan Kehutanan (KLHK) mencatat, luas kebakaran hutan dan lahan (karhutla) di Indonesia sebanyak 358.867 hektare ...",
+    "snippet_highlighted_words": [
+      "kebakaran hutan",
+      "Indonesia"
+    ],
+    "about_this_result": {
+      "source": {
+        "description": "dataindonesia.id was first indexed by Google in September 2021",
+        "source_info_link": "https://dataindonesia.id/ragam/detail/luas-kebakaran-hutan-dan-lahan-indonesia-meningkat-pada-2021",
+        "security": "secure",
+        "icon": "https://serpapi.com/searches/63ec2cb42c084497608a71bc/images/c7d4185c0bb4457749fda288e7c1aab18b205836c9fc2ae0b28bf24c62eeb12ab4073f42d8ed4af272eb92cc4e839902.png"
+      }
+    },
+    "about_page_link": "https://www.google.com/search?q=About+https://dataindonesia.id/ragam/detail/luas-kebakaran-hutan-dan-lahan-indonesia-meningkat-pada-2021&tbm=ilp&ilps=AB_Lh3qSHHSyIthW9Hu-zEj9l3gbAfZ7ew",
+    "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&ilps=AB_Lh3qSHHSyIthW9Hu-zEj9l3gbAfZ7ew&q=About+https%3A%2F%2Fdataindonesia.id%2Fragam%2Fdetail%2Fluas-kebakaran-hutan-dan-lahan-indonesia-meningkat-pada-2021",
+    "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:uc-tsfN8WgcJ:https://dataindonesia.id/ragam/detail/luas-kebakaran-hutan-dan-lahan-indonesia-meningkat-pada-2021&cd=16&hl=en&ct=clnk&gl=us"
+  },
+  {
+    "position": 6,
+    "title": "Analisis Kebakaran Hutan Dan Lahan Di Provinsi Riau",
+    "link": "https://dli.ejournal.unri.ac.id/index.php/DL/article/download/7457/6359",
+    "displayed_link": "https://dli.ejournal.unri.ac.id › article › download",
+    "snippet": "Kebakaran hutan dan lahan adalah bencana alam yang sering terjadi di Indonesia, terutama pada musim kemarau. Kebakaran ini menyebabkan kerusakan lingkungan yang.",
+    "snippet_highlighted_words": [
+      "Kebakaran hutan",
+      "Indonesia"
+    ],
+    "rich_snippet": {
+      "top": {
+        "extensions": [
+          "by A Yusuf",
+          "Cited by 21 —"
+        ],
+        "detected_extensions": {
+          "cited_by": 21
+        }
+      }
+    },
+    "about_this_result": {
+      "source": {
+        "description": "Universitas Riau is a public university in Pekanbaru, Riau, Indonesia. It was established on 1 September 1962. Dr. Hj. Sri Indarti, S.E., M.Si serves as the Rector of University of Riau.",
+        "source_info_link": "https://dli.ejournal.unri.ac.id/index.php/DL/article/download/7457/6359",
+        "security": "secure",
+        "icon": "https://serpapi.com/searches/63ec2cb42c084497608a71bc/images/c7d4185c0bb4457749fda288e7c1aab1f5e85d809e47cc420d32ee05e6bb4aa0963041a20ec02419a25dd419a94d1a37.png"
+      }
+    },
+    "about_page_link": "https://www.google.com/search?q=About+https://dli.ejournal.unri.ac.id/index.php/DL/article/download/7457/6359&tbm=ilp&ilps=AB_Lh3pKeuigkmehJAUxELo3ECxbD9SQrg",
+    "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&ilps=AB_Lh3pKeuigkmehJAUxELo3ECxbD9SQrg&q=About+https%3A%2F%2Fdli.ejournal.unri.ac.id%2Findex.php%2FDL%2Farticle%2Fdownload%2F7457%2F6359",
+    "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:HJmV_7DnT78J:https://dli.ejournal.unri.ac.id/index.php/DL/article/download/7457/6359&cd=17&hl=en&ct=clnk&gl=us"
+  },
+  {
+    "position": 7,
+    "title": "Analisis Kejadian Kebakaran Hutan dan Lahan di Indonesia ...",
+    "link": "https://repository.ipb.ac.id/handle/123456789/93383",
+    "displayed_link": "https://repository.ipb.ac.id › handle",
+    "snippet": "Abstract. Kebakaran hutan dan lahan merupakan salah satu fenomena alam yang sering terjadi di Indonesia. Hal ini menyebabkan berkurangnya luas hutan di ...",
+    "snippet_highlighted_words": [
+      "Kebakaran hutan",
+      "Indonesia"
+    ],
+    "rich_snippet": {
+      "top": {
+        "extensions": [
+          "by H Fadhila",
+          "Cited by 2 —"
+        ],
+        "detected_extensions": {
+          "cited_by": 2
+        }
+      }
+    },
+    "about_this_result": {
+      "source": {
+        "description": "IPB University is a state-run agricultural university based in the regency of Bogor, Indonesia.\nThe institute began as an agricultural school formed by the Dutch colonial regime in the early 20th century.",
+        "source_info_link": "https://repository.ipb.ac.id/handle/123456789/93383",
+        "security": "secure",
+        "icon": "https://serpapi.com/searches/63ec2cb42c084497608a71bc/images/c7d4185c0bb4457749fda288e7c1aab1ab40025982abc482c609e7d5e10d63512e49585911a2864eead4beab37e8a746.png"
+      }
+    },
+    "about_page_link": "https://www.google.com/search?q=About+https://repository.ipb.ac.id/handle/123456789/93383&tbm=ilp&ilps=AB_Lh3rfSBaIb2Bvl6rD8zXN-pr04G9CPw",
+    "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&ilps=AB_Lh3rfSBaIb2Bvl6rD8zXN-pr04G9CPw&q=About+https%3A%2F%2Frepository.ipb.ac.id%2Fhandle%2F123456789%2F93383",
+    "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:_kXKbQ9SLZgJ:https://repository.ipb.ac.id/handle/123456789/93383&cd=18&hl=en&ct=clnk&gl=us"
+  },
+  {
+    "position": 8,
+    "title": "Berita Harian Kebakaran Hutan - CNN Indonesia",
+    "link": "https://www.cnnindonesia.com/tag/kebakaran-hutan",
+    "displayed_link": "https://www.cnnindonesia.com › tag",
+    "snippet": "Berita Kebakaran Hutan terbaru dan terlengkap.",
+    "snippet_highlighted_words": [
+      "Kebakaran Hutan"
+    ],
+    "about_this_result": {
+      "source": {
+        "description": "Cable News Network Indonesia is a 24-hour Indonesian free-to-air television news channel owned by Trans Media in collaboration with Warner Bros. Discovery under CNN license.",
+        "source_info_link": "https://www.cnnindonesia.com/tag/kebakaran-hutan",
+        "security": "secure",
+        "icon": "https://serpapi.com/searches/63ec2cb42c084497608a71bc/images/c7d4185c0bb4457749fda288e7c1aab1b603bb4b462b9ec5fd3841df40a3de874a21fd4b5acac38a82f09e4b7a441323.png"
+      }
+    },
+    "about_page_link": "https://www.google.com/search?q=About+https://www.cnnindonesia.com/tag/kebakaran-hutan&tbm=ilp&ilps=AB_Lh3rLk5AajN8QWZ8NNjwTQSdGt1swMA",
+    "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&ilps=AB_Lh3rLk5AajN8QWZ8NNjwTQSdGt1swMA&q=About+https%3A%2F%2Fwww.cnnindonesia.com%2Ftag%2Fkebakaran-hutan",
+    "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:nEHVRkgtRTIJ:https://www.cnnindonesia.com/tag/kebakaran-hutan&cd=19&hl=en&ct=clnk&gl=us"
+  },
+  {
+    "position": 9,
+    "title": "Berita Harian Kebakaran-hutan Terbaru Hari Ini - Kompas.com",
+    "link": "https://www.kompas.com/tag/kebakaran-hutan",
+    "displayed_link": "https://www.kompas.com › tag › keb...",
+    "snippet": "Berita Kebakaran-hutan - Panglima TNI Laksamana Yudo Margono perintahkan jajarannya untuk antisipasi terjadinya kebakaran hutan dan lahan.",
+    "snippet_highlighted_words": [
+      "Kebakaran",
+      "hutan",
+      "kebakaran hutan"
+    ],
+    "about_this_result": {
+      "source": {
+        "description": "Kompas is an Indonesian national newspaper from Jakarta which was founded on 28 June 1965. The paper is published by PT Kompas Media Nusantara, which is a part of Kompas Gramedia Group. Its head office is located at the Kompas Multimedia Towers, Tanah Abang, Central Jakarta.",
+        "source_info_link": "https://www.kompas.com/tag/kebakaran-hutan",
+        "security": "secure",
+        "icon": "https://serpapi.com/searches/63ec2cb42c084497608a71bc/images/c7d4185c0bb4457749fda288e7c1aab1ed49eeca77f9077a6eb845f4e8e17ee2214e8c8afc44b71bdbd49f5ff76b4162.png"
+      }
+    },
+    "about_page_link": "https://www.google.com/search?q=About+https://www.kompas.com/tag/kebakaran-hutan&tbm=ilp&ilps=AB_Lh3pr-OpR7U9vG715iNcDr721V5A3RQ",
+    "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&ilps=AB_Lh3pr-OpR7U9vG715iNcDr721V5A3RQ&q=About+https%3A%2F%2Fwww.kompas.com%2Ftag%2Fkebakaran-hutan",
+    "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:ClB8O_CTvPMJ:https://www.kompas.com/tag/kebakaran-hutan&cd=20&hl=en&ct=clnk&gl=us"
+  },
+  {
+    "position": 10,
+    "title": "Permasalahan dan Dampak Kebakaran Hutan",
+    "link": "https://juliwi.com/published/E0104/Paper0104_47-59.pdf",
+    "displayed_link": "https://juliwi.com › published › Paper0104_47-59",
+    "snippet": "Peristiwa kebakaran hutan yang terjadi di Indonesia pada tahun 1997 – 1998 dan 2002 – 2005 menghasilkan asap yang juga dirasakan oleh masyarakat Malaysia, ...",
+    "snippet_highlighted_words": [
+      "kebakaran hutan",
+      "Indonesia"
+    ],
+    "rich_snippet": {
+      "top": {
+        "extensions": [
+          "by F Rasyid",
+          "Cited by 194 —"
+        ],
+        "detected_extensions": {
+          "cited_by": 194
+        }
+      }
+    },
+    "about_this_result": {
+      "source": {
+        "description": "juliwi.com was first indexed by Google in January 2014",
+        "source_info_link": "https://juliwi.com/published/E0104/Paper0104_47-59.pdf",
+        "security": "secure"
+      }
+    },
+    "about_page_link": "https://www.google.com/search?q=About+https://juliwi.com/published/E0104/Paper0104_47-59.pdf&tbm=ilp&ilps=AB_Lh3qE7bZPJZMac4h8HHqvEpRS99xmkQ",
+    "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&ilps=AB_Lh3qE7bZPJZMac4h8HHqvEpRS99xmkQ&q=About+https%3A%2F%2Fjuliwi.com%2Fpublished%2FE0104%2FPaper0104_47-59.pdf",
+    "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:-WY21l4VstcJ:https://juliwi.com/published/E0104/Paper0104_47-59.pdf&cd=21&hl=en&ct=clnk&gl=us"
+  },
+  {
+    "position": 11,
+    "title": "MENGURANGI RESIKO KEBAKARAN DAN ... - BPBD",
+    "link": "https://bpbd.kulonprogokab.go.id/detil/49/mengurangi-resiko-kebakaran-dan-kebakaran-hutan",
+    "displayed_link": "https://bpbd.kulonprogokab.go.id › ...",
+    "snippet": "Media pemadaman : pasir dan alat pemadam kebakaran (APAR)atau racun api tepung ... Adapun kebakaran hutan di Indonesia merupakan kedua yang tersebar di Asia ...",
+    "snippet_highlighted_words": [
+      "kebakaran hutan",
+      "Indonesia"
+    ],
+    "about_this_result": {
+      "source": {
+        "description": "Kulon Progo Regency is one of the four regencies within the Yogyakarta Special Region, Indonesia. It is located on the island of Java. The regency's name stems from the fact that it is situated to the west of the Progo River. The capital is Wates. The greatest part of the population of the regency work as farmers.",
+        "source_info_link": "https://bpbd.kulonprogokab.go.id/detil/49/mengurangi-resiko-kebakaran-dan-kebakaran-hutan",
+        "security": "secure",
+        "icon": "https://serpapi.com/searches/63ec2cb42c084497608a71bc/images/c7d4185c0bb4457749fda288e7c1aab19d972b0674644729597ea187f5beb9bbb9e59bf549d3a1178f97239c899c3152e865c10da722e97f.jpeg"
+      }
+    },
+    "about_page_link": "https://www.google.com/search?q=About+https://bpbd.kulonprogokab.go.id/detil/49/mengurangi-resiko-kebakaran-dan-kebakaran-hutan&tbm=ilp&ilps=AB_Lh3qjaAUALpZMj4kDQ3WPcE8tUn1vig",
+    "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&ilps=AB_Lh3qjaAUALpZMj4kDQ3WPcE8tUn1vig&q=About+https%3A%2F%2Fbpbd.kulonprogokab.go.id%2Fdetil%2F49%2Fmengurangi-resiko-kebakaran-dan-kebakaran-hutan",
+    "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:UFbj8jzTVKEJ:https://bpbd.kulonprogokab.go.id/detil/49/mengurangi-resiko-kebakaran-dan-kebakaran-hutan&cd=22&hl=en&ct=clnk&gl=us"
+  },
+  {
+    "position": 12,
+    "title": "Yuk, Cegah Kebakaran Hutan dan Lahan... - DLHK DIY",
+    "link": "https://dlhk.jogjaprov.go.id/yuk-cegah-kebakaran-hutan-dan-lahan",
+    "displayed_link": "https://dlhk.jogjaprov.go.id › yuk-ce...",
+    "snippet": "Kebakaran hutan dan lahan adalah suatu peristiwa terbakarnya hutan atau lahan baik secara alami maupun oleh perbuatan manusia, sehingga mengakibatkan ...",
+    "snippet_highlighted_words": [
+      "Kebakaran hutan"
+    ],
+    "about_this_result": {
+      "source": {
+        "description": "The Special Region of Yogyakarta is a provincial-level autonomous region of Indonesia in southern Java.\nIt is bordered by the Indian Ocean to the south, as well as sharing all the land borders to the province of Central Java.",
+        "source_info_link": "https://dlhk.jogjaprov.go.id/yuk-cegah-kebakaran-hutan-dan-lahan",
+        "security": "secure",
+        "icon": "https://serpapi.com/searches/63ec2cb42c084497608a71bc/images/c7d4185c0bb4457749fda288e7c1aab1555d8be9e38527b62a826f6d2835ed3f7b856d78ca9a0407891c5dbb1dbf954f91506739ebef8ef1.png"
+      }
+    },
+    "about_page_link": "https://www.google.com/search?q=About+https://dlhk.jogjaprov.go.id/yuk-cegah-kebakaran-hutan-dan-lahan&tbm=ilp&ilps=AB_Lh3o0bjv4ZdYJxfXNYb_zQgG_FzhCuA",
+    "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&ilps=AB_Lh3o0bjv4ZdYJxfXNYb_zQgG_FzhCuA&q=About+https%3A%2F%2Fdlhk.jogjaprov.go.id%2Fyuk-cegah-kebakaran-hutan-dan-lahan",
+    "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:vzcPkkbWgLEJ:https://dlhk.jogjaprov.go.id/yuk-cegah-kebakaran-hutan-dan-lahan&cd=23&hl=en&ct=clnk&gl=us"
+  },
+  {
+    "position": 13,
+    "title": "Menggugat Kebakaran Hutan",
+    "link": "https://law.ui.ac.id/menggugat-kebakaran-hutan-2/",
+    "displayed_link": "https://law.ui.ac.id › menggugat-keba...",
+    "date": "Oct 7, 2022",
+    "snippet": "Tanggung jawab mutlak. Pembakar hutan di Indonesia dapat dimintai pertanggungjawaban dengan menggunakan doktrin perbuatan melawan hukum. Melalui ...",
+    "snippet_highlighted_words": [
+      "hutan",
+      "Indonesia"
+    ],
+    "about_this_result": {
+      "source": {
+        "description": "The University of Indonesia is a public university in Depok, West Java and Salemba, Jakarta, Indonesia.",
+        "source_info_link": "https://law.ui.ac.id/menggugat-kebakaran-hutan-2/",
+        "security": "secure",
+        "icon": "https://serpapi.com/searches/63ec2cb42c084497608a71bc/images/c7d4185c0bb4457749fda288e7c1aab1cf2cb213781d7e3195d6ecd60dcdcc0104bd66d78ed1a99da17dd16b7f3bc79ee4d433199cf74913.png"
+      }
+    },
+    "about_page_link": "https://www.google.com/search?q=About+https://law.ui.ac.id/menggugat-kebakaran-hutan-2/&tbm=ilp&ilps=AB_Lh3pRJ9qAnH-V1CSgUbol1cG8I4-QmA",
+    "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&ilps=AB_Lh3pRJ9qAnH-V1CSgUbol1cG8I4-QmA&q=About+https%3A%2F%2Flaw.ui.ac.id%2Fmenggugat-kebakaran-hutan-2%2F",
+    "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:lOyirO4eJqIJ:https://law.ui.ac.id/menggugat-kebakaran-hutan-2/&cd=24&hl=en&ct=clnk&gl=us"
+  },
+  {
+    "position": 14,
+    "title": "Indonesia berhasil tekan angka kebakaran hutan dalam ...",
+    "link": "https://kepri.antaranews.com/berita/138285/indonesia-berhasil-tekan-angka-kebakaran-hutan-dalam-tiga-tahun-terakhir",
+    "displayed_link": "https://kepri.antaranews.com › berita",
+    "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT2xATRzHNuSSiSTfXDGXqlrkT4kJrZO-K8TN1UCwePEYBG41I8PICh&usqp=CAE&s",
+    "date": "Nov 6, 2022",
+    "snippet": "Menteri Lingkungan Hidup dan Kehutanan Siti Nurbaya mengatakan Indonesia berhasil menekan angka kebakaran hutan dan lahan serta ...",
+    "snippet_highlighted_words": [
+      "Indonesia",
+      "kebakaran hutan"
+    ],
+    "about_this_result": {
+      "source": {
+        "description": "Antara is an Indonesian news agency organized as a statutory corporation. It is the country's national news agency, supplying news reports to many domestic media organizations. It is the only organization authorized to distribute news materials created by foreign news agencies.",
+        "source_info_link": "https://kepri.antaranews.com/berita/138285/indonesia-berhasil-tekan-angka-kebakaran-hutan-dalam-tiga-tahun-terakhir",
+        "security": "secure",
+        "icon": "https://serpapi.com/searches/63ec2cb42c084497608a71bc/images/c7d4185c0bb4457749fda288e7c1aab1d83c68c61accc5357cdedb1a32a27e00df50ad2a7155ddfd6740b6a75bfe6750a7a0ae0af68666db.png"
+      }
+    },
+    "about_page_link": "https://www.google.com/search?q=About+https://kepri.antaranews.com/berita/138285/indonesia-berhasil-tekan-angka-kebakaran-hutan-dalam-tiga-tahun-terakhir&tbm=ilp&ilps=AB_Lh3oY5YyT9F91ay1BBIAZrKv2M8fuEA",
+    "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&ilps=AB_Lh3oY5YyT9F91ay1BBIAZrKv2M8fuEA&q=About+https%3A%2F%2Fkepri.antaranews.com%2Fberita%2F138285%2Findonesia-berhasil-tekan-angka-kebakaran-hutan-dalam-tiga-tahun-terakhir",
+    "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:oRGILT7rNz0J:https://kepri.antaranews.com/berita/138285/indonesia-berhasil-tekan-angka-kebakaran-hutan-dalam-tiga-tahun-terakhir&cd=25&hl=en&ct=clnk&gl=us"
+  },
+  {
+    "position": 15,
+    "title": "Luas kebakaran hutan di Indonesia - Lokadata - Beritagar",
+    "link": "https://lokadata.beritagar.id/chart/preview/luas-kebakaran-hutan-di-indonesia-1483144854",
+    "displayed_link": "https://lokadata.beritagar.id › preview",
+    "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRNxv3FPzWCQ8OmiJ30RJAdRo7pWF-D77ZGKDZ4ZriULJ4VBF8x8CZZ&usqp=CAE&s",
+    "snippet": "Direktorat Pengendalian Kebakaran Hutan dan Lahan, Direktorat Jenderal Pengendalian Perubahan Iklim, Kementerian Lingkungan Hidup dan Kehutanan secara ...",
+    "snippet_highlighted_words": [
+      "Kebakaran Hutan"
+    ],
+    "about_this_result": {
+      "source": {
+        "description": "This result comes from lokadata.beritagar.id",
+        "source_info_link": "https://lokadata.beritagar.id/chart/preview/luas-kebakaran-hutan-di-indonesia-1483144854",
+        "security": "secure",
+        "icon": "https://serpapi.com/searches/63ec2cb42c084497608a71bc/images/c7d4185c0bb4457749fda288e7c1aab1dd7938625139c5af152a1a5f4127658acb222b9e48a206c2c26a72697a5f03e09b7c08c62186ad90.png"
+      }
+    },
+    "about_page_link": "https://www.google.com/search?q=About+https://lokadata.beritagar.id/chart/preview/luas-kebakaran-hutan-di-indonesia-1483144854&tbm=ilp&ilps=AB_Lh3orySkpEz3zia8JOtSGdZP6c64gzw",
+    "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&ilps=AB_Lh3orySkpEz3zia8JOtSGdZP6c64gzw&q=About+https%3A%2F%2Flokadata.beritagar.id%2Fchart%2Fpreview%2Fluas-kebakaran-hutan-di-indonesia-1483144854",
+    "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:A9v_o28YjPQJ:https://lokadata.beritagar.id/chart/preview/luas-kebakaran-hutan-di-indonesia-1483144854&cd=26&hl=en&ct=clnk&gl=us"
+  },
+  {
+    "position": 16,
+    "title": "16 Wilayah di Indonesia Berpotensi Terjadi Kebakaran Hutan ...",
+    "link": "https://bangda.kemendagri.go.id/berita/baca_kontent/203/16_wilayah_di_indonesia_berpotensi_terjadi_kebakaran_hutan_dan_lahan",
+    "displayed_link": "https://bangda.kemendagri.go.id › 16...",
+    "snippet": "Pada Juli lalu, musim panas terjadi di beberapa wilayah di Indonesia memberikan sinyal bagi provinsi-provinsi rawan Kebakaran Hutan dan Lahan (Karhutla) ...",
+    "snippet_highlighted_words": [
+      "Indonesia",
+      "Kebakaran Hutan"
+    ],
+    "about_this_result": {
+      "source": {
+        "description": "This result comes from bangda.kemendagri.go.id",
+        "source_info_link": "https://bangda.kemendagri.go.id/berita/baca_kontent/203/16_wilayah_di_indonesia_berpotensi_terjadi_kebakaran_hutan_dan_lahan",
+        "security": "secure",
+        "icon": "https://serpapi.com/searches/63ec2cb42c084497608a71bc/images/c7d4185c0bb4457749fda288e7c1aab1e156e3fbae2ebd0d613ea66d64e5910aea9dc8f9cab5501a913a6e20977fbcd837427955189ecead.jpeg"
+      }
+    },
+    "about_page_link": "https://www.google.com/search?q=About+https://bangda.kemendagri.go.id/berita/baca_kontent/203/16_wilayah_di_indonesia_berpotensi_terjadi_kebakaran_hutan_dan_lahan&tbm=ilp&ilps=AB_Lh3qKc7AcpOcAUvU33v0iEfYsnlmRug",
+    "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&ilps=AB_Lh3qKc7AcpOcAUvU33v0iEfYsnlmRug&q=About+https%3A%2F%2Fbangda.kemendagri.go.id%2Fberita%2Fbaca_kontent%2F203%2F16_wilayah_di_indonesia_berpotensi_terjadi_kebakaran_hutan_dan_lahan",
+    "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:LY9DR3y6YHUJ:https://bangda.kemendagri.go.id/berita/baca_kontent/203/16_wilayah_di_indonesia_berpotensi_terjadi_kebakaran_hutan_dan_lahan&cd=27&hl=en&ct=clnk&gl=us"
+  },
+  {
+    "position": 17,
+    "title": "pengendalian kebakaran hutan dan lahan berdasarkan",
+    "link": "https://kalteng.bpk.go.id/wp-content/uploads/2019/12/Tulisan-Hukum-Pengendalian-Kebakaran-Hutan-Lahan-Berdasarkan-Peraturan-Perundang-Undangan-NETT.pdf",
+    "displayed_link": "https://kalteng.bpk.go.id › uploads › 2019/12 › T...",
+    "snippet": "Sejak tahun 2014-2019, Indonesia mengalami karhutla setiap tahunnya. Berdasarkan data dari Kementerian Lingkungan Hidup dan Kehutanan. Republik Indonesia, ...",
+    "snippet_highlighted_words": [
+      "Indonesia",
+      "Indonesia"
+    ],
+    "about_this_result": {
+      "source": {
+        "description": "This result comes from kalteng.bpk.go.id",
+        "source_info_link": "https://kalteng.bpk.go.id/wp-content/uploads/2019/12/Tulisan-Hukum-Pengendalian-Kebakaran-Hutan-Lahan-Berdasarkan-Peraturan-Perundang-Undangan-NETT.pdf",
+        "security": "secure",
+        "icon": "https://serpapi.com/searches/63ec2cb42c084497608a71bc/images/c7d4185c0bb4457749fda288e7c1aab141fb3a47103a508b97602d8a81227c97a0448456280734ae34dc8d6834ebb7c5717cdb5bcb5b8a5b.png"
+      }
+    },
+    "about_page_link": "https://www.google.com/search?q=About+https://kalteng.bpk.go.id/wp-content/uploads/2019/12/Tulisan-Hukum-Pengendalian-Kebakaran-Hutan-Lahan-Berdasarkan-Peraturan-Perundang-Undangan-NETT.pdf&tbm=ilp&ilps=AB_Lh3qJ5olaP0tSKv-ll9rWR0zDfvD3Aw",
+    "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&ilps=AB_Lh3qJ5olaP0tSKv-ll9rWR0zDfvD3Aw&q=About+https%3A%2F%2Fkalteng.bpk.go.id%2Fwp-content%2Fuploads%2F2019%2F12%2FTulisan-Hukum-Pengendalian-Kebakaran-Hutan-Lahan-Berdasarkan-Peraturan-Perundang-Undangan-NETT.pdf",
+    "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:XHcOj3vEKS4J:https://kalteng.bpk.go.id/wp-content/uploads/2019/12/Tulisan-Hukum-Pengendalian-Kebakaran-Hutan-Lahan-Berdasarkan-Peraturan-Perundang-Undangan-NETT.pdf&cd=28&hl=en&ct=clnk&gl=us"
+  },
+  {
+    "position": 18,
+    "title": "Blog - Kebakaran Hutan Di Indonesia",
+    "link": "https://www.indolok.id/blog/Kebakaran-Hutan-di-Indonesia",
+    "displayed_link": "https://www.indolok.id › blog › Keb...",
+    "snippet": "Kebakaran hutan dan lahan di beberapa wilayah Indonesia menjadi perhatian dan harus diwaspadai terutama khususnya pada musim kemarau.",
+    "snippet_highlighted_words": [
+      "Kebakaran hutan",
+      "Indonesia"
+    ],
+    "about_this_result": {
+      "source": {
+        "description": "This result comes from www.indolok.id",
+        "source_info_link": "https://www.indolok.id/blog/Kebakaran-Hutan-di-Indonesia",
+        "security": "secure"
+      }
+    },
+    "about_page_link": "https://www.google.com/search?q=About+https://www.indolok.id/blog/Kebakaran-Hutan-di-Indonesia&tbm=ilp&ilps=AB_Lh3r9RWHyeLcn7qw2JsKSrvU2hk5Ajw",
+    "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&ilps=AB_Lh3r9RWHyeLcn7qw2JsKSrvU2hk5Ajw&q=About+https%3A%2F%2Fwww.indolok.id%2Fblog%2FKebakaran-Hutan-di-Indonesia",
+    "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:M1d0g4XJBToJ:https://www.indolok.id/blog/Kebakaran-Hutan-di-Indonesia&cd=29&hl=en&ct=clnk&gl=us"
+  },
+  {
+    "position": 19,
+    "title": "DIPLOMASI INDONESIA DAN MALAYSIA TERKAIT ...",
+    "link": "https://journal2.unfari.ac.id/index.php/globalmind/article/view/225",
+    "displayed_link": "https://journal2.unfari.ac.id › view",
+    "snippet": "Permasalahan kebakaran hutan dan lahan yang menyebabkan kabut asap mendapat perhatian khusus aktor internasional karena memiliki potensi melintasi batas ...",
+    "snippet_highlighted_words": [
+      "kebakaran hutan"
+    ],
+    "rich_snippet": {
+      "top": {
+        "extensions": [
+          "by T Finaldin",
+          "2021",
+          "Cited by 1 —"
+        ],
+        "detected_extensions": {
+          "unknown": 2021,
+          "cited_by": 1
+        }
+      }
+    },
+    "about_this_result": {
+      "source": {
+        "description": "This result comes from journal2.unfari.ac.id",
+        "source_info_link": "https://journal2.unfari.ac.id/index.php/globalmind/article/view/225",
+        "security": "secure",
+        "icon": "https://serpapi.com/searches/63ec2cb42c084497608a71bc/images/c7d4185c0bb4457749fda288e7c1aab196b6168511fa82384b479bca3fd36732fea88112fe7e9155b2cd23faee5b9a9dd2d30bfa9d2fd559.png"
+      }
+    },
+    "about_page_link": "https://www.google.com/search?q=About+https://journal2.unfari.ac.id/index.php/globalmind/article/view/225&tbm=ilp&ilps=AB_Lh3q0SXlaZG2cVUiDqh1_h_haZ8YJlQ",
+    "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&ilps=AB_Lh3q0SXlaZG2cVUiDqh1_h_haZ8YJlQ&q=About+https%3A%2F%2Fjournal2.unfari.ac.id%2Findex.php%2Fglobalmind%2Farticle%2Fview%2F225",
+    "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:pSzS5IXlzS4J:https://journal2.unfari.ac.id/index.php/globalmind/article/view/225&cd=30&hl=en&ct=clnk&gl=us"
+  },
+  {
+    "position": 20,
+    "title": "Luas Kebakaran Hutan dan Lahan RI Bertambah 19% pada ...",
+    "link": "https://databoks.katadata.co.id/datapublish/2022/01/11/luas-kebakaran-hutan-dan-lahan-ri-bertambah-19-pada-2021",
+    "displayed_link": "https://databoks.katadata.co.id › luas-...",
+    "date": "Jan 11, 2022",
+    "snippet": "Luas areal kebakaran hutan dan lahan (karhutla) di Indonesia sepanjang 2021 meningkat dibandingkan pada 2020. Berdasarkan data Kementerian ...",
+    "snippet_highlighted_words": [
+      "kebakaran hutan",
+      "Indonesia"
+    ],
+    "about_this_result": {
+      "source": {
+        "description": "This result comes from databoks.katadata.co.id",
+        "source_info_link": "https://databoks.katadata.co.id/datapublish/2022/01/11/luas-kebakaran-hutan-dan-lahan-ri-bertambah-19-pada-2021",
+        "security": "secure",
+        "icon": "https://serpapi.com/searches/63ec2cb42c084497608a71bc/images/c7d4185c0bb4457749fda288e7c1aab1d86a9d7a141e2e0b206806dee627cde2545f6c11f0cff0176c93c34ca25976802fcbff90f0293c80.png"
+      }
+    },
+    "about_page_link": "https://www.google.com/search?q=About+https://databoks.katadata.co.id/datapublish/2022/01/11/luas-kebakaran-hutan-dan-lahan-ri-bertambah-19-pada-2021&tbm=ilp&ilps=AB_Lh3qdVu66dV5wqvRJJ7PvLBoprqxpwQ",
+    "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&ilps=AB_Lh3qdVu66dV5wqvRJJ7PvLBoprqxpwQ&q=About+https%3A%2F%2Fdataboks.katadata.co.id%2Fdatapublish%2F2022%2F01%2F11%2Fluas-kebakaran-hutan-dan-lahan-ri-bertambah-19-pada-2021",
+    "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:ZK-vMy_a3lkJ:https://databoks.katadata.co.id/datapublish/2022/01/11/luas-kebakaran-hutan-dan-lahan-ri-bertambah-19-pada-2021&cd=31&hl=en&ct=clnk&gl=us"
+  },
+  {
+    "position": 21,
+    "title": "Mencegah Kebakaran Hutan dan Lahan Lebih Efisien ...",
+    "link": "https://ekon.go.id/publikasi/detail/1308/mencegah-kebakaran-hutan-dan-lahan-lebih-efisien-dengan-pendekatan-multi-stake-holders",
+    "displayed_link": "https://ekon.go.id › publikasi › detail",
+    "snippet": "KEMENTERIAN KOORDINATOR BIDANG PEREKONOMIAN. REPUBLIK INDONESIA. SIARAN PERS. Mencegah Kebakaran Hutan dan Lahan Lebih Efisien Dengan Pendekatan Multi-Stake ...",
+    "snippet_highlighted_words": [
+      "INDONESIA",
+      "Kebakaran Hutan"
+    ],
+    "about_this_result": {
+      "source": {
+        "description": "This result comes from ekon.go.id",
+        "source_info_link": "https://ekon.go.id/publikasi/detail/1308/mencegah-kebakaran-hutan-dan-lahan-lebih-efisien-dengan-pendekatan-multi-stake-holders",
+        "security": "secure",
+        "icon": "https://serpapi.com/searches/63ec2cb42c084497608a71bc/images/c7d4185c0bb4457749fda288e7c1aab149b59f345f8bb3975ffe0173492102311681873bb18748bb790f3bf2abb469157df0fda638cb205a.png"
+      }
+    },
+    "about_page_link": "https://www.google.com/search?q=About+https://ekon.go.id/publikasi/detail/1308/mencegah-kebakaran-hutan-dan-lahan-lebih-efisien-dengan-pendekatan-multi-stake-holders&tbm=ilp&ilps=AB_Lh3owow75aWtgqlFiutOr7MGgMN15qQ",
+    "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&ilps=AB_Lh3owow75aWtgqlFiutOr7MGgMN15qQ&q=About+https%3A%2F%2Fekon.go.id%2Fpublikasi%2Fdetail%2F1308%2Fmencegah-kebakaran-hutan-dan-lahan-lebih-efisien-dengan-pendekatan-multi-stake-holders",
+    "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:R3U86VfZUH4J:https://ekon.go.id/publikasi/detail/1308/mencegah-kebakaran-hutan-dan-lahan-lebih-efisien-dengan-pendekatan-multi-stake-holders&cd=32&hl=en&ct=clnk&gl=us"
+  },
+  {
+    "position": 22,
+    "title": "Kebakaran liar - Wikipedia bahasa Indonesia, ensiklopedia ...",
+    "link": "https://id.wikipedia.org/wiki/Kebakaran_liar",
+    "displayed_link": "https://id.wikipedia.org › wiki › Keb...",
+    "snippet": "Kebakaran hutan, kebakaran liar, atau kebakaran pedesaan adalah api yang tidak terkendali di daerah memiliki vegetasi yang mudah terbakar dan terjadi di ...",
+    "snippet_highlighted_words": [
+      "Kebakaran hutan"
+    ],
+    "about_this_result": {
+      "source": {
+        "description": "This result comes from id.wikipedia.org",
+        "source_info_link": "https://id.wikipedia.org/wiki/Kebakaran_liar",
+        "security": "secure",
+        "icon": "https://serpapi.com/searches/63ec2cb42c084497608a71bc/images/c7d4185c0bb4457749fda288e7c1aab195978e3946927ce48e9a31fadc332484116ae0ed28de61c1b82632728cc191e15edaff8167dd284b.png"
+      }
+    },
+    "about_page_link": "https://www.google.com/search?q=About+https://id.wikipedia.org/wiki/Kebakaran_liar&tbm=ilp&ilps=AB_Lh3qIutqAHotekkON6qa17PldLmkJig",
+    "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&ilps=AB_Lh3qIutqAHotekkON6qa17PldLmkJig&q=About+https%3A%2F%2Fid.wikipedia.org%2Fwiki%2FKebakaran_liar",
+    "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:sS-imXD5rTQJ:https://id.wikipedia.org/wiki/Kebakaran_liar&cd=33&hl=en&ct=clnk&gl=us",
+    "related_pages_link": "https://www.google.com/search?ucbcb=1&q=related:https://id.wikipedia.org/wiki/Kebakaran_liar+Kebakaran+Hutan+Indonesia"
+  },
+  {
+    "position": 23,
+    "title": "ANALISIS DAMPAK KEBAKARAN HUTAN DI INDONESIA ...",
+    "link": "http://ejournal.forda-mof.org/ejournal-litbang/index.php/JPSEK/article/view/2742",
+    "displayed_link": "http://ejournal.forda-mof.org › view",
+    "snippet": "ANALISIS DAMPAK KEBAKARAN HUTAN DI INDONESIA TERHADAP DISTRIBUSI PENDAPATAN MASYARAKAT. Nur Arifatul Ulya, Syafrul Yunardy. Abstract. Sejak kebakaran hutuan ...",
+    "snippet_highlighted_words": [
+      "KEBAKARAN HUTAN",
+      "INDONESIA"
+    ],
+    "rich_snippet": {
+      "top": {
+        "extensions": [
+          "by NA Ulya",
+          "2006",
+          "Cited by 10 —"
+        ],
+        "detected_extensions": {
+          "unknown": 2006,
+          "cited_by": 10
+        }
+      }
+    },
+    "about_this_result": {
+      "source": {
+        "description": "This result comes from ejournal.forda-mof.org",
+        "source_info_link": "http://ejournal.forda-mof.org/ejournal-litbang/index.php/JPSEK/article/view/2742",
+        "security": "not secure",
+        "icon": "https://serpapi.com/searches/63ec2cb42c084497608a71bc/images/c7d4185c0bb4457749fda288e7c1aab1cf1addd8398eca33e7abaeeb34925faaaa1901abd1249fe15c18ff1e11aca52fc30ebc565842a0c9.png"
+      }
+    },
+    "about_page_link": "https://www.google.com/search?q=About+http://ejournal.forda-mof.org/ejournal-litbang/index.php/JPSEK/article/view/2742&tbm=ilp&ilps=AB_Lh3pWOGge0yQLyKPRKlDXzpv8IIiIxA",
+    "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&ilps=AB_Lh3pWOGge0yQLyKPRKlDXzpv8IIiIxA&q=About+http%3A%2F%2Fejournal.forda-mof.org%2Fejournal-litbang%2Findex.php%2FJPSEK%2Farticle%2Fview%2F2742",
+    "cached_page_link": "http://webcache.googleusercontent.com/search?q=cache:wl4MJrgQMWIJ:ejournal.forda-mof.org/ejournal-litbang/index.php/JPSEK/article/view/2742&cd=34&hl=en&ct=clnk&gl=us"
+  },
+  {
+    "position": 24,
+    "title": "PERATURAN PEMERINTAH REPUBLIK INDONESIA NOMOR ...",
+    "link": "https://jdih.kemenkeu.go.id/fullText/2001/4TAHUN2001PP.htm",
+    "displayed_link": "https://jdih.kemenkeu.go.id › fullText",
+    "snippet": "bahwa kebakaran hutan dan atau lahan merupakan salah satu penyebab kerusakan dan atau pencemaran lingkungan hidup, baik berasal dari lokasi usaha dan atau ...",
+    "snippet_highlighted_words": [
+      "kebakaran hutan"
+    ],
+    "about_this_result": {
+      "source": {
+        "description": "This result comes from jdih.kemenkeu.go.id",
+        "source_info_link": "https://jdih.kemenkeu.go.id/fullText/2001/4TAHUN2001PP.htm",
+        "security": "secure",
+        "icon": "https://serpapi.com/searches/63ec2cb42c084497608a71bc/images/c7d4185c0bb4457749fda288e7c1aab1e83dc3cec21a75e719f2e73366de133126390af38a6308b285158140aae8365c184a7449e736773f.png"
+      }
+    },
+    "about_page_link": "https://www.google.com/search?q=About+https://jdih.kemenkeu.go.id/fullText/2001/4TAHUN2001PP.htm&tbm=ilp&ilps=AB_Lh3riIlWCULicKsKG2eUMNybUlRg-tQ",
+    "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&ilps=AB_Lh3riIlWCULicKsKG2eUMNybUlRg-tQ&q=About+https%3A%2F%2Fjdih.kemenkeu.go.id%2FfullText%2F2001%2F4TAHUN2001PP.htm",
+    "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:yOac-1nrs78J:https://jdih.kemenkeu.go.id/fullText/2001/4TAHUN2001PP.htm&cd=35&hl=en&ct=clnk&gl=us"
+  },
+  {
+    "position": 25,
+    "title": "Analisis Dampak Kasus Kebakaran Hutan di Indonesia ...",
+    "link": "https://jurnal.unigo.ac.id/index.php/gjgops/article/view/1123",
+    "displayed_link": "https://jurnal.unigo.ac.id › view",
+    "snippet": "Penelitian ini bertujuan untuk menganalisis dampak yang timbul dari kasus karhutla (Kebakaran Hutan dan Lahan) di Indonesia terhadap hubungan diplomatik ...",
+    "snippet_highlighted_words": [
+      "Kebakaran Hutan",
+      "Indonesia"
+    ],
+    "rich_snippet": {
+      "top": {
+        "extensions": [
+          "by N Bilqis",
+          "2020",
+          "Cited by 3 —"
+        ],
+        "detected_extensions": {
+          "unknown": 2020,
+          "cited_by": 3
+        }
+      }
+    },
+    "about_this_result": {
+      "source": {
+        "description": "This result comes from jurnal.unigo.ac.id",
+        "source_info_link": "https://jurnal.unigo.ac.id/index.php/gjgops/article/view/1123",
+        "security": "secure",
+        "icon": "https://serpapi.com/searches/63ec2cb42c084497608a71bc/images/c7d4185c0bb4457749fda288e7c1aab15cb12f667b9a6853887ce773537cbbecf8d879d2b424587c0f601b1fbbbbbf1a8ef29d08d80ff755.png"
+      }
+    },
+    "about_page_link": "https://www.google.com/search?q=About+https://jurnal.unigo.ac.id/index.php/gjgops/article/view/1123&tbm=ilp&ilps=AB_Lh3p49jTzrRdhPhEptO6NnS2P-hWxQw",
+    "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&ilps=AB_Lh3p49jTzrRdhPhEptO6NnS2P-hWxQw&q=About+https%3A%2F%2Fjurnal.unigo.ac.id%2Findex.php%2Fgjgops%2Farticle%2Fview%2F1123",
+    "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:O6ZUFL-KDkQJ:https://jurnal.unigo.ac.id/index.php/gjgops/article/view/1123&cd=36&hl=en&ct=clnk&gl=us"
+  },
+  {
+    "position": 26,
+    "title": "Modul Sekolah Lapang Pencegahan Kebakaran Hutan dan ...",
+    "link": "http://arthawisesa.com/cybexluhut/index.php/katalog/c/129/Modul-Sekolah-Lapang-Pencegahan-Kebakaran-Hutan-dan-Lahan/",
+    "displayed_link": "http://arthawisesa.com › katalog › M...",
+    "snippet": "Kebakaran hutan dan lahan menjadi permasalahan serius dalam. pembangunan lingkungan di Indonesia. Dampak negatif kebakaran. hutan dan lahan bukan saja ...",
+    "snippet_highlighted_words": [
+      "Kebakaran hutan",
+      "Indonesia"
+    ],
+    "about_this_result": {
+      "source": {
+        "description": "This result comes from arthawisesa.com",
+        "source_info_link": "http://arthawisesa.com/cybexluhut/index.php/katalog/c/129/Modul-Sekolah-Lapang-Pencegahan-Kebakaran-Hutan-dan-Lahan/",
+        "security": "not secure"
+      }
+    },
+    "about_page_link": "https://www.google.com/search?q=About+http://arthawisesa.com/cybexluhut/index.php/katalog/c/129/Modul-Sekolah-Lapang-Pencegahan-Kebakaran-Hutan-dan-Lahan/&tbm=ilp&ilps=AB_Lh3rTCuMVUYKj8KCQseWPBP7N1ptD5A",
+    "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&ilps=AB_Lh3rTCuMVUYKj8KCQseWPBP7N1ptD5A&q=About+http%3A%2F%2Farthawisesa.com%2Fcybexluhut%2Findex.php%2Fkatalog%2Fc%2F129%2FModul-Sekolah-Lapang-Pencegahan-Kebakaran-Hutan-dan-Lahan%2F",
+    "cached_page_link": "http://webcache.googleusercontent.com/search?q=cache:ZttorT8YtB8J:arthawisesa.com/cybexluhut/index.php/katalog/c/129/Modul-Sekolah-Lapang-Pencegahan-Kebakaran-Hutan-dan-Lahan/&cd=37&hl=en&ct=clnk&gl=us"
+  },
+  {
+    "position": 27,
+    "title": "Faktor-Faktor Yang Mempengaruhi Kebakaran Hutan Di ...",
+    "link": "https://jurnal.fp.unila.ac.id/index.php/JHT/article/view/629",
+    "displayed_link": "https://jurnal.fp.unila.ac.id › view",
+    "snippet": "This study aims to determine the factors that affect the extent of forest and peat fires in Indonesia. The analysis of forest fires was carried out on three ...",
+    "snippet_highlighted_words": [
+      "Indonesia"
+    ],
+    "rich_snippet": {
+      "top": {
+        "extensions": [
+          "by SA Cahyono",
+          "2015",
+          "Cited by 67 —"
+        ],
+        "detected_extensions": {
+          "unknown": 2015,
+          "cited_by": 67
+        }
+      }
+    },
+    "about_this_result": {
+      "source": {
+        "description": "This result comes from jurnal.fp.unila.ac.id",
+        "source_info_link": "https://jurnal.fp.unila.ac.id/index.php/JHT/article/view/629",
+        "security": "secure",
+        "icon": "https://serpapi.com/searches/63ec2cb42c084497608a71bc/images/c7d4185c0bb4457749fda288e7c1aab169fca7614091ac0a57fbfe590d29d79e586a79028234b1fd2e936023db4b7db3c879b63277b64e2b.png"
+      }
+    },
+    "about_page_link": "https://www.google.com/search?q=About+https://jurnal.fp.unila.ac.id/index.php/JHT/article/view/629&tbm=ilp&ilps=AB_Lh3pMEfrbIIoyUpQ7HYQov1KwhMuGmQ",
+    "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&ilps=AB_Lh3pMEfrbIIoyUpQ7HYQov1KwhMuGmQ&q=About+https%3A%2F%2Fjurnal.fp.unila.ac.id%2Findex.php%2FJHT%2Farticle%2Fview%2F629",
+    "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:PDU20auf6-IJ:https://jurnal.fp.unila.ac.id/index.php/JHT/article/view/629&cd=38&hl=en&ct=clnk&gl=us"
+  },
+  {
+    "position": 28,
+    "title": "Kaltim Akan Kembangkan Kebijakan Mengatasi Kebakaran ...",
+    "link": "https://disbun.kaltimprov.go.id/artikel/kaltim-akan-kembangkan-kebijakan-mengatasi-kebakaran-hutan-dan-lahan",
+    "displayed_link": "https://disbun.kaltimprov.go.id › kalt...",
+    "snippet": "Kaltim Akan Kembangkan Kebijakan Mengatasi Kebakaran Hutan dan Lahan. ... Malaysia Respon Penaikan BK CPO Indonesia 05 Februari 2012 1360",
+    "snippet_highlighted_words": [
+      "Kebakaran Hutan",
+      "Indonesia"
+    ],
+    "about_this_result": {
+      "source": {
+        "description": "This result comes from disbun.kaltimprov.go.id",
+        "source_info_link": "https://disbun.kaltimprov.go.id/artikel/kaltim-akan-kembangkan-kebijakan-mengatasi-kebakaran-hutan-dan-lahan",
+        "security": "secure",
+        "icon": "https://serpapi.com/searches/63ec2cb42c084497608a71bc/images/c7d4185c0bb4457749fda288e7c1aab12afe52fec3e070c2ef9d840e791ee1d2282d6af16e5f87193aadd2b59a1aabe54945249fd047b36c.png"
+      }
+    },
+    "about_page_link": "https://www.google.com/search?q=About+https://disbun.kaltimprov.go.id/artikel/kaltim-akan-kembangkan-kebijakan-mengatasi-kebakaran-hutan-dan-lahan&tbm=ilp&ilps=AB_Lh3oEc2zDiT01WXuKdtDFIxNiMW6a3Q",
+    "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&ilps=AB_Lh3oEc2zDiT01WXuKdtDFIxNiMW6a3Q&q=About+https%3A%2F%2Fdisbun.kaltimprov.go.id%2Fartikel%2Fkaltim-akan-kembangkan-kebijakan-mengatasi-kebakaran-hutan-dan-lahan",
+    "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:rrx8M1TNn3YJ:https://disbun.kaltimprov.go.id/artikel/kaltim-akan-kembangkan-kebijakan-mengatasi-kebakaran-hutan-dan-lahan&cd=39&hl=en&ct=clnk&gl=us"
+  },
+  {
+    "position": 29,
+    "title": "Pemerintah Siapkan Antisipasi Peningkatan Risiko ...",
+    "link": "https://nasional.kontan.co.id/news/pemerintah-siapkan-antisipasi-peningkatan-risiko-kekeringan-dan-kebakaran-hutan-2023",
+    "displayed_link": "https://nasional.kontan.co.id › news",
+    "date": "Jan 29, 2023",
+    "snippet": "Peningkatan kekeringan tersebut, apabila terjadi dalam waktu berkepanjangan dapat berpotensi menimbulkan terjadinya kebakaran hutan di Indonesia ...",
+    "snippet_highlighted_words": [
+      "kebakaran hutan",
+      "Indonesia"
+    ],
+    "about_this_result": {
+      "source": {
+        "description": "This result comes from nasional.kontan.co.id",
+        "source_info_link": "https://nasional.kontan.co.id/news/pemerintah-siapkan-antisipasi-peningkatan-risiko-kekeringan-dan-kebakaran-hutan-2023",
+        "security": "secure",
+        "icon": "https://serpapi.com/searches/63ec2cb42c084497608a71bc/images/c7d4185c0bb4457749fda288e7c1aab13172f9dac80379694c63537acba0a6666f69fb399116dcaa4a993b8ffe1d7674000fd72d28ed76b9.png"
+      }
+    },
+    "about_page_link": "https://www.google.com/search?q=About+https://nasional.kontan.co.id/news/pemerintah-siapkan-antisipasi-peningkatan-risiko-kekeringan-dan-kebakaran-hutan-2023&tbm=ilp&ilps=AB_Lh3rXaSfrlo0ZyetZxJP62qQSMBjSJw",
+    "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&ilps=AB_Lh3rXaSfrlo0ZyetZxJP62qQSMBjSJw&q=About+https%3A%2F%2Fnasional.kontan.co.id%2Fnews%2Fpemerintah-siapkan-antisipasi-peningkatan-risiko-kekeringan-dan-kebakaran-hutan-2023",
+    "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:MepBdzI4xJ4J:https://nasional.kontan.co.id/news/pemerintah-siapkan-antisipasi-peningkatan-risiko-kekeringan-dan-kebakaran-hutan-2023&cd=40&hl=en&ct=clnk&gl=us"
+  },
+  {
+    "position": 30,
+    "title": "Kebakaran Hutan & Lahan, 2016-2017 - BPS Provinsi Riau",
+    "link": "https://riau.bps.go.id/indicator/27/106/1/kebakaran-hutan-lahan.html",
+    "displayed_link": "https://riau.bps.go.id › indicator › ke...",
+    "about_this_result": {
+      "source": {
+        "description": "This result comes from riau.bps.go.id",
+        "source_info_link": "https://riau.bps.go.id/indicator/27/106/1/kebakaran-hutan-lahan.html",
+        "security": "secure",
+        "icon": "https://serpapi.com/searches/63ec2cb42c084497608a71bc/images/c7d4185c0bb4457749fda288e7c1aab1541120ab2dde2ef0cfed325ded88224d917ae96ea1a09b90408ec7d35924439eddb732ee1022984c.png"
+      }
+    },
+    "about_page_link": "https://www.google.com/search?q=About+https://riau.bps.go.id/indicator/27/106/1/kebakaran-hutan-lahan.html&tbm=ilp&ilps=AB_Lh3qSzj96j2kdDxonXaBMOh2gmiVHrQ",
+    "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&ilps=AB_Lh3qSzj96j2kdDxonXaBMOh2gmiVHrQ&q=About+https%3A%2F%2Friau.bps.go.id%2Findicator%2F27%2F106%2F1%2Fkebakaran-hutan-lahan.html",
+    "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:Sa6HCZEkRkAJ:https://riau.bps.go.id/indicator/27/106/1/kebakaran-hutan-lahan.html&cd=41&hl=en&ct=clnk&gl=us",
+    "rich_snippet_table": [
+      {
+        "2016": "0,00",
+        "2017": "3,00",
+        "kabupaten_kota": "Kuantan Singingi"
+      },
+      {
+        "2016": "5,00",
+        "2017": "8,00",
+        "kabupaten_kota": "Indragiri Hulu"
+      },
+      {
+        "2016": "2,00",
+        "2017": "5,00",
+        "kabupaten_kota": "Indragiri Hilir"
+      }
+    ]
+  },
+  {
+    "position": 31,
+    "title": "TANGGUNGJAWAB NEGARA TERHADAP KEBAKARAN ...",
+    "link": "https://ojs.unimal.ac.id/suloh/article/view/2034",
+    "displayed_link": "https://ojs.unimal.ac.id › article › view",
+    "snippet": "Kebakaran hutan di Indonesia semakin kian parah, Kerugian yang dialami negara lain sebagai akibat kebakaran hutan membuat konsep pertanggungjawaban negara yang ...",
+    "snippet_highlighted_words": [
+      "Kebakaran hutan",
+      "Indonesia",
+      "kebakaran hutan"
+    ],
+    "rich_snippet": {
+      "top": {
+        "extensions": [
+          "by S Fadli",
+          "2019",
+          "Cited by 9 —"
+        ],
+        "detected_extensions": {
+          "unknown": 2019,
+          "cited_by": 9
+        }
+      }
+    },
+    "about_this_result": {
+      "source": {
+        "description": "This result comes from ojs.unimal.ac.id",
+        "source_info_link": "https://ojs.unimal.ac.id/suloh/article/view/2034",
+        "security": "secure",
+        "icon": "https://serpapi.com/searches/63ec2cb42c084497608a71bc/images/c7d4185c0bb4457749fda288e7c1aab14aa898870f941b3d015865da79999921bc9ec546d41df32c197022312bf1ebc04d53e5226cf7759b.png"
+      }
+    },
+    "about_page_link": "https://www.google.com/search?q=About+https://ojs.unimal.ac.id/suloh/article/view/2034&tbm=ilp&ilps=AB_Lh3rm6gnkTx1uY1OF5ddnPp7Djf0N4A",
+    "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&ilps=AB_Lh3rm6gnkTx1uY1OF5ddnPp7Djf0N4A&q=About+https%3A%2F%2Fojs.unimal.ac.id%2Fsuloh%2Farticle%2Fview%2F2034",
+    "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:0-XZnLuSSOIJ:https://ojs.unimal.ac.id/suloh/article/view/2034&cd=42&hl=en&ct=clnk&gl=us"
+  },
+  {
+    "position": 32,
+    "title": "Kebakaran Hutan dan Lahan di Kawasan Gunung Bromo",
+    "link": "https://bpbd.probolinggokab.go.id/berita/kebakaran-hutan-dan-lahan-di-kawasan-gunung-bromo",
+    "displayed_link": "https://bpbd.probolinggokab.go.id › ...",
+    "snippet": "PROBOLINGGO – Berdasarkan informasi dan laporan dari Taman Nasional Bromo Tengger Semeru bahwa telah terjadi kebakaran lahan di Kawasan Gunung Bromo pada hari ...",
+    "snippet_highlighted_words": [
+      "kebakaran"
+    ],
+    "about_this_result": {
+      "source": {
+        "description": "This result comes from bpbd.probolinggokab.go.id",
+        "source_info_link": "https://bpbd.probolinggokab.go.id/berita/kebakaran-hutan-dan-lahan-di-kawasan-gunung-bromo",
+        "security": "secure",
+        "icon": "https://serpapi.com/searches/63ec2cb42c084497608a71bc/images/c7d4185c0bb4457749fda288e7c1aab174d512cc72926c5b44e7582c3e637f35158509278b31508d67aa0813f333dedfa9138359cdc95083.png"
+      }
+    },
+    "about_page_link": "https://www.google.com/search?q=About+https://bpbd.probolinggokab.go.id/berita/kebakaran-hutan-dan-lahan-di-kawasan-gunung-bromo&tbm=ilp&ilps=AB_Lh3q2AlV3jGLIhjJ2Sksq_4FEcLoxNw",
+    "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&ilps=AB_Lh3q2AlV3jGLIhjJ2Sksq_4FEcLoxNw&q=About+https%3A%2F%2Fbpbd.probolinggokab.go.id%2Fberita%2Fkebakaran-hutan-dan-lahan-di-kawasan-gunung-bromo",
+    "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:G6ligmFiTaUJ:https://bpbd.probolinggokab.go.id/berita/kebakaran-hutan-dan-lahan-di-kawasan-gunung-bromo&cd=43&hl=en&ct=clnk&gl=us"
+  },
+  {
+    "position": 33,
+    "title": "Kebakaran hutan di Indonesia: banyak pelanggaran hukum ...",
+    "link": "https://www.youtube.com/watch?v=-fnRBpS8Mz8",
+    "displayed_link": "https://www.youtube.com › watch",
+    "thumbnail": "https://i.ytimg.com/vi/-fnRBpS8Mz8/mqdefault.jpg?sqp=-oaymwEFCLIBEGQ&rs=AMzJL3lGqljZRW2QR61XazGsHXlMk8sn6Q",
+    "snippet": "Indonesia bermaksud mengurangi emisi dari kebakaran hutan dan lahan hingga 80% dibandingkan pada 2015. Rencana ini bagian dari target ...",
+    "rich_snippet": {
+      "top": {
+        "extensions": [
+          "YouTube",
+          "The Conversation Indonesia",
+          "Nov 25, 2022"
+        ],
+        "detected_extensions": {
+          "nov": 25
+        }
+      }
+    },
+    "about_this_result": {
+      "source": {
+        "description": "YouTube is a global online video sharing and social media platform headquartered in San Bruno, California. It was launched on February 14, 2005, by Steve Chen, Chad Hurley, and Jawed Karim. It is owned by Google, and is the second most visited website, after Google Search.",
+        "source_info_link": "https://www.youtube.com/watch?v=-fnRBpS8Mz8",
+        "security": "secure",
+        "icon": "https://serpapi.com/searches/63ec2cb42c084497608a71bc/images/c7d4185c0bb4457749fda288e7c1aab1cef6bd18b03c4bbcbbdd7729ba0a44d630653d02affbdd7da8180a19bc3e2160d9ea4d24d420dda2.png"
+      }
+    },
+    "about_page_link": "https://www.google.com/search?q=About+https://www.youtube.com/watch?v%3D-fnRBpS8Mz8&tbm=ilp&ilps=AB_Lh3rmH9UEHVNLWZ1Z03hOZEeE2rgAEg",
+    "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&ilps=AB_Lh3rmH9UEHVNLWZ1Z03hOZEeE2rgAEg&q=About+https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3D-fnRBpS8Mz8"
+  },
+  {
+    "position": 34,
+    "title": "BAHAYA KEBAKARAN HUTAN DAN LAHAN",
+    "link": "https://bpbd.tebokab.go.id/bahaya-kebakaran-hutan-dan-lahan/",
+    "displayed_link": "https://bpbd.tebokab.go.id › bahaya-...",
+    "date": "Jul 14, 2020",
+    "snippet": "7 Dampak Kebakaran Hutan Bagi Kesehatan Manusia, Perlu Diwaspadai ... BPBD KABUPATEN TEBO – Dahulu Indonesia sering disebut sebagai paru-paru ...",
+    "snippet_highlighted_words": [
+      "Kebakaran Hutan",
+      "Indonesia"
+    ],
+    "about_this_result": {
+      "source": {
+        "description": "This result comes from bpbd.tebokab.go.id",
+        "source_info_link": "https://bpbd.tebokab.go.id/bahaya-kebakaran-hutan-dan-lahan/",
+        "security": "secure"
+      }
+    },
+    "about_page_link": "https://www.google.com/search?q=About+https://bpbd.tebokab.go.id/bahaya-kebakaran-hutan-dan-lahan/&tbm=ilp&ilps=AB_Lh3reFB7ANaqU64SjXfXlFSY4LNT7pA",
+    "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&ilps=AB_Lh3reFB7ANaqU64SjXfXlFSY4LNT7pA&q=About+https%3A%2F%2Fbpbd.tebokab.go.id%2Fbahaya-kebakaran-hutan-dan-lahan%2F",
+    "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:oN6ogyF1xXAJ:https://bpbd.tebokab.go.id/bahaya-kebakaran-hutan-dan-lahan/&cd=45&hl=en&ct=clnk&gl=us"
+  },
+  {
+    "position": 35,
+    "title": "Fenomena Kebakaran Hutan Kalimantan dalam Kacamata ...",
+    "link": "https://sebijak.fkt.ugm.ac.id/2021/03/02/fenomena-kebakaran-hutan-kalimantan-dalam-kacamata-ekologi-politik/",
+    "displayed_link": "https://sebijak.fkt.ugm.ac.id › fenom...",
+    "date": "Mar 2, 2021",
+    "snippet": "Kejadian itu tersebar di berbagai wilayah di Indonesia seperti 9 di Sumatera Utara, 29 di Riau, 52 di Kalimantan Barat, 12 di Kalimantan Tengah, ...",
+    "snippet_highlighted_words": [
+      "Indonesia"
+    ],
+    "about_this_result": {
+      "source": {
+        "description": "This result comes from sebijak.fkt.ugm.ac.id",
+        "source_info_link": "https://sebijak.fkt.ugm.ac.id/2021/03/02/fenomena-kebakaran-hutan-kalimantan-dalam-kacamata-ekologi-politik/",
+        "security": "secure"
+      }
+    },
+    "about_page_link": "https://www.google.com/search?q=About+https://sebijak.fkt.ugm.ac.id/2021/03/02/fenomena-kebakaran-hutan-kalimantan-dalam-kacamata-ekologi-politik/&tbm=ilp&ilps=AB_Lh3o23BLEqMhKF01ml0tQ_5O6X320Yg",
+    "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&ilps=AB_Lh3o23BLEqMhKF01ml0tQ_5O6X320Yg&q=About+https%3A%2F%2Fsebijak.fkt.ugm.ac.id%2F2021%2F03%2F02%2Ffenomena-kebakaran-hutan-kalimantan-dalam-kacamata-ekologi-politik%2F",
+    "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:7oEtaYcyc_AJ:https://sebijak.fkt.ugm.ac.id/2021/03/02/fenomena-kebakaran-hutan-kalimantan-dalam-kacamata-ekologi-politik/&cd=46&hl=en&ct=clnk&gl=us"
+  },
+  {
+    "position": 36,
+    "title": "Luas Kebakaran Hutan dan Lahan di Indonesia Kembali ...",
+    "link": "https://goodstats.id/article/luas-kebakaran-hutan-dan-lahan-di-indonesia-kembali-menurun-pada-tahun-2022-XahGj",
+    "displayed_link": "https://goodstats.id › Nasional",
+    "date": "Jan 15, 2023",
+    "snippet": "Menurut data KLHK, terdapat penurunan sekitar 43 persen atau sebesar 152.797 hektare luas hutan dan lahan yang terbakar di tahun ini.",
+    "snippet_highlighted_words": [
+      "hutan",
+      "terbakar"
+    ],
+    "about_this_result": {
+      "source": {
+        "description": "This result comes from goodstats.id",
+        "source_info_link": "https://goodstats.id/article/luas-kebakaran-hutan-dan-lahan-di-indonesia-kembali-menurun-pada-tahun-2022-XahGj",
+        "security": "secure",
+        "icon": "https://serpapi.com/searches/63ec2cb42c084497608a71bc/images/c7d4185c0bb4457749fda288e7c1aab1abe60c5214275b519afcb28c19983112c1be1e17979e404b6e0f67755e444f83085d78dea955bdcb.png"
+      }
+    },
+    "about_page_link": "https://www.google.com/search?q=About+https://goodstats.id/article/luas-kebakaran-hutan-dan-lahan-di-indonesia-kembali-menurun-pada-tahun-2022-XahGj&tbm=ilp&ilps=AB_Lh3oJfIPNHXhynUCwKCiz1qclLw8V7w",
+    "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&ilps=AB_Lh3oJfIPNHXhynUCwKCiz1qclLw8V7w&q=About+https%3A%2F%2Fgoodstats.id%2Farticle%2Fluas-kebakaran-hutan-dan-lahan-di-indonesia-kembali-menurun-pada-tahun-2022-XahGj",
+    "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:BLNUhw7BNzEJ:https://goodstats.id/article/luas-kebakaran-hutan-dan-lahan-di-indonesia-kembali-menurun-pada-tahun-2022-XahGj&cd=47&hl=en&ct=clnk&gl=us"
+  },
+  {
+    "position": 37,
+    "title": "Presiden Jokowi: Penyelesaian Persoalan Kebakaran Hutan ...",
+    "link": "https://www.setneg.go.id/baca/index/presiden_jokowi_penyelesaian_persoalan_kebakaran_hutan_soal_kemauan",
+    "displayed_link": "https://www.setneg.go.id › index › pr...",
+    "snippet": "Presiden Jokowi: Penyelesaian Persoalan Kebakaran Hutan Soal Kemauan. bagikan berita ke : Selasa, 20 Januari 2015. Di ...",
+    "snippet_highlighted_words": [
+      "Kebakaran Hutan"
+    ],
+    "about_this_result": {
+      "source": {
+        "description": "This result comes from www.setneg.go.id",
+        "source_info_link": "https://www.setneg.go.id/baca/index/presiden_jokowi_penyelesaian_persoalan_kebakaran_hutan_soal_kemauan",
+        "security": "secure",
+        "icon": "https://serpapi.com/searches/63ec2cb42c084497608a71bc/images/c7d4185c0bb4457749fda288e7c1aab118f51c07ec006fa9860fcd5e8993d467f3b803bfb54a5ffd728da0f97d4ab42f4c0500113cd28994.png"
+      }
+    },
+    "about_page_link": "https://www.google.com/search?q=About+https://www.setneg.go.id/baca/index/presiden_jokowi_penyelesaian_persoalan_kebakaran_hutan_soal_kemauan&tbm=ilp&ilps=AB_Lh3osUr2oWrraaA0zv4PFPrxP0Dzx-A",
+    "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&ilps=AB_Lh3osUr2oWrraaA0zv4PFPrxP0Dzx-A&q=About+https%3A%2F%2Fwww.setneg.go.id%2Fbaca%2Findex%2Fpresiden_jokowi_penyelesaian_persoalan_kebakaran_hutan_soal_kemauan",
+    "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:8kqGrYKyRYkJ:https://www.setneg.go.id/baca/index/presiden_jokowi_penyelesaian_persoalan_kebakaran_hutan_soal_kemauan&cd=48&hl=en&ct=clnk&gl=us"
+  },
+  {
+    "position": 38,
+    "title": "DASAR PERATURAN ANTISIPASI KEBAKARAN HUTAN ...",
+    "link": "https://jdih.kaltaraprov.go.id/berita/detail/82-dasar-peraturan-antisipasi-kebakaran-hutan-atau-lahan",
+    "displayed_link": "https://jdih.kaltaraprov.go.id › detail",
+    "snippet": "DASAR PERATURAN ANTISIPASI KEBAKARAN HUTAN ATAU LAHAN ... Membuka lahan dengan cara membakar hutan merupakan hal yang secara tegas dilarang dalam ...",
+    "snippet_highlighted_words": [
+      "KEBAKARAN HUTAN"
+    ],
+    "about_this_result": {
+      "source": {
+        "description": "This result comes from jdih.kaltaraprov.go.id",
+        "source_info_link": "https://jdih.kaltaraprov.go.id/berita/detail/82-dasar-peraturan-antisipasi-kebakaran-hutan-atau-lahan",
+        "security": "secure",
+        "icon": "https://serpapi.com/searches/63ec2cb42c084497608a71bc/images/c7d4185c0bb4457749fda288e7c1aab11376f3b25ed86763e647530349304fc08f6ca7461745ca2301fcfd446b7ea023a621ac92217bdead.png"
+      }
+    },
+    "about_page_link": "https://www.google.com/search?q=About+https://jdih.kaltaraprov.go.id/berita/detail/82-dasar-peraturan-antisipasi-kebakaran-hutan-atau-lahan&tbm=ilp&ilps=AB_Lh3p2XAIP40uIX8myI4cmexGpXCjZqQ",
+    "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&ilps=AB_Lh3p2XAIP40uIX8myI4cmexGpXCjZqQ&q=About+https%3A%2F%2Fjdih.kaltaraprov.go.id%2Fberita%2Fdetail%2F82-dasar-peraturan-antisipasi-kebakaran-hutan-atau-lahan",
+    "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:NBwZxKQ8VXsJ:https://jdih.kaltaraprov.go.id/berita/detail/82-dasar-peraturan-antisipasi-kebakaran-hutan-atau-lahan&cd=49&hl=en&ct=clnk&gl=us"
+  },
+  {
+    "position": 39,
+    "title": "Dapatkah kebakaran hutan di Indonesia diakhiri? - BBC",
+    "link": "https://www.bbc.com/indonesia/berita_indonesia/2016/03/160314_indonesia_kebakaran_hutan_2016",
+    "displayed_link": "https://www.bbc.com › 2016/03 › 16...",
+    "date": "Mar 15, 2016",
+    "snippet": "Kebakaran hutan dan lahan di Indonesia tahun lalu merupakan salah satu yang terparah sepanjang sejarah. Namun, hanya dalam hitungan bulan, ...",
+    "snippet_highlighted_words": [
+      "Kebakaran hutan",
+      "Indonesia"
+    ],
+    "about_this_result": {
+      "source": {
+        "description": "This result comes from www.bbc.com",
+        "source_info_link": "https://www.bbc.com/indonesia/berita_indonesia/2016/03/160314_indonesia_kebakaran_hutan_2016",
+        "security": "secure",
+        "icon": "https://serpapi.com/searches/63ec2cb42c084497608a71bc/images/c7d4185c0bb4457749fda288e7c1aab166722a6b5d9ccb194250a561976afa76529ac3fdccaad235323049edb2317c4c17217a029386a40b.png"
+      }
+    },
+    "about_page_link": "https://www.google.com/search?q=About+https://www.bbc.com/indonesia/berita_indonesia/2016/03/160314_indonesia_kebakaran_hutan_2016&tbm=ilp&ilps=AB_Lh3oBbqOI3mvqLzbIyGJA8qYTJCnD9w",
+    "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&ilps=AB_Lh3oBbqOI3mvqLzbIyGJA8qYTJCnD9w&q=About+https%3A%2F%2Fwww.bbc.com%2Findonesia%2Fberita_indonesia%2F2016%2F03%2F160314_indonesia_kebakaran_hutan_2016",
+    "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:I2xoyXFHpLwJ:https://www.bbc.com/indonesia/berita_indonesia/2016/03/160314_indonesia_kebakaran_hutan_2016&cd=50&hl=en&ct=clnk&gl=us"
+  },
+  {
+    "position": 40,
+    "title": "Seribu Hektare Lahan Riau Terbakar Sepanjang Januari-Juli ...",
+    "link": "https://betahita.id/news/detail/7851/-seribu-hektare-lahan-riau-terbakar-sepanjang-januari-juli-2022.html?v=1664564544",
+    "displayed_link": "https://betahita.id › news › detail ›",
+    "date": "Aug 8, 2022",
+    "snippet": "Luas hutan dan lahan terbakar di Provinsi Riau sepanjang Januari hingga Juli 2022 tercatat mencapai 1.060,85 hektare.",
+    "snippet_highlighted_words": [
+      "hutan",
+      "terbakar"
+    ],
+    "about_this_result": {
+      "source": {
+        "description": "This result comes from betahita.id",
+        "source_info_link": "https://betahita.id/news/detail/7851/-seribu-hektare-lahan-riau-terbakar-sepanjang-januari-juli-2022.html?v=1664564544",
+        "security": "secure",
+        "icon": "https://serpapi.com/searches/63ec2cb42c084497608a71bc/images/c7d4185c0bb4457749fda288e7c1aab1ad5a0fde6565563f3918dd19b07d2f97335d0e802e2a85195510ede365c9a6f234730520a2e70afe.png"
+      }
+    },
+    "about_page_link": "https://www.google.com/search?q=About+https://betahita.id/news/detail/7851/-seribu-hektare-lahan-riau-terbakar-sepanjang-januari-juli-2022.html?v%3D1664564544&tbm=ilp&ilps=AB_Lh3r_a1yvX86qRGAymwao5MHKEhkgMQ",
+    "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&ilps=AB_Lh3r_a1yvX86qRGAymwao5MHKEhkgMQ&q=About+https%3A%2F%2Fbetahita.id%2Fnews%2Fdetail%2F7851%2F-seribu-hektare-lahan-riau-terbakar-sepanjang-januari-juli-2022.html%3Fv%3D1664564544",
+    "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:soA2N_co04cJ:https://betahita.id/news/detail/7851/-seribu-hektare-lahan-riau-terbakar-sepanjang-januari-juli-2022.html%3Fv%3D1664564544&cd=51&hl=en&ct=clnk&gl=us"
+  },
+  {
+    "position": 41,
+    "title": "Kebakaran Hutan Rugikan Indonesia - Kominfo",
+    "link": "https://www.kominfo.go.id/content/detail/6407/kebakaran-hutan-rugikan-indonesia/0/infografis",
+    "displayed_link": "https://www.kominfo.go.id › infografis",
+    "snippet": "Kebakaran Hutan Rugikan Indonesia. Kategori Infografis | angg007. Berita Terkait. Pulih Bersama dengan Meningkatkan Keterampilan Digital UMKM di Indonesia.",
+    "snippet_highlighted_words": [
+      "Kebakaran Hutan",
+      "Indonesia",
+      "Indonesia"
+    ],
+    "about_this_result": {
+      "source": {
+        "description": "This result comes from www.kominfo.go.id",
+        "source_info_link": "https://www.kominfo.go.id/content/detail/6407/kebakaran-hutan-rugikan-indonesia/0/infografis",
+        "security": "secure",
+        "icon": "https://serpapi.com/searches/63ec2cb42c084497608a71bc/images/c7d4185c0bb4457749fda288e7c1aab1d8a2fcc94fe1d1327bc9d0815e0f7bd60a956337fa21dab2e7bbacd1501196f3c5b43505957a7324.png"
+      }
+    },
+    "about_page_link": "https://www.google.com/search?q=About+https://www.kominfo.go.id/content/detail/6407/kebakaran-hutan-rugikan-indonesia/0/infografis&tbm=ilp&ilps=AB_Lh3rkd__jwRf0widK2qmDOpx96qNo5w",
+    "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&ilps=AB_Lh3rkd__jwRf0widK2qmDOpx96qNo5w&q=About+https%3A%2F%2Fwww.kominfo.go.id%2Fcontent%2Fdetail%2F6407%2Fkebakaran-hutan-rugikan-indonesia%2F0%2Finfografis",
+    "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:DVzLYL4eKfYJ:https://www.kominfo.go.id/content/detail/6407/kebakaran-hutan-rugikan-indonesia/0/infografis&cd=52&hl=en&ct=clnk&gl=us"
+  },
+  {
+    "position": 42,
+    "title": "Kebakaran Hutan Indonesia Membawa Lebih Banyak Asap ke ...",
+    "link": "https://www.globalforestwatch.org/blog/id/fires/kebakaran-hutan-indonesia-membawa-lebih-banyak-asap-ke-asia-tenggara/",
+    "displayed_link": "https://www.globalforestwatch.org › ...",
+    "date": "Mar 3, 2014",
+    "snippet": "By Ariana Alisjahbana, James Anderson and Susan Minnemeyer Gubernur provinsi Riau, Indonesia menyatakan keadaan gawat darurat pada minggu ...",
+    "snippet_highlighted_words": [
+      "Indonesia"
+    ],
+    "about_this_result": {
+      "source": {
+        "description": "This result comes from www.globalforestwatch.org",
+        "source_info_link": "https://www.globalforestwatch.org/blog/id/fires/kebakaran-hutan-indonesia-membawa-lebih-banyak-asap-ke-asia-tenggara/",
+        "security": "secure",
+        "icon": "https://serpapi.com/searches/63ec2cb42c084497608a71bc/images/c7d4185c0bb4457749fda288e7c1aab160592902eb49836ee79d6c7f40bf8e4e192808739df6f0a16eb8334a05446903744f75ee04c36e4e.png"
+      }
+    },
+    "about_page_link": "https://www.google.com/search?q=About+https://www.globalforestwatch.org/blog/id/fires/kebakaran-hutan-indonesia-membawa-lebih-banyak-asap-ke-asia-tenggara/&tbm=ilp&ilps=AB_Lh3pGJUc9nnFr7ryKoMym2UHr-YoCZg",
+    "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&ilps=AB_Lh3pGJUc9nnFr7ryKoMym2UHr-YoCZg&q=About+https%3A%2F%2Fwww.globalforestwatch.org%2Fblog%2Fid%2Ffires%2Fkebakaran-hutan-indonesia-membawa-lebih-banyak-asap-ke-asia-tenggara%2F",
+    "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:8uahNFR53XYJ:https://www.globalforestwatch.org/blog/id/fires/kebakaran-hutan-indonesia-membawa-lebih-banyak-asap-ke-asia-tenggara/&cd=53&hl=en&ct=clnk&gl=us"
+  },
+  {
+    "position": 43,
+    "title": "Penanggulangan Kebakaran Hutan dan Lahan - MMC Kalteng",
+    "link": "https://mmc.kalteng.go.id/berita/read/2027/penanggulangan-kebakaran-hutan-dan-lahan",
+    "displayed_link": "https://mmc.kalteng.go.id › read › pe...",
+    "date": "Jun 5, 2018",
+    "snippet": "Untuk itu ditetapkan Peraturan Menteri Lingkungan Hidup dan Kehutanan Republik Indonesia nomor P.32/MenLHK/Setjen/Kum.1/3/2016 Tentang ...",
+    "snippet_highlighted_words": [
+      "Indonesia"
+    ],
+    "about_this_result": {
+      "source": {
+        "description": "This result comes from mmc.kalteng.go.id",
+        "source_info_link": "https://mmc.kalteng.go.id/berita/read/2027/penanggulangan-kebakaran-hutan-dan-lahan",
+        "security": "secure",
+        "icon": "https://serpapi.com/searches/63ec2cb42c084497608a71bc/images/c7d4185c0bb4457749fda288e7c1aab1e4d1ad7c1313a921ac4d11e093df405ff3c63d5bf86fa158d3ee27d62c68dc6677f411b88f99a0e1.png"
+      }
+    },
+    "about_page_link": "https://www.google.com/search?q=About+https://mmc.kalteng.go.id/berita/read/2027/penanggulangan-kebakaran-hutan-dan-lahan&tbm=ilp&ilps=AB_Lh3px7iG1qJIu-H3gtqWjpVkBShFF5g",
+    "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&ilps=AB_Lh3px7iG1qJIu-H3gtqWjpVkBShFF5g&q=About+https%3A%2F%2Fmmc.kalteng.go.id%2Fberita%2Fread%2F2027%2Fpenanggulangan-kebakaran-hutan-dan-lahan",
+    "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:XiOQ_C8zmI0J:https://mmc.kalteng.go.id/berita/read/2027/penanggulangan-kebakaran-hutan-dan-lahan&cd=54&hl=en&ct=clnk&gl=us"
+  },
+  {
+    "position": 44,
+    "title": "Penyebab Kebakaran Hutan di Indonesia",
+    "link": "https://dislhk.badungkab.go.id/artikel/17924-penyebab-kebakaran-hutan-di-indonesia",
+    "displayed_link": "https://dislhk.badungkab.go.id › artikel",
+    "date": "Jun 2, 2018",
+    "snippet": "Penyebab kebakaran hutan di Indonesia pada dasarnya memiliki dua penyebab yaitu kebakaran yang disebabkan oleh faktor alam dan juga faktor ...",
+    "snippet_highlighted_words": [
+      "kebakaran hutan",
+      "Indonesia"
+    ],
+    "about_this_result": {
+      "source": {
+        "description": "This result comes from dislhk.badungkab.go.id",
+        "source_info_link": "https://dislhk.badungkab.go.id/artikel/17924-penyebab-kebakaran-hutan-di-indonesia",
+        "security": "secure",
+        "icon": "https://serpapi.com/searches/63ec2cb42c084497608a71bc/images/c7d4185c0bb4457749fda288e7c1aab1be20397921ff4b4a0789351be3cfed47616eff948e90935d0f2f1f64218e138376f71b1fa21dbcb6.png"
+      }
+    },
+    "about_page_link": "https://www.google.com/search?q=About+https://dislhk.badungkab.go.id/artikel/17924-penyebab-kebakaran-hutan-di-indonesia&tbm=ilp&ilps=AB_Lh3rMFn106LMITDL406SN-NbSFzV2yg",
+    "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&ilps=AB_Lh3rMFn106LMITDL406SN-NbSFzV2yg&q=About+https%3A%2F%2Fdislhk.badungkab.go.id%2Fartikel%2F17924-penyebab-kebakaran-hutan-di-indonesia",
+    "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:nTaIEUuavTYJ:https://dislhk.badungkab.go.id/artikel/17924-penyebab-kebakaran-hutan-di-indonesia&cd=55&hl=en&ct=clnk&gl=us"
+  },
+  {
+    "position": 45,
+    "title": "Kurangi Kebakaran Hutan dengan Inovasi SIPONGI",
+    "link": "https://www.menpan.go.id/site/berita-terkini/kurangi-kebakaran-hutan-dengan-inovasi-sipongi",
+    "displayed_link": "https://www.menpan.go.id › site › ku...",
+    "date": "Aug 6, 2019",
+    "snippet": "JAKARTA – Kebakaran hutan dan lahan (karhutla) di Indonesia seringkali menjadi permasalahan yang terjadi setiap memasuki musim kemarau.",
+    "snippet_highlighted_words": [
+      "Kebakaran hutan",
+      "Indonesia"
+    ],
+    "about_this_result": {
+      "source": {
+        "description": "This result comes from www.menpan.go.id",
+        "source_info_link": "https://www.menpan.go.id/site/berita-terkini/kurangi-kebakaran-hutan-dengan-inovasi-sipongi",
+        "security": "secure",
+        "icon": "https://serpapi.com/searches/63ec2cb42c084497608a71bc/images/c7d4185c0bb4457749fda288e7c1aab1154cd4b54915550953a3f6724389b860a68f527269daff32c337785dfeb8f5e60a82c1c691cadefc.png"
+      }
+    },
+    "about_page_link": "https://www.google.com/search?q=About+https://www.menpan.go.id/site/berita-terkini/kurangi-kebakaran-hutan-dengan-inovasi-sipongi&tbm=ilp&ilps=AB_Lh3rQOrm_KTwb02mw4uT8Gk3we8sc1g",
+    "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&ilps=AB_Lh3rQOrm_KTwb02mw4uT8Gk3we8sc1g&q=About+https%3A%2F%2Fwww.menpan.go.id%2Fsite%2Fberita-terkini%2Fkurangi-kebakaran-hutan-dengan-inovasi-sipongi",
+    "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:bJfpipfb5NQJ:https://www.menpan.go.id/site/berita-terkini/kurangi-kebakaran-hutan-dengan-inovasi-sipongi&cd=56&hl=en&ct=clnk&gl=us"
+  },
+  {
+    "position": 46,
+    "title": "Kebakaran Hutan serta Penanganan Pasca Kebakaran Hutan",
+    "link": "https://dlhk.bantenprov.go.id/upload/article/2021/Kebakaran_Hutan_serta_Penanganan_Pasca_Kebakaran_Hutan.pdf",
+    "displayed_link": "https://dlhk.bantenprov.go.id › upload › article",
+    "snippet": "Indonesia adalah suatu negara dengan iklim tropis yang terdiri dari ribuan pulau. Walaupun daratan Indonesia tak seluas lautannya, hutan di Indonesia sangat ...",
+    "snippet_highlighted_words": [
+      "Indonesia",
+      "Indonesia",
+      "hutan",
+      "Indonesia"
+    ],
+    "about_this_result": {
+      "source": {
+        "description": "This result comes from dlhk.bantenprov.go.id",
+        "source_info_link": "https://dlhk.bantenprov.go.id/upload/article/2021/Kebakaran_Hutan_serta_Penanganan_Pasca_Kebakaran_Hutan.pdf",
+        "security": "secure",
+        "icon": "https://serpapi.com/searches/63ec2cb42c084497608a71bc/images/c7d4185c0bb4457749fda288e7c1aab1abf3dae4bd2012932448fdc15fcd7e45a841f981727507f263d5cbc7641ebd1e65fd5a5dd30b6bd3.png"
+      }
+    },
+    "about_page_link": "https://www.google.com/search?q=About+https://dlhk.bantenprov.go.id/upload/article/2021/Kebakaran_Hutan_serta_Penanganan_Pasca_Kebakaran_Hutan.pdf&tbm=ilp&ilps=AB_Lh3qJdpAkn9K52bL0YiF6XMUs8jeamw",
+    "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&ilps=AB_Lh3qJdpAkn9K52bL0YiF6XMUs8jeamw&q=About+https%3A%2F%2Fdlhk.bantenprov.go.id%2Fupload%2Farticle%2F2021%2FKebakaran_Hutan_serta_Penanganan_Pasca_Kebakaran_Hutan.pdf",
+    "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:q_faKP3b0iQJ:https://dlhk.bantenprov.go.id/upload/article/2021/Kebakaran_Hutan_serta_Penanganan_Pasca_Kebakaran_Hutan.pdf&cd=57&hl=en&ct=clnk&gl=us"
+  },
+  {
+    "position": 47,
+    "title": "Kondisi di Laut Memicu Terjadinya Kebakaran Hutan?",
+    "link": "https://www.mongabay.co.id/2019/10/07/kondisi-di-laut-memicu-terjadinya-kebakaran-hutan/",
+    "displayed_link": "https://www.mongabay.co.id › kondi...",
+    "date": "Oct 7, 2019",
+    "snippet": "El Nino paling sering disebut-sebut yang sebagai penyebab terjadinya iklim kering di wilayah Indonesia. Tetapi berapa banyak orang yang tahu apa ...",
+    "snippet_highlighted_words": [
+      "Indonesia"
+    ],
+    "about_this_result": {
+      "source": {
+        "description": "This result comes from www.mongabay.co.id",
+        "source_info_link": "https://www.mongabay.co.id/2019/10/07/kondisi-di-laut-memicu-terjadinya-kebakaran-hutan/",
+        "security": "secure",
+        "icon": "https://serpapi.com/searches/63ec2cb42c084497608a71bc/images/c7d4185c0bb4457749fda288e7c1aab1f4c5338ce676edad1ad32571e015726bec7c8dd27790d6a7bdb115e22a1c0002b9d316f860dad70e.jpeg"
+      }
+    },
+    "about_page_link": "https://www.google.com/search?q=About+https://www.mongabay.co.id/2019/10/07/kondisi-di-laut-memicu-terjadinya-kebakaran-hutan/&tbm=ilp&ilps=AB_Lh3pcCKngoUNt97MKa3EgoRs8oY9mbQ",
+    "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&ilps=AB_Lh3pcCKngoUNt97MKa3EgoRs8oY9mbQ&q=About+https%3A%2F%2Fwww.mongabay.co.id%2F2019%2F10%2F07%2Fkondisi-di-laut-memicu-terjadinya-kebakaran-hutan%2F",
+    "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:Y5cpHwSQqyQJ:https://www.mongabay.co.id/2019/10/07/kondisi-di-laut-memicu-terjadinya-kebakaran-hutan/&cd=58&hl=en&ct=clnk&gl=us"
+  },
+  {
+    "position": 48,
+    "title": "Kebakaran Hutan di Indonesia",
+    "link": "https://swb.co.id/id/blog/43-kebakaran-hutan-di-indonesia",
+    "displayed_link": "https://swb.co.id › blog › 43-kebakar...",
+    "snippet": "Kebakaran hutan dan lahan di beberapa wilayah Indonesia menjadi perhatian dan harus diwaspadai terutama khususnya pada musim kemarau.",
+    "snippet_highlighted_words": [
+      "Kebakaran hutan",
+      "Indonesia"
+    ],
+    "about_this_result": {
+      "source": {
+        "description": "This result comes from swb.co.id",
+        "source_info_link": "https://swb.co.id/id/blog/43-kebakaran-hutan-di-indonesia",
+        "security": "secure",
+        "icon": "https://serpapi.com/searches/63ec2cb42c084497608a71bc/images/c7d4185c0bb4457749fda288e7c1aab165ab892faf2893f17d9b2cc468d2fac303773d514a1cf7f139fc69a7ba671ed3ac09c3216c9e13c5.png"
+      }
+    },
+    "about_page_link": "https://www.google.com/search?q=About+https://swb.co.id/id/blog/43-kebakaran-hutan-di-indonesia&tbm=ilp&ilps=AB_Lh3pKqzsOnOYAssRCEKbaQbqx94-Vmw",
+    "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&ilps=AB_Lh3pKqzsOnOYAssRCEKbaQbqx94-Vmw&q=About+https%3A%2F%2Fswb.co.id%2Fid%2Fblog%2F43-kebakaran-hutan-di-indonesia",
+    "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:eI5KTF9JEa4J:https://swb.co.id/id/blog/43-kebakaran-hutan-di-indonesia&cd=59&hl=en&ct=clnk&gl=us"
+  },
+  {
+    "position": 49,
+    "title": "Kebakaran Hutan di Indonesia - Penyebab, Dampak, dan ...",
+    "link": "https://ilmugeografi.com/bencana-alam/kebakaran-hutan-di-indonesia",
+    "displayed_link": "https://ilmugeografi.com › kebakaran...",
+    "date": "Jul 28, 2016",
+    "snippet": "Kebakaran hutan di Indonesia yang meliputi penyebab,dampak,dan upaya pencegahan harus kita ketahui karena mencakup alam yang kita tempati.",
+    "snippet_highlighted_words": [
+      "Kebakaran hutan",
+      "Indonesia"
+    ],
+    "about_this_result": {
+      "source": {
+        "description": "This result comes from ilmugeografi.com",
+        "source_info_link": "https://ilmugeografi.com/bencana-alam/kebakaran-hutan-di-indonesia",
+        "security": "secure",
+        "icon": "https://serpapi.com/searches/63ec2cb42c084497608a71bc/images/c7d4185c0bb4457749fda288e7c1aab100279b408b940e22a6e8e0c7885ab68a00baea49ec236690900afeff1cadafc613878cba78a308de.png"
+      }
+    },
+    "about_page_link": "https://www.google.com/search?q=About+https://ilmugeografi.com/bencana-alam/kebakaran-hutan-di-indonesia&tbm=ilp&ilps=AB_Lh3qPv5zF0cXOO_0Qqe4iCxuTHUw7kA",
+    "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&ilps=AB_Lh3qPv5zF0cXOO_0Qqe4iCxuTHUw7kA&q=About+https%3A%2F%2Filmugeografi.com%2Fbencana-alam%2Fkebakaran-hutan-di-indonesia",
+    "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:k3NY5L_GMm0J:https://ilmugeografi.com/bencana-alam/kebakaran-hutan-di-indonesia&cd=60&hl=en&ct=clnk&gl=us"
+  },
+  {
+    "position": 50,
+    "title": "BAB. V KEBAKARAN HUTAN 5.1. Proses Pembakaran Untuk ...",
+    "link": "https://jumani.untag-smd.ac.id/wp-content/uploads/2016/02/Kebakaran_Hutan_Bab_V_rev.pdf",
+    "displayed_link": "https://jumani.untag-smd.ac.id › uploads › 2016/02",
+    "snippet": "Dampak kebakaran hutan Indonesia berupa asap tersebut telah melintasi batas negara terutama. Singapura, Brunai Darussalam, Malaysia dan Thailand. Dampak lainnya ...",
+    "snippet_highlighted_words": [
+      "kebakaran hutan Indonesia"
+    ],
+    "about_this_result": {
+      "source": {
+        "description": "This result comes from jumani.untag-smd.ac.id",
+        "source_info_link": "https://jumani.untag-smd.ac.id/wp-content/uploads/2016/02/Kebakaran_Hutan_Bab_V_rev.pdf",
+        "security": "secure",
+        "icon": "https://serpapi.com/searches/63ec2cb42c084497608a71bc/images/c7d4185c0bb4457749fda288e7c1aab16a71133c3bd95ef3a7b2ea28f54a78b76116697b642c80da4d3089c02592e19927013dfe929d5209.png"
+      }
+    },
+    "about_page_link": "https://www.google.com/search?q=About+https://jumani.untag-smd.ac.id/wp-content/uploads/2016/02/Kebakaran_Hutan_Bab_V_rev.pdf&tbm=ilp&ilps=AB_Lh3qnYn8nnVeJm55Ve3VQvdctuio9uQ",
+    "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&ilps=AB_Lh3qnYn8nnVeJm55Ve3VQvdctuio9uQ&q=About+https%3A%2F%2Fjumani.untag-smd.ac.id%2Fwp-content%2Fuploads%2F2016%2F02%2FKebakaran_Hutan_Bab_V_rev.pdf",
+    "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:GbVjf0cXFokJ:https://jumani.untag-smd.ac.id/wp-content/uploads/2016/02/Kebakaran_Hutan_Bab_V_rev.pdf&cd=61&hl=en&ct=clnk&gl=us"
+  },
+  {
+    "position": 51,
+    "title": "Lagi, Malaysia & Negara Ini Terimbas Kebakaran Parah ...",
+    "link": "https://www.cnbcindonesia.com/news/20190910160919-4-98391/lagi-malaysia-negara-ini-terimbas-kebakaran-parah-hutan-ri",
+    "displayed_link": "https://www.cnbcindonesia.com › news",
+    "date": "Sep 10, 2019",
+    "snippet": "Kebakaran hutan RI ganggu Malaysia, Singapura, dan negara lain. ... Jakarta, CNBC Indonesia - Kebakaran hutan yang terjadi di wilayah Riau ...",
+    "snippet_highlighted_words": [
+      "Kebakaran hutan",
+      "Indonesia",
+      "Kebakaran hutan"
+    ],
+    "about_this_result": {
+      "source": {
+        "description": "This result comes from www.cnbcindonesia.com",
+        "source_info_link": "https://www.cnbcindonesia.com/news/20190910160919-4-98391/lagi-malaysia-negara-ini-terimbas-kebakaran-parah-hutan-ri",
+        "security": "secure",
+        "icon": "https://serpapi.com/searches/63ec2cb42c084497608a71bc/images/c7d4185c0bb4457749fda288e7c1aab11c5d41ced2742fc55d7e597bf05712ff0aa2eeee40b27747599a8f7a1dc66e3e77bed16644f2b5b0.png"
+      }
+    },
+    "about_page_link": "https://www.google.com/search?q=About+https://www.cnbcindonesia.com/news/20190910160919-4-98391/lagi-malaysia-negara-ini-terimbas-kebakaran-parah-hutan-ri&tbm=ilp&ilps=AB_Lh3pGzs9BM7XmdoqqU9Yo8_SqMxky2A",
+    "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&ilps=AB_Lh3pGzs9BM7XmdoqqU9Yo8_SqMxky2A&q=About+https%3A%2F%2Fwww.cnbcindonesia.com%2Fnews%2F20190910160919-4-98391%2Flagi-malaysia-negara-ini-terimbas-kebakaran-parah-hutan-ri",
+    "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:cdQA9ISgdagJ:https://www.cnbcindonesia.com/news/20190910160919-4-98391/lagi-malaysia-negara-ini-terimbas-kebakaran-parah-hutan-ri&cd=62&hl=en&ct=clnk&gl=us"
+  },
+  {
+    "position": 52,
+    "title": "Kebakaran Hutan Hampir Setiap Tahun, Lalu Apa Saja ...",
+    "link": "https://pusatkrisis.kemkes.go.id/kebakaran-hutan-hampir-setiap-tahun-lalu-apa-saja-penyebabnya",
+    "displayed_link": "https://pusatkrisis.kemkes.go.id › keb...",
+    "date": "Sep 10, 2016",
+    "snippet": "hampir setiap tahun indonesia dihadapi dengan permasalahan bencana kabut asap yang disebabkan oleh kebakaran hutan. dampak yang ditimbulkan ...",
+    "snippet_highlighted_words": [
+      "indonesia",
+      "kebakaran hutan"
+    ],
+    "about_this_result": {
+      "source": {
+        "description": "This result comes from pusatkrisis.kemkes.go.id",
+        "source_info_link": "https://pusatkrisis.kemkes.go.id/kebakaran-hutan-hampir-setiap-tahun-lalu-apa-saja-penyebabnya",
+        "security": "secure"
+      }
+    },
+    "about_page_link": "https://www.google.com/search?q=About+https://pusatkrisis.kemkes.go.id/kebakaran-hutan-hampir-setiap-tahun-lalu-apa-saja-penyebabnya&tbm=ilp&ilps=AB_Lh3o3hOij2XlJb7i6IIdfj_6IOjj0pA",
+    "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&ilps=AB_Lh3o3hOij2XlJb7i6IIdfj_6IOjj0pA&q=About+https%3A%2F%2Fpusatkrisis.kemkes.go.id%2Fkebakaran-hutan-hampir-setiap-tahun-lalu-apa-saja-penyebabnya",
+    "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:AFdN9r7SMC0J:https://pusatkrisis.kemkes.go.id/kebakaran-hutan-hampir-setiap-tahun-lalu-apa-saja-penyebabnya&cd=63&hl=en&ct=clnk&gl=us"
+  },
+  {
+    "position": 53,
+    "title": "Saatnya Hindari Kebakaran Hutan",
+    "link": "https://environment-indonesia.com/saatnya-hindari-kebakaran-hutan/",
+    "displayed_link": "https://environment-indonesia.com › ...",
+    "date": "Aug 23, 2019",
+    "snippet": "Besarnya Kebakaran Hutan dan Lahan (Karhutla) di Riau sejak beberapa ... asap akibat Karhutla dari Indonesia sudah mencapai Singapura dan ...",
+    "snippet_highlighted_words": [
+      "Kebakaran Hutan",
+      "Indonesia"
+    ],
+    "about_this_result": {
+      "source": {
+        "description": "This result comes from environment-indonesia.com",
+        "source_info_link": "https://environment-indonesia.com/saatnya-hindari-kebakaran-hutan/",
+        "security": "secure",
+        "icon": "https://serpapi.com/searches/63ec2cb42c084497608a71bc/images/c7d4185c0bb4457749fda288e7c1aab1a461afd2c8f69796007ced4616d183e3e4c96e7c6d2c4879f6afdbab7d8db9e8ab45a0a6837ab1e2.png"
+      }
+    },
+    "about_page_link": "https://www.google.com/search?q=About+https://environment-indonesia.com/saatnya-hindari-kebakaran-hutan/&tbm=ilp&ilps=AB_Lh3qeCqBc4TVQ1ugFQc15ILJnpTWdXg",
+    "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&ilps=AB_Lh3qeCqBc4TVQ1ugFQc15ILJnpTWdXg&q=About+https%3A%2F%2Fenvironment-indonesia.com%2Fsaatnya-hindari-kebakaran-hutan%2F",
+    "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:ParBMVZIBv8J:https://environment-indonesia.com/saatnya-hindari-kebakaran-hutan/&cd=64&hl=en&ct=clnk&gl=us"
+  },
+  {
+    "position": 54,
+    "title": "Berita dan Informasi Kebakaran hutan Terkini dan ... - Detikcom",
+    "link": "https://www.detik.com/tag/kebakaran-hutan",
+    "displayed_link": "https://www.detik.com › tag › kebak...",
+    "snippet": "Kebakaran hutan terjadi di Chile akibat suhu tinggi dan angin panas. ... Mahfud menyebut Indonesia telah berhasil menanggulangi bencana karhutla beberapa ...",
+    "snippet_highlighted_words": [
+      "Kebakaran hutan",
+      "Indonesia"
+    ],
+    "about_this_result": {
+      "source": {
+        "description": "This result comes from www.detik.com",
+        "source_info_link": "https://www.detik.com/tag/kebakaran-hutan",
+        "security": "secure",
+        "icon": "https://serpapi.com/searches/63ec2cb42c084497608a71bc/images/c7d4185c0bb4457749fda288e7c1aab15ccadd4af2aa96c43406def72aaa56ed285d902e016eb6d77fb9bb69473c2788747ccbcdc71af6f1.png"
+      }
+    },
+    "about_page_link": "https://www.google.com/search?q=About+https://www.detik.com/tag/kebakaran-hutan&tbm=ilp&ilps=AB_Lh3qLVs9MGRYjZ0kWvCIJMjvOWyzLAg",
+    "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&ilps=AB_Lh3qLVs9MGRYjZ0kWvCIJMjvOWyzLAg&q=About+https%3A%2F%2Fwww.detik.com%2Ftag%2Fkebakaran-hutan",
+    "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:OyFXxlyRtr4J:https://www.detik.com/tag/kebakaran-hutan&cd=65&hl=en&ct=clnk&gl=us"
+  },
+  {
+    "position": 55,
+    "title": "Penyebab Kebakaran Hutan Terungkap? – DW – 23.10.2015",
+    "link": "https://www.dw.com/id/penyebab-kebakaran-hutan-terungkap/a-18801135",
+    "displayed_link": "https://www.dw.com › penyebab-keb...",
+    "date": "Oct 22, 2015",
+    "snippet": "Setelah ada bencana kebakaran hutan yang berujung kabut asap, ... yang biasanya tidak terjangkau asap dari kebakaran hutan Indonesia.",
+    "snippet_highlighted_words": [
+      "kebakaran hutan Indonesia"
+    ],
+    "about_this_result": {
+      "source": {
+        "description": "This result comes from www.dw.com",
+        "source_info_link": "https://www.dw.com/id/penyebab-kebakaran-hutan-terungkap/a-18801135",
+        "security": "secure",
+        "icon": "https://serpapi.com/searches/63ec2cb42c084497608a71bc/images/c7d4185c0bb4457749fda288e7c1aab152bfa670855237f3f47d5a52d9446ff68251f2c4f7fefc5705710b34ecd8418eaf8b96d7e24a4b5e.jpeg"
+      }
+    },
+    "about_page_link": "https://www.google.com/search?q=About+https://www.dw.com/id/penyebab-kebakaran-hutan-terungkap/a-18801135&tbm=ilp&ilps=AB_Lh3q4qm27eoi6hWuuqHflmzYXnvU0zQ",
+    "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&ilps=AB_Lh3q4qm27eoi6hWuuqHflmzYXnvU0zQ&q=About+https%3A%2F%2Fwww.dw.com%2Fid%2Fpenyebab-kebakaran-hutan-terungkap%2Fa-18801135",
+    "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:4v3s2Fiy680J:https://www.dw.com/id/penyebab-kebakaran-hutan-terungkap/a-18801135&cd=66&hl=en&ct=clnk&gl=us"
+  },
+  {
+    "position": 56,
+    "title": "Penyebab Kebakaran Hutan di Riau Beserta Dampaknya ...",
+    "link": "https://www.merdeka.com/sumut/penyebab-kebakaran-hutan-di-riau-beserta-dampaknya-yang-penting-diketahui-kln.html",
+    "displayed_link": "https://www.merdeka.com › sumut",
+    "date": "Dec 15, 2022",
+    "snippet": "Merdeka.com - Kebakaran hutan menjadi salah satu bencana musiman yang kerap terjadi di Indonesia. Kebakaran hutan ini terutama terjadi di ...",
+    "snippet_highlighted_words": [
+      "Kebakaran hutan",
+      "Indonesia",
+      "Kebakaran hutan"
+    ],
+    "about_this_result": {
+      "source": {
+        "description": "This result comes from www.merdeka.com",
+        "source_info_link": "https://www.merdeka.com/sumut/penyebab-kebakaran-hutan-di-riau-beserta-dampaknya-yang-penting-diketahui-kln.html",
+        "security": "secure",
+        "icon": "https://serpapi.com/searches/63ec2cb42c084497608a71bc/images/c7d4185c0bb4457749fda288e7c1aab132cf72a0c5cae850913594748af1f63db80ee652be33448a1b33a317b6b7e905f0830338c70f187c.png"
+      }
+    },
+    "about_page_link": "https://www.google.com/search?q=About+https://www.merdeka.com/sumut/penyebab-kebakaran-hutan-di-riau-beserta-dampaknya-yang-penting-diketahui-kln.html&tbm=ilp&ilps=AB_Lh3rUx4O3N_xiiTe-x8wjKyGyivCV8w",
+    "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&ilps=AB_Lh3rUx4O3N_xiiTe-x8wjKyGyivCV8w&q=About+https%3A%2F%2Fwww.merdeka.com%2Fsumut%2Fpenyebab-kebakaran-hutan-di-riau-beserta-dampaknya-yang-penting-diketahui-kln.html",
+    "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:XR2aFM3WQDEJ:https://www.merdeka.com/sumut/penyebab-kebakaran-hutan-di-riau-beserta-dampaknya-yang-penting-diketahui-kln.html&cd=67&hl=en&ct=clnk&gl=us"
+  },
+  {
+    "position": 57,
+    "title": "KEBAKARAN HUTAN DAN LAHAN, KADIS DAMKAR",
+    "link": "https://damkar.paserkab.go.id/detailpost/kebakaran-hutan-dan-lahan-kadis-damkar-waspada-potensi-karhutla",
+    "displayed_link": "https://damkar.paserkab.go.id › keba...",
+    "date": "Jan 2, 2023",
+    "snippet": "DAMKAR PASER – Kebakaran Hutan dan Lahan atau Karhutla terjadi di ... suhu muka laut diwilayah Indonesia pada September hingga November 2022 ...",
+    "snippet_highlighted_words": [
+      "Kebakaran Hutan",
+      "Indonesia"
+    ],
+    "about_this_result": {
+      "source": {
+        "description": "This result comes from damkar.paserkab.go.id",
+        "source_info_link": "https://damkar.paserkab.go.id/detailpost/kebakaran-hutan-dan-lahan-kadis-damkar-waspada-potensi-karhutla",
+        "security": "secure",
+        "icon": "https://serpapi.com/searches/63ec2cb42c084497608a71bc/images/c7d4185c0bb4457749fda288e7c1aab10846315d38d7db010fd85f7ffcf6e56fa28a87537b47cf5b21cb37eef90b204f68f78ce4d9a1e92c.jpeg"
+      }
+    },
+    "about_page_link": "https://www.google.com/search?q=About+https://damkar.paserkab.go.id/detailpost/kebakaran-hutan-dan-lahan-kadis-damkar-waspada-potensi-karhutla&tbm=ilp&ilps=AB_Lh3o8bHShcSCdw-2rFIti-OUylAfAVw",
+    "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&ilps=AB_Lh3o8bHShcSCdw-2rFIti-OUylAfAVw&q=About+https%3A%2F%2Fdamkar.paserkab.go.id%2Fdetailpost%2Fkebakaran-hutan-dan-lahan-kadis-damkar-waspada-potensi-karhutla",
+    "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:RoVqw1Wbx4gJ:https://damkar.paserkab.go.id/detailpost/kebakaran-hutan-dan-lahan-kadis-damkar-waspada-potensi-karhutla&cd=68&hl=en&ct=clnk&gl=us"
+  },
+  {
+    "position": 58,
+    "title": "Kebakaran hutan di Indonesia: dampak dan pemecahannya",
+    "link": "https://hazeportal.asean.org/publications/kebakaran-hutan-di-indonesia-dampak-dan-pemecahannya/",
+    "displayed_link": "https://hazeportal.asean.org › publications › kebakaran-...",
+    "snippet": "Kebakaran hutan di Indonesia: dampak dan pemecahannya. Share this. The severe fires that burned over 9.7 million ha of Indonesia in 1997/98 occurred in an ...",
+    "snippet_highlighted_words": [
+      "Kebakaran hutan",
+      "Indonesia",
+      "Indonesia"
+    ],
+    "about_this_result": {
+      "source": {
+        "description": "This result comes from hazeportal.asean.org",
+        "source_info_link": "https://hazeportal.asean.org/publications/kebakaran-hutan-di-indonesia-dampak-dan-pemecahannya/",
+        "security": "secure",
+        "icon": "https://serpapi.com/searches/63ec2cb42c084497608a71bc/images/c7d4185c0bb4457749fda288e7c1aab13774fc914cc274c5773ff69d64e59d28f761af732fc1e1496489b7bff471f11042ce035a9aa78181.png"
+      }
+    },
+    "about_page_link": "https://www.google.com/search?q=About+https://hazeportal.asean.org/publications/kebakaran-hutan-di-indonesia-dampak-dan-pemecahannya/&tbm=ilp&ilps=AB_Lh3qJo9qXhA9quQ9mq2LFxbnKMYkPTg",
+    "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&ilps=AB_Lh3qJo9qXhA9quQ9mq2LFxbnKMYkPTg&q=About+https%3A%2F%2Fhazeportal.asean.org%2Fpublications%2Fkebakaran-hutan-di-indonesia-dampak-dan-pemecahannya%2F",
+    "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:YhtdIrHzibUJ:https://hazeportal.asean.org/publications/kebakaran-hutan-di-indonesia-dampak-dan-pemecahannya/&cd=69&hl=en&ct=clnk&gl=us"
+  },
+  {
+    "position": 59,
+    "title": "Kebakaran Hutan di Riau akibat Ulah Manusia",
+    "link": "https://mediaindonesia.com/humaniora/220164/kebakaran-hutan-di-riau-akibat-ulah-manusia",
+    "displayed_link": "https://mediaindonesia.com › kebaka...",
+    "date": "Mar 1, 2019",
+    "snippet": "KEBAKARAN hutan dan lahan (karhutla) yang terjadi di Provinsi Riau dan daerah lainnya hampir 100% akibat ulah manusia. Karhutla di Riau yang ...",
+    "snippet_highlighted_words": [
+      "KEBAKARAN hutan"
+    ],
+    "about_this_result": {
+      "source": {
+        "description": "This result comes from mediaindonesia.com",
+        "source_info_link": "https://mediaindonesia.com/humaniora/220164/kebakaran-hutan-di-riau-akibat-ulah-manusia",
+        "security": "secure",
+        "icon": "https://serpapi.com/searches/63ec2cb42c084497608a71bc/images/c7d4185c0bb4457749fda288e7c1aab1e120861260c1086bc708969e470b426ff35e827751f071c293e6af133262de0ae16f92954f831acc.png"
+      }
+    },
+    "about_page_link": "https://www.google.com/search?q=About+https://mediaindonesia.com/humaniora/220164/kebakaran-hutan-di-riau-akibat-ulah-manusia&tbm=ilp&ilps=AB_Lh3pl_-W8S7o6n9oI-gmNZ9Na1PIibw",
+    "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&ilps=AB_Lh3pl_-W8S7o6n9oI-gmNZ9Na1PIibw&q=About+https%3A%2F%2Fmediaindonesia.com%2Fhumaniora%2F220164%2Fkebakaran-hutan-di-riau-akibat-ulah-manusia",
+    "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:-e8waJg42tsJ:https://mediaindonesia.com/humaniora/220164/kebakaran-hutan-di-riau-akibat-ulah-manusia&cd=70&hl=en&ct=clnk&gl=us"
+  },
+  {
+    "position": 60,
+    "title": "Kebakaran Indonesia: Kobaran Kebakaran Hutan Meningkat ...",
+    "link": "https://www.wri.org/insights/kebakaran-indonesia-kobaran-kebakaran-hutan-meningkat-ke-tingkat-mengkhawatirkan",
+    "displayed_link": "https://www.wri.org › insights › keba...",
+    "snippet": "Api kembali berkobar di pulau Sumatera, Indonesia, dengan jumlah peringatan titik api nyaris mencapai tingkat pada bulan Juni 2013 yang ...",
+    "snippet_highlighted_words": [
+      "Indonesia"
+    ],
+    "rich_snippet": {
+      "top": {
+        "extensions": [
+          "by N Sizer —"
+        ]
+      }
+    },
+    "about_this_result": {
+      "source": {
+        "description": "This result comes from www.wri.org",
+        "source_info_link": "https://www.wri.org/insights/kebakaran-indonesia-kobaran-kebakaran-hutan-meningkat-ke-tingkat-mengkhawatirkan",
+        "security": "secure"
+      }
+    },
+    "about_page_link": "https://www.google.com/search?q=About+https://www.wri.org/insights/kebakaran-indonesia-kobaran-kebakaran-hutan-meningkat-ke-tingkat-mengkhawatirkan&tbm=ilp&ilps=AB_Lh3rHhswBH-k5sXROfnzuVUYuCLZMRQ",
+    "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&ilps=AB_Lh3rHhswBH-k5sXROfnzuVUYuCLZMRQ&q=About+https%3A%2F%2Fwww.wri.org%2Finsights%2Fkebakaran-indonesia-kobaran-kebakaran-hutan-meningkat-ke-tingkat-mengkhawatirkan",
+    "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:RVhbrlQ1TIUJ:https://www.wri.org/insights/kebakaran-indonesia-kobaran-kebakaran-hutan-meningkat-ke-tingkat-mengkhawatirkan&cd=71&hl=en&ct=clnk&gl=us"
+  },
+  {
+    "position": 61,
+    "title": "KAK Pencegahan dan Pengendalian Kebakaran Hutan dan ...",
+    "link": "https://ppid.sumbarprov.go.id/home/details/9369-kak-pencegahan-dan-pengendalian-kebakaran-hutan-dan-lahan-pada-kphl-bb.html",
+    "displayed_link": "https://ppid.sumbarprov.go.id › details",
+    "date": "Sep 11, 2019",
+    "snippet": "KAK Pencegahan dan Pengendalian Kebakaran Hutan dan Lahan pada KPHL BB ... Torehkan Sejarah, Selamat Hari Ibu, Perempuan Indonesia!",
+    "snippet_highlighted_words": [
+      "Kebakaran Hutan",
+      "Indonesia"
+    ],
+    "about_this_result": {
+      "source": {
+        "description": "This result comes from ppid.sumbarprov.go.id",
+        "source_info_link": "https://ppid.sumbarprov.go.id/home/details/9369-kak-pencegahan-dan-pengendalian-kebakaran-hutan-dan-lahan-pada-kphl-bb.html",
+        "security": "secure",
+        "icon": "https://serpapi.com/searches/63ec2cb42c084497608a71bc/images/c7d4185c0bb4457749fda288e7c1aab1cd730b72866d3e1cbb6892423675c72c393bda177583734c8cab7b2cf4ff9f5b9f5653b87673292b.png"
+      }
+    },
+    "about_page_link": "https://www.google.com/search?q=About+https://ppid.sumbarprov.go.id/home/details/9369-kak-pencegahan-dan-pengendalian-kebakaran-hutan-dan-lahan-pada-kphl-bb.html&tbm=ilp&ilps=AB_Lh3p9CT5qydlJrZ499NvFQbOGkrLS1A",
+    "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&ilps=AB_Lh3p9CT5qydlJrZ499NvFQbOGkrLS1A&q=About+https%3A%2F%2Fppid.sumbarprov.go.id%2Fhome%2Fdetails%2F9369-kak-pencegahan-dan-pengendalian-kebakaran-hutan-dan-lahan-pada-kphl-bb.html",
+    "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:TuMSN6JP8oYJ:https://ppid.sumbarprov.go.id/home/details/9369-kak-pencegahan-dan-pengendalian-kebakaran-hutan-dan-lahan-pada-kphl-bb.html&cd=72&hl=en&ct=clnk&gl=us"
+  },
+  {
+    "position": 62,
+    "title": "Panduan Pengendalian Kebakaran Hutan dan Lahan Gambut",
+    "link": "https://indonesia.wetlands.org/id/publikasi/panduan-pengendalian-kebakaran-hutan-dan-lahan-gambut/",
+    "displayed_link": "https://indonesia.wetlands.org › pand...",
+    "snippet": "Panduan mengenai Pengendalian Kebakaran Hutan dan Lahan Gambut ini berisikan informasi tentang: (1) pengendalian kebakaran; (2) faktor-faktor pendukung ...",
+    "snippet_highlighted_words": [
+      "Kebakaran Hutan"
+    ],
+    "about_this_result": {
+      "source": {
+        "description": "This result comes from indonesia.wetlands.org",
+        "source_info_link": "https://indonesia.wetlands.org/id/publikasi/panduan-pengendalian-kebakaran-hutan-dan-lahan-gambut/",
+        "security": "secure",
+        "icon": "https://serpapi.com/searches/63ec2cb42c084497608a71bc/images/c7d4185c0bb4457749fda288e7c1aab13f2f656901785b3a8c04dd378c08e55705f1fdc0a627aad7ac6658639718d51256e27cde30e37346.png"
+      }
+    },
+    "about_page_link": "https://www.google.com/search?q=About+https://indonesia.wetlands.org/id/publikasi/panduan-pengendalian-kebakaran-hutan-dan-lahan-gambut/&tbm=ilp&ilps=AB_Lh3r--F3kDKFiEg7hNr5-0uxExGgjzA",
+    "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&ilps=AB_Lh3r--F3kDKFiEg7hNr5-0uxExGgjzA&q=About+https%3A%2F%2Findonesia.wetlands.org%2Fid%2Fpublikasi%2Fpanduan-pengendalian-kebakaran-hutan-dan-lahan-gambut%2F",
+    "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:qlLNkLF4A3QJ:https://indonesia.wetlands.org/id/publikasi/panduan-pengendalian-kebakaran-hutan-dan-lahan-gambut/&cd=73&hl=en&ct=clnk&gl=us"
+  },
+  {
+    "position": 63,
+    "title": "Penyebab Kebakaran Hutan dan Cara Penanggulangannya",
+    "link": "https://bpbd.limapuluhkotakab.go.id/Welcome/lihatBerita/522",
+    "displayed_link": "https://bpbd.limapuluhkotakab.go.id › ...",
+    "date": "Aug 8, 2016",
+    "snippet": "Selain memberikan kerugian besar di Indonesia, dampak kabut asap ini juga mencapai negara tetangga seperti Malysia, Singapura, dan Thailand.",
+    "snippet_highlighted_words": [
+      "Indonesia"
+    ],
+    "about_this_result": {
+      "source": {
+        "description": "This result comes from bpbd.limapuluhkotakab.go.id",
+        "source_info_link": "https://bpbd.limapuluhkotakab.go.id/Welcome/lihatBerita/522",
+        "security": "secure",
+        "icon": "https://serpapi.com/searches/63ec2cb42c084497608a71bc/images/c7d4185c0bb4457749fda288e7c1aab1917ec31644c8aa160a7738a3d6145500ec8a8de40d5dbd8a7956d1df6f6ab79648776bb0fc6beb8e.png"
+      }
+    },
+    "about_page_link": "https://www.google.com/search?q=About+https://bpbd.limapuluhkotakab.go.id/Welcome/lihatBerita/522&tbm=ilp&ilps=AB_Lh3pTVB4gPXtp7YdgOQukuXVFHg-oUw",
+    "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&ilps=AB_Lh3pTVB4gPXtp7YdgOQukuXVFHg-oUw&q=About+https%3A%2F%2Fbpbd.limapuluhkotakab.go.id%2FWelcome%2FlihatBerita%2F522",
+    "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:3t69WnkoI-AJ:https://bpbd.limapuluhkotakab.go.id/Welcome/lihatBerita/522&cd=74&hl=en&ct=clnk&gl=us"
+  },
+  {
+    "position": 64,
+    "title": "INDONESIA FOKUS MENCEGAH KEBAKARAN HUTAN ...",
+    "link": "https://polkam.go.id/menkopolhukam-indonesia-fokus-mencegah-kebakaran-hutan-tanpa-waterbomber/",
+    "displayed_link": "https://polkam.go.id › menkopolhuk...",
+    "date": "Apr 19, 2016",
+    "snippet": "MENKOPOLHUKAM: INDONESIA FOKUS MENCEGAH KEBAKARAN HUTAN, TANPA WATERBOMBER - Berita - Kemenko Polhukam R.I..",
+    "snippet_highlighted_words": [
+      "INDONESIA",
+      "KEBAKARAN HUTAN"
+    ],
+    "about_this_result": {
+      "source": {
+        "description": "This result comes from polkam.go.id",
+        "source_info_link": "https://polkam.go.id/menkopolhukam-indonesia-fokus-mencegah-kebakaran-hutan-tanpa-waterbomber/",
+        "security": "secure",
+        "icon": "https://serpapi.com/searches/63ec2cb42c084497608a71bc/images/c7d4185c0bb4457749fda288e7c1aab176e6cbf35dc84567e02881192b0fd9905e784ac694d6b4653a5fcf55b04be5e55f93e1ecb0e9da6a.png"
+      }
+    },
+    "about_page_link": "https://www.google.com/search?q=About+https://polkam.go.id/menkopolhukam-indonesia-fokus-mencegah-kebakaran-hutan-tanpa-waterbomber/&tbm=ilp&ilps=AB_Lh3qF6VHTd9sHCdyL-e7SbLiPPZguwA",
+    "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&ilps=AB_Lh3qF6VHTd9sHCdyL-e7SbLiPPZguwA&q=About+https%3A%2F%2Fpolkam.go.id%2Fmenkopolhukam-indonesia-fokus-mencegah-kebakaran-hutan-tanpa-waterbomber%2F",
+    "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:JSWeat8SRPsJ:https://polkam.go.id/menkopolhukam-indonesia-fokus-mencegah-kebakaran-hutan-tanpa-waterbomber/&cd=75&hl=en&ct=clnk&gl=us"
+  },
+  {
+    "position": 65,
+    "title": "Penyebab dan Dampak Terjadinya Kebakaran Hutan",
+    "link": "https://www.gramedia.com/literasi/penyebab-dan-dampak-terjadinya-kebakaran-hutan/",
+    "displayed_link": "https://www.gramedia.com › literasi",
+    "snippet": "Api akan sangat sulit dipadamkan, mengingat api mulai di bawah tanah dan hanya asap yang naik ke permukaan. Sebelumnya Indonesia pernah mengalami kebakaran ...",
+    "snippet_highlighted_words": [
+      "Indonesia",
+      "kebakaran"
+    ],
+    "about_this_result": {
+      "source": {
+        "description": "This result comes from www.gramedia.com",
+        "source_info_link": "https://www.gramedia.com/literasi/penyebab-dan-dampak-terjadinya-kebakaran-hutan/",
+        "security": "secure",
+        "icon": "https://serpapi.com/searches/63ec2cb42c084497608a71bc/images/c7d4185c0bb4457749fda288e7c1aab14e9f7397dae51379047f365e05913865a1601dd8d80ea62c7250c3dcc00150738cfe6cb7c60a7e6d.png"
+      }
+    },
+    "about_page_link": "https://www.google.com/search?q=About+https://www.gramedia.com/literasi/penyebab-dan-dampak-terjadinya-kebakaran-hutan/&tbm=ilp&ilps=AB_Lh3q6LFHzpm3PhKtcVCqp0U4thMwHGg",
+    "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&ilps=AB_Lh3q6LFHzpm3PhKtcVCqp0U4thMwHGg&q=About+https%3A%2F%2Fwww.gramedia.com%2Fliterasi%2Fpenyebab-dan-dampak-terjadinya-kebakaran-hutan%2F",
+    "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:AK2iU3vLBj0J:https://www.gramedia.com/literasi/penyebab-dan-dampak-terjadinya-kebakaran-hutan/&cd=76&hl=en&ct=clnk&gl=us"
+  },
+  {
+    "position": 66,
+    "title": "KEBAKARAN HUTAN DAN LAHAN (KARHUTLA) KEMBALI ...",
+    "link": "https://bpbd.pangkalpinangkota.go.id/berita/read/3/2021/kebakaran-hutan-dan-lahan-karhutla-kembali-terjadi-hari-ini",
+    "displayed_link": "https://bpbd.pangkalpinangkota.go.id › ...",
+    "date": "Mar 5, 2021",
+    "snippet": "kali ini Karhutla terjadi di Rt.006 Rw.002, kelurahan Sinar bulan, kecamatan Bukit intan (tidak jauh dari Bank indonesia dan kantor DPRD kep.",
+    "snippet_highlighted_words": [
+      "indonesia"
+    ],
+    "about_this_result": {
+      "source": {
+        "description": "This result comes from bpbd.pangkalpinangkota.go.id",
+        "source_info_link": "https://bpbd.pangkalpinangkota.go.id/berita/read/3/2021/kebakaran-hutan-dan-lahan-karhutla-kembali-terjadi-hari-ini",
+        "security": "secure",
+        "icon": "https://serpapi.com/searches/63ec2cb42c084497608a71bc/images/c7d4185c0bb4457749fda288e7c1aab1c8e7a6ff0a964a2222c813112949d5eb133156b789bd6ba92a790e64477367f1770f7bafd972ace7.png"
+      }
+    },
+    "about_page_link": "https://www.google.com/search?q=About+https://bpbd.pangkalpinangkota.go.id/berita/read/3/2021/kebakaran-hutan-dan-lahan-karhutla-kembali-terjadi-hari-ini&tbm=ilp&ilps=AB_Lh3ordPy0FPyYK8beypEpcmsS75PCvw",
+    "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&ilps=AB_Lh3ordPy0FPyYK8beypEpcmsS75PCvw&q=About+https%3A%2F%2Fbpbd.pangkalpinangkota.go.id%2Fberita%2Fread%2F3%2F2021%2Fkebakaran-hutan-dan-lahan-karhutla-kembali-terjadi-hari-ini",
+    "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:rLexyFhXCzMJ:https://bpbd.pangkalpinangkota.go.id/berita/read/3/2021/kebakaran-hutan-dan-lahan-karhutla-kembali-terjadi-hari-ini&cd=77&hl=en&ct=clnk&gl=us"
+  },
+  {
+    "position": 67,
+    "title": "33 Ribu Hektare Hutan dan Lahan Terbakar Hingga April 2022",
+    "link": "https://www.republika.co.id/berita/ri37uq370/33-ribu-hektare-hutan-dan-lahan-terbakar-hingga-april-2022",
+    "displayed_link": "https://www.republika.co.id › berita",
+    "date": "Sep 12, 2022",
+    "snippet": "REPUBLIKA.CO.ID, JAKARTA -- Kebakaran hutan dan lahan (Karhutla) terus terjadi di Indonesia. Kementerian Lingkungan Hidup dan Kehutanan (KLHK) ...",
+    "snippet_highlighted_words": [
+      "Kebakaran hutan",
+      "Indonesia"
+    ],
+    "about_this_result": {
+      "source": {
+        "description": "This result comes from www.republika.co.id",
+        "source_info_link": "https://www.republika.co.id/berita/ri37uq370/33-ribu-hektare-hutan-dan-lahan-terbakar-hingga-april-2022",
+        "security": "secure",
+        "icon": "https://serpapi.com/searches/63ec2cb42c084497608a71bc/images/c7d4185c0bb4457749fda288e7c1aab1c125b17eae61b4d681b7dd6b0cea43ae8f114eeece3e21e500f86f9a546c8064a24771a9e82fd3a8.png"
+      }
+    },
+    "about_page_link": "https://www.google.com/search?q=About+https://www.republika.co.id/berita/ri37uq370/33-ribu-hektare-hutan-dan-lahan-terbakar-hingga-april-2022&tbm=ilp&ilps=AB_Lh3pezpya4QDIf4NNyXnXdQf-E0I1YQ",
+    "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&ilps=AB_Lh3pezpya4QDIf4NNyXnXdQf-E0I1YQ&q=About+https%3A%2F%2Fwww.republika.co.id%2Fberita%2Fri37uq370%2F33-ribu-hektare-hutan-dan-lahan-terbakar-hingga-april-2022",
+    "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:Z3Hq2sFuASMJ:https://www.republika.co.id/berita/ri37uq370/33-ribu-hektare-hutan-dan-lahan-terbakar-hingga-april-2022&cd=78&hl=en&ct=clnk&gl=us"
+  },
+  {
+    "position": 68,
+    "title": "Cegah Kebakaran Hutan Indonesia Dari Dalam Kelas Melalui ...",
+    "link": "https://www.smart-tbk.com/cegah-kebakaran-hutan-indonesia-dari-dalam-kelas-melalui-program-desa-siaga-api/",
+    "displayed_link": "https://www.smart-tbk.com › Blog",
+    "date": "May 20, 2016",
+    "snippet": "Program Desa Siaga Api merupakan bagian bagian dari rangkaian kegiatan Golden Agri Resources (GAR) dalam mencegah kebakaran hutan dan lahan ...",
+    "snippet_highlighted_words": [
+      "kebakaran hutan"
+    ],
+    "about_this_result": {
+      "source": {
+        "description": "This result comes from www.smart-tbk.com",
+        "source_info_link": "https://www.smart-tbk.com/cegah-kebakaran-hutan-indonesia-dari-dalam-kelas-melalui-program-desa-siaga-api/",
+        "security": "secure",
+        "icon": "https://serpapi.com/searches/63ec2cb42c084497608a71bc/images/c7d4185c0bb4457749fda288e7c1aab1e8647f91b400c2bd43b159d04b4ac1dcfc7962bf2538fb4534e46b936c5f5223c6266d75118fddd4.png"
+      }
+    },
+    "about_page_link": "https://www.google.com/search?q=About+https://www.smart-tbk.com/cegah-kebakaran-hutan-indonesia-dari-dalam-kelas-melalui-program-desa-siaga-api/&tbm=ilp&ilps=AB_Lh3q5BeKPE1j5UsabebrBTe8o19klOA",
+    "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&ilps=AB_Lh3q5BeKPE1j5UsabebrBTe8o19klOA&q=About+https%3A%2F%2Fwww.smart-tbk.com%2Fcegah-kebakaran-hutan-indonesia-dari-dalam-kelas-melalui-program-desa-siaga-api%2F",
+    "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:LeLdY0KUDI4J:https://www.smart-tbk.com/cegah-kebakaran-hutan-indonesia-dari-dalam-kelas-melalui-program-desa-siaga-api/&cd=79&hl=en&ct=clnk&gl=us"
+  },
+  {
+    "position": 69,
+    "title": "Rekam Jejak Kebakaran Hutan di Indonesia",
+    "link": "https://fgmi.iagi.or.id/berita/berita-dunia-geosaintis/rekam-jejak-kebakaran-hutan-di-indonesia/",
+    "displayed_link": "https://fgmi.iagi.or.id › berita › reka...",
+    "date": "Jul 28, 2021",
+    "snippet": "Di Indonesia sendiri, kebakaran hutan sepertinya sudah menjadi bencana langganan yang terjadi setiap tahunnya, terutama di musim kemarau, ...",
+    "snippet_highlighted_words": [
+      "Indonesia",
+      "kebakaran hutan"
+    ],
+    "about_this_result": {
+      "source": {
+        "description": "This result comes from fgmi.iagi.or.id",
+        "source_info_link": "https://fgmi.iagi.or.id/berita/berita-dunia-geosaintis/rekam-jejak-kebakaran-hutan-di-indonesia/",
+        "security": "secure",
+        "icon": "https://serpapi.com/searches/63ec2cb42c084497608a71bc/images/c7d4185c0bb4457749fda288e7c1aab1431aecbfab4f766cf298ade38f54d53d255673e2f6a93530a3ff112d6cf601a9dd81afcf3db2fb7c.png"
+      }
+    },
+    "about_page_link": "https://www.google.com/search?q=About+https://fgmi.iagi.or.id/berita/berita-dunia-geosaintis/rekam-jejak-kebakaran-hutan-di-indonesia/&tbm=ilp&ilps=AB_Lh3qghEgNVKfnBajiSVnw9SMqeu5xqg",
+    "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&ilps=AB_Lh3qghEgNVKfnBajiSVnw9SMqeu5xqg&q=About+https%3A%2F%2Ffgmi.iagi.or.id%2Fberita%2Fberita-dunia-geosaintis%2Frekam-jejak-kebakaran-hutan-di-indonesia%2F",
+    "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:VwJTETxSrSIJ:https://fgmi.iagi.or.id/berita/berita-dunia-geosaintis/rekam-jejak-kebakaran-hutan-di-indonesia/&cd=80&hl=en&ct=clnk&gl=us"
+  },
+  {
+    "position": 70,
+    "title": "Indonesia Masih Darurat Karhutla - LAPAN",
+    "link": "https://www.lapan.go.id/post/6666/indonesia-masih-darurat-karhutla",
+    "displayed_link": "https://www.lapan.go.id › post › indo...",
+    "date": "Sep 30, 2020",
+    "snippet": "Pada periode Januari-September 2019, luas lahan dan hutan yang terbakar mencapai 857 ribu hektar. Pantauan satelit Aqua, Terra, NOAA20 dan SNPP ...",
+    "snippet_highlighted_words": [
+      "hutan",
+      "terbakar"
+    ],
+    "about_this_result": {
+      "source": {
+        "description": "This result comes from www.lapan.go.id",
+        "source_info_link": "https://www.lapan.go.id/post/6666/indonesia-masih-darurat-karhutla",
+        "security": "secure",
+        "icon": "https://serpapi.com/searches/63ec2cb42c084497608a71bc/images/c7d4185c0bb4457749fda288e7c1aab1d7564502e974d227b2d02a6851625e00fe7186d7ab1fb4f1ddd42256ec29121afaa4b99e8fe3158a.png"
+      }
+    },
+    "about_page_link": "https://www.google.com/search?q=About+https://www.lapan.go.id/post/6666/indonesia-masih-darurat-karhutla&tbm=ilp&ilps=AB_Lh3qE0jGG25j-LQvMCrrUuqeSfd5Qsw",
+    "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&ilps=AB_Lh3qE0jGG25j-LQvMCrrUuqeSfd5Qsw&q=About+https%3A%2F%2Fwww.lapan.go.id%2Fpost%2F6666%2Findonesia-masih-darurat-karhutla",
+    "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:zChkvUqucC0J:https://www.lapan.go.id/post/6666/indonesia-masih-darurat-karhutla&cd=81&hl=en&ct=clnk&gl=us"
+  },
+  {
+    "position": 71,
+    "title": "Memahami dan Mencari Penyebab Kebakaran Hutan dan ...",
+    "link": "https://gapki.id/news/1813/memahami-dan-mencari-penyebab-kebakaran-hutan-dan-lahan",
+    "displayed_link": "https://gapki.id › news › memahami-...",
+    "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRNjZoQYiifFmYnXCQKMdCM1gfZbn669QFOhSjH8v_pRrFCxIp5k0D3&usqp=CAE&s",
+    "snippet": "Kebakaran hutan/lahan berulang hampir setiap tahun di Indonesia. Ketika memasuki musim kering apalagi musim kering ekstrim (El Nino) seperti saat ini keba..",
+    "snippet_highlighted_words": [
+      "Kebakaran hutan",
+      "Indonesia"
+    ],
+    "about_this_result": {
+      "source": {
+        "description": "This result comes from gapki.id",
+        "source_info_link": "https://gapki.id/news/1813/memahami-dan-mencari-penyebab-kebakaran-hutan-dan-lahan",
+        "security": "secure",
+        "icon": "https://serpapi.com/searches/63ec2cb42c084497608a71bc/images/c7d4185c0bb4457749fda288e7c1aab197fc15651b99a8f733ca60f6d3f304e7def23e52e3a6553e47d915f8a88afd182c7cd7b26b50f334.png"
+      }
+    },
+    "about_page_link": "https://www.google.com/search?q=About+https://gapki.id/news/1813/memahami-dan-mencari-penyebab-kebakaran-hutan-dan-lahan&tbm=ilp&ilps=AB_Lh3r2Efrm68o6CgHg2Gmef2Xkiixz5A",
+    "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&ilps=AB_Lh3r2Efrm68o6CgHg2Gmef2Xkiixz5A&q=About+https%3A%2F%2Fgapki.id%2Fnews%2F1813%2Fmemahami-dan-mencari-penyebab-kebakaran-hutan-dan-lahan",
+    "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:WRLPrRqOrPUJ:https://gapki.id/news/1813/memahami-dan-mencari-penyebab-kebakaran-hutan-dan-lahan&cd=82&hl=en&ct=clnk&gl=us"
+  },
+  {
+    "position": 72,
+    "title": "17 Cara Mencegah Kebakaran Hutan Dan Lahan - damkar",
+    "link": "https://damkar.bandaacehkota.go.id/2020/07/19/17-cara-mencegah-kebakaran-hutan-dan-lahan/",
+    "displayed_link": "https://damkar.bandaacehkota.go.id › ...",
+    "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQXTizlC76w5Fp80-FHqk28Kp8XONfXLFCHC--Mk3KYCTRk94N0K6UU&usqp=CAE&s",
+    "date": "Jul 19, 2020",
+    "snippet": "Indonesia memiliki banyak hutan sebagai salah satu sumber kekayaan alamnya. Sayang, kebakaran sering terjadi pada hutan dan lahan (karhutla) ...",
+    "snippet_highlighted_words": [
+      "Indonesia",
+      "hutan",
+      "kebakaran",
+      "hutan"
+    ],
+    "about_this_result": {
+      "source": {
+        "description": "This result comes from damkar.bandaacehkota.go.id",
+        "source_info_link": "https://damkar.bandaacehkota.go.id/2020/07/19/17-cara-mencegah-kebakaran-hutan-dan-lahan/",
+        "security": "secure",
+        "icon": "https://serpapi.com/searches/63ec2cb42c084497608a71bc/images/c7d4185c0bb4457749fda288e7c1aab16ea6b4790d7dadc735d31e6b11f231a1c24ce7b0d98f9774d7d03c99b6eda88bc05b22ea0844e206.jpeg"
+      }
+    },
+    "about_page_link": "https://www.google.com/search?q=About+https://damkar.bandaacehkota.go.id/2020/07/19/17-cara-mencegah-kebakaran-hutan-dan-lahan/&tbm=ilp&ilps=AB_Lh3p9_F0AC81F0rf_WTQcX7BHhi8WaQ",
+    "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&ilps=AB_Lh3p9_F0AC81F0rf_WTQcX7BHhi8WaQ&q=About+https%3A%2F%2Fdamkar.bandaacehkota.go.id%2F2020%2F07%2F19%2F17-cara-mencegah-kebakaran-hutan-dan-lahan%2F",
+    "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:OTjnxMCd0V0J:https://damkar.bandaacehkota.go.id/2020/07/19/17-cara-mencegah-kebakaran-hutan-dan-lahan/&cd=83&hl=en&ct=clnk&gl=us"
+  },
+  {
+    "position": 73,
+    "title": "Kebakaran Hutan - Tempo.co",
+    "link": "https://www.tempo.co/tag/kebakaran-hutan",
+    "displayed_link": "https://www.tempo.co › tag › kebaka...",
+    "snippet": "Titik Panas, Dampak, Pencegahan dan Penanggulangan Karhutla. Kebakaran hutan dan lahan kembali terjadi di wilayah Indonesia, teruta.",
+    "snippet_highlighted_words": [
+      "Kebakaran hutan",
+      "Indonesia"
+    ],
+    "about_this_result": {
+      "source": {
+        "description": "This result comes from www.tempo.co",
+        "source_info_link": "https://www.tempo.co/tag/kebakaran-hutan",
+        "security": "secure",
+        "icon": "https://serpapi.com/searches/63ec2cb42c084497608a71bc/images/c7d4185c0bb4457749fda288e7c1aab1ee98a1409f1061f84a79830654c3a5c6f2fcc80030da4e9919e2ea324c1be3e1e2354994515d038a.jpeg"
+      }
+    },
+    "about_page_link": "https://www.google.com/search?q=About+https://www.tempo.co/tag/kebakaran-hutan&tbm=ilp&ilps=AB_Lh3ofP_llit3aAEfminIYU4hgGXI0_w",
+    "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&ilps=AB_Lh3ofP_llit3aAEfminIYU4hgGXI0_w&q=About+https%3A%2F%2Fwww.tempo.co%2Ftag%2Fkebakaran-hutan",
+    "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:D5gSB8R-0jcJ:https://www.tempo.co/tag/kebakaran-hutan&cd=84&hl=en&ct=clnk&gl=us"
+  },
+  {
+    "position": 74,
+    "title": "Indonesia kerahkan 36 helikopter tangani kebakaran hutan",
+    "link": "https://www.aa.com.tr/id/nasional/indonesia-kerahkan-36-helikopter-tangani-kebakaran-hutan-/2324413",
+    "displayed_link": "https://www.aa.com.tr › nasional › in...",
+    "date": "Aug 4, 2021",
+    "snippet": "Badan Nasional Penanggulangan Bencana mengerahkan 36 helikopter untuk patroli udara dan 'water bombing' dalam menangani kebakaran hutan dan ...",
+    "snippet_highlighted_words": [
+      "kebakaran hutan"
+    ],
+    "about_this_result": {
+      "source": {
+        "description": "This result comes from www.aa.com.tr",
+        "source_info_link": "https://www.aa.com.tr/id/nasional/indonesia-kerahkan-36-helikopter-tangani-kebakaran-hutan-/2324413",
+        "security": "secure",
+        "icon": "https://serpapi.com/searches/63ec2cb42c084497608a71bc/images/c7d4185c0bb4457749fda288e7c1aab1f86e3f28b964ba281ef3cd64b9af95ba08bb2993335951ad8bc4ac874d54122ee196cd253e91794b.png"
+      }
+    },
+    "about_page_link": "https://www.google.com/search?q=About+https://www.aa.com.tr/id/nasional/indonesia-kerahkan-36-helikopter-tangani-kebakaran-hutan-/2324413&tbm=ilp&ilps=AB_Lh3pkXSgkcoS5oQBF2qxvndSG0fMPQg",
+    "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&ilps=AB_Lh3pkXSgkcoS5oQBF2qxvndSG0fMPQg&q=About+https%3A%2F%2Fwww.aa.com.tr%2Fid%2Fnasional%2Findonesia-kerahkan-36-helikopter-tangani-kebakaran-hutan-%2F2324413",
+    "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:gPHMEirT-i0J:https://www.aa.com.tr/id/nasional/indonesia-kerahkan-36-helikopter-tangani-kebakaran-hutan-/2324413&cd=85&hl=en&ct=clnk&gl=us"
+  },
+  {
+    "position": 75,
+    "title": "Proyek Program Gerakan Masyarakat Untuk Pencegahan ...",
+    "link": "https://www.jica.go.jp/indonesia/indonesian/office/others/press220713.html",
+    "displayed_link": "https://www.jica.go.jp › press220713",
+    "date": "Jul 13, 2022",
+    "snippet": "Penandatanganan Kerjasama untuk Indonesia: Proyek Program Gerakan Masyarakat Untuk Pencegahan Kebakaran Hutan dan Lahan (Riau, Kalimantan Barat, ...",
+    "snippet_highlighted_words": [
+      "Indonesia",
+      "Kebakaran Hutan"
+    ],
+    "about_this_result": {
+      "source": {
+        "description": "This result comes from www.jica.go.jp",
+        "source_info_link": "https://www.jica.go.jp/indonesia/indonesian/office/others/press220713.html",
+        "security": "secure",
+        "icon": "https://serpapi.com/searches/63ec2cb42c084497608a71bc/images/c7d4185c0bb4457749fda288e7c1aab1772cc3de47a705f1b97722b3782ca929653592a532bed13e33225ffa678639f70d7d403b605c279c.jpeg"
+      }
+    },
+    "about_page_link": "https://www.google.com/search?q=About+https://www.jica.go.jp/indonesia/indonesian/office/others/press220713.html&tbm=ilp&ilps=AB_Lh3ox1SiRTOHnw0WsrvIbg5PZjuegnw",
+    "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&ilps=AB_Lh3ox1SiRTOHnw0WsrvIbg5PZjuegnw&q=About+https%3A%2F%2Fwww.jica.go.jp%2Findonesia%2Findonesian%2Foffice%2Fothers%2Fpress220713.html",
+    "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:T4JmtVttNBUJ:https://www.jica.go.jp/indonesia/indonesian/office/others/press220713.html&cd=86&hl=en&ct=clnk&gl=us"
+  },
+  {
+    "position": 76,
+    "title": "Kebakaran Hutan di Indonesia yang Masih Berulang ...",
+    "link": "https://www.kompasiana.com/dewi_puspa/615c5e7e06310e0cda782ad2/kebakaran-hutan-di-indonesia-yang-masih-berulang",
+    "displayed_link": "https://www.kompasiana.com › Nature › Nature",
+    "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSdkv8valqCx1GP2Xv0K5-dv9R6E6Xg9YC3rIWQenqtdK54iQg8dxYS&usqp=CAE&s",
+    "date": "Oct 5, 2021",
+    "snippet": "Banjir kemudian bisa terjadi. Kebakaran hutan dan lahan tidak boleh dipandang enteng. Pelaku pembakaran terutama yang disengaja perlu dihukum ...",
+    "snippet_highlighted_words": [
+      "Kebakaran hutan"
+    ],
+    "about_this_result": {
+      "source": {
+        "description": "This result comes from www.kompasiana.com",
+        "source_info_link": "https://www.kompasiana.com/dewi_puspa/615c5e7e06310e0cda782ad2/kebakaran-hutan-di-indonesia-yang-masih-berulang",
+        "security": "secure",
+        "icon": "https://serpapi.com/searches/63ec2cb42c084497608a71bc/images/c7d4185c0bb4457749fda288e7c1aab143457b7672266be98e6780c996d40de3b4cc7d3c8f4805e4d883784f012c4a7b1f72d4c548256199.png"
+      }
+    },
+    "about_page_link": "https://www.google.com/search?q=About+https://www.kompasiana.com/dewi_puspa/615c5e7e06310e0cda782ad2/kebakaran-hutan-di-indonesia-yang-masih-berulang&tbm=ilp&ilps=AB_Lh3qPUMTM6SZFCsSi6JfeHALdv9utzA",
+    "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&ilps=AB_Lh3qPUMTM6SZFCsSi6JfeHALdv9utzA&q=About+https%3A%2F%2Fwww.kompasiana.com%2Fdewi_puspa%2F615c5e7e06310e0cda782ad2%2Fkebakaran-hutan-di-indonesia-yang-masih-berulang",
+    "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:CtDC7LIXIzAJ:https://www.kompasiana.com/dewi_puspa/615c5e7e06310e0cda782ad2/kebakaran-hutan-di-indonesia-yang-masih-berulang&cd=87&hl=en&ct=clnk&gl=us"
+  },
+  {
+    "position": 77,
+    "title": "Top 10 Negara dengan Kebakaran Hutan dan Lahan ...",
+    "link": "https://www.bpdp.or.id/top-10-negara-dengan-kebakaran-hutan-dan-lahan-karhutla-di-dunia-indonesia-tidak-termasuk",
+    "displayed_link": "https://www.bpdp.or.id › top-10-neg...",
+    "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ2t4SNUTOSKpZC4G18tvL41lZtFu7ZEctc1YdRPPW1zK7ylFjNQ3gV&usqp=CAE&s",
+    "snippet": "Top 10 Negara dengan Kebakaran Hutan dan Lahan (Karhutla) di Dunia: Indonesia Tidak Termasuk. May 11, 2021 08:00 3053.",
+    "snippet_highlighted_words": [
+      "Kebakaran Hutan",
+      "Indonesia"
+    ],
+    "about_this_result": {
+      "source": {
+        "description": "This result comes from www.bpdp.or.id",
+        "source_info_link": "https://www.bpdp.or.id/top-10-negara-dengan-kebakaran-hutan-dan-lahan-karhutla-di-dunia-indonesia-tidak-termasuk",
+        "security": "secure",
+        "icon": "https://serpapi.com/searches/63ec2cb42c084497608a71bc/images/c7d4185c0bb4457749fda288e7c1aab1eb0c0094768a88db1be5d7b4e8302f4012505dd8ac815487f554cb8be5dc2465028c6bbbb7c8b54f.png"
+      }
+    },
+    "about_page_link": "https://www.google.com/search?q=About+https://www.bpdp.or.id/top-10-negara-dengan-kebakaran-hutan-dan-lahan-karhutla-di-dunia-indonesia-tidak-termasuk&tbm=ilp&ilps=AB_Lh3rncs2yOB4jPeRQo2JJW5Kv9IaeZQ",
+    "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&ilps=AB_Lh3rncs2yOB4jPeRQo2JJW5Kv9IaeZQ&q=About+https%3A%2F%2Fwww.bpdp.or.id%2Ftop-10-negara-dengan-kebakaran-hutan-dan-lahan-karhutla-di-dunia-indonesia-tidak-termasuk",
+    "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:tHH4AQoBN-QJ:https://www.bpdp.or.id/top-10-negara-dengan-kebakaran-hutan-dan-lahan-karhutla-di-dunia-indonesia-tidak-termasuk&cd=88&hl=en&ct=clnk&gl=us"
+  },
+  {
+    "position": 78,
+    "title": "Cegah Kebakaran Hutan Kalimantan, Ini Karya Mahasiswa ...",
+    "link": "https://itk.ac.id/cegah-kebakaran-hutan-kalimantan-ini-karya-mahasiswa-itk-balikpapan/",
+    "displayed_link": "https://itk.ac.id › cegah-kebakaran-h...",
+    "date": "Sep 3, 2021",
+    "snippet": "Berdasarkan permasalahan diatas, maka dibuatlah solusi untuk menyelesaikan masalah kebakaran hutan di Indonesia khususnya pulau Kalimantan ...",
+    "snippet_highlighted_words": [
+      "kebakaran hutan",
+      "Indonesia"
+    ],
+    "about_this_result": {
+      "source": {
+        "description": "This result comes from itk.ac.id",
+        "source_info_link": "https://itk.ac.id/cegah-kebakaran-hutan-kalimantan-ini-karya-mahasiswa-itk-balikpapan/",
+        "security": "secure",
+        "icon": "https://serpapi.com/searches/63ec2cb42c084497608a71bc/images/c7d4185c0bb4457749fda288e7c1aab11e0b1ea7f39c2eaeaf17cc774fff5e6455a80c08526ffe7e1bd3deddba89d629ce1a8c3ee1b078bb.png"
+      }
+    },
+    "about_page_link": "https://www.google.com/search?q=About+https://itk.ac.id/cegah-kebakaran-hutan-kalimantan-ini-karya-mahasiswa-itk-balikpapan/&tbm=ilp&ilps=AB_Lh3pZn0XbNXQW-KINCW2Tm3nYYI_0XA",
+    "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&ilps=AB_Lh3pZn0XbNXQW-KINCW2Tm3nYYI_0XA&q=About+https%3A%2F%2Fitk.ac.id%2Fcegah-kebakaran-hutan-kalimantan-ini-karya-mahasiswa-itk-balikpapan%2F",
+    "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:W54yiENMysUJ:https://itk.ac.id/cegah-kebakaran-hutan-kalimantan-ini-karya-mahasiswa-itk-balikpapan/&cd=89&hl=en&ct=clnk&gl=us"
+  },
+  {
+    "position": 79,
+    "title": "Kebakaran Hutan dan Lahan, Siapa yang Melanggengkan",
+    "link": "https://sawitwatch.or.id/2014/11/18/kebakaran-hutan-dan-lahan-siapa-yang-melanggengkan/",
+    "displayed_link": "https://sawitwatch.or.id › 2014/11/18",
+    "date": "Nov 18, 2014",
+    "snippet": "Jakarta- Hingga saat ini kejadian kebakaran hutan dan lahan masih terus berlangsung, menurut catatan sejarah di indonesia Kebakaran hutan ...",
+    "snippet_highlighted_words": [
+      "kebakaran hutan",
+      "indonesia Kebakaran hutan"
+    ],
+    "about_this_result": {
+      "source": {
+        "description": "This result comes from sawitwatch.or.id",
+        "source_info_link": "https://sawitwatch.or.id/2014/11/18/kebakaran-hutan-dan-lahan-siapa-yang-melanggengkan/",
+        "security": "secure",
+        "icon": "https://serpapi.com/searches/63ec2cb42c084497608a71bc/images/c7d4185c0bb4457749fda288e7c1aab1753594f88edcb9014602e901909e9adeb0397793775dc6f6f0b565a8a17aeb7313259c7ecd9d80e9.jpeg"
+      }
+    },
+    "about_page_link": "https://www.google.com/search?q=About+https://sawitwatch.or.id/2014/11/18/kebakaran-hutan-dan-lahan-siapa-yang-melanggengkan/&tbm=ilp&ilps=AB_Lh3oKvrwNpFDWgHUZrabc39DzZrgCrg",
+    "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&ilps=AB_Lh3oKvrwNpFDWgHUZrabc39DzZrgCrg&q=About+https%3A%2F%2Fsawitwatch.or.id%2F2014%2F11%2F18%2Fkebakaran-hutan-dan-lahan-siapa-yang-melanggengkan%2F",
+    "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:uCjUdIrK6jMJ:https://sawitwatch.or.id/2014/11/18/kebakaran-hutan-dan-lahan-siapa-yang-melanggengkan/&cd=90&hl=en&ct=clnk&gl=us"
+  },
+  {
+    "position": 80,
+    "title": "Sejarah Kebakaran Hutan & Lahan di Indonesia Terparah ...",
+    "link": "https://tirto.id/sejarah-kebakaran-hutan-lahan-di-indonesia-terparah-tahun-1997-eijN",
+    "displayed_link": "https://tirto.id › Sosial Budaya",
+    "date": "Sep 18, 2019",
+    "snippet": "Pada 1997 terjadi kebakaran hutan dan lahan di Riau dan ...",
+    "snippet_highlighted_words": [
+      "kebakaran hutan"
+    ],
+    "about_this_result": {
+      "source": {
+        "description": "This result comes from tirto.id",
+        "source_info_link": "https://tirto.id/sejarah-kebakaran-hutan-lahan-di-indonesia-terparah-tahun-1997-eijN",
+        "security": "secure",
+        "icon": "https://serpapi.com/searches/63ec2cb42c084497608a71bc/images/c7d4185c0bb4457749fda288e7c1aab1c77faf751e5bf70e5c932c2e2f9b334e680077afe433bac7a76e5b07715adf7cbfefa4b2dcd82f0a.png"
+      }
+    },
+    "about_page_link": "https://www.google.com/search?q=About+https://tirto.id/sejarah-kebakaran-hutan-lahan-di-indonesia-terparah-tahun-1997-eijN&tbm=ilp&ilps=AB_Lh3qUeSPU58wPMv0984YHzk7KkwPNYA",
+    "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&ilps=AB_Lh3qUeSPU58wPMv0984YHzk7KkwPNYA&q=About+https%3A%2F%2Ftirto.id%2Fsejarah-kebakaran-hutan-lahan-di-indonesia-terparah-tahun-1997-eijN",
+    "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:syn4SmrnhqEJ:https://tirto.id/sejarah-kebakaran-hutan-lahan-di-indonesia-terparah-tahun-1997-eijN&cd=91&hl=en&ct=clnk&gl=us"
+  },
+  {
+    "position": 81,
+    "title": "Kebakaran Hutan dan Lahan, Menolak Lupa terhadap ...",
+    "link": "https://www.walhi.or.id/kebakaran-hutan-dan-lahan-menolak-lupa-terhadap-kejahatan-korporasi",
+    "displayed_link": "https://www.walhi.or.id › kebakaran-...",
+    "date": "Jul 26, 2017",
+    "snippet": "Wahana Lingkungan Hidup Indonesia (WALHI) Jakarta, 27 Juli 2017 – Kebakaran hutan dan lahan (Karhutla) sudah seperti “agenda” tahunan.",
+    "snippet_highlighted_words": [
+      "Indonesia",
+      "Kebakaran hutan"
+    ],
+    "about_this_result": {
+      "source": {
+        "description": "This result comes from www.walhi.or.id",
+        "source_info_link": "https://www.walhi.or.id/kebakaran-hutan-dan-lahan-menolak-lupa-terhadap-kejahatan-korporasi",
+        "security": "secure",
+        "icon": "https://serpapi.com/searches/63ec2cb42c084497608a71bc/images/c7d4185c0bb4457749fda288e7c1aab183ab9092a9fa03c906330f8a00a040cc20e5f439c8591490f7fa2d45d47ae102994bc4c743278484.png"
+      }
+    },
+    "about_page_link": "https://www.google.com/search?q=About+https://www.walhi.or.id/kebakaran-hutan-dan-lahan-menolak-lupa-terhadap-kejahatan-korporasi&tbm=ilp&ilps=AB_Lh3rME5HLvDDGXCsYTv5IuVhBFRfN2Q",
+    "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&ilps=AB_Lh3rME5HLvDDGXCsYTv5IuVhBFRfN2Q&q=About+https%3A%2F%2Fwww.walhi.or.id%2Fkebakaran-hutan-dan-lahan-menolak-lupa-terhadap-kejahatan-korporasi",
+    "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:vtPM6Uo6ddUJ:https://www.walhi.or.id/kebakaran-hutan-dan-lahan-menolak-lupa-terhadap-kejahatan-korporasi&cd=92&hl=en&ct=clnk&gl=us"
+  },
+  {
+    "position": 82,
+    "title": "Pelaku Pembakaran Hutan Langgar Hak Konstitusi Masyarakat",
+    "link": "https://mkri.id/index.php?page=web.Berita&id=12056",
+    "displayed_link": "https://mkri.id › ...",
+    "snippet": "Petugas pemadam kebakaran, rangers, tentara dan aktivis lingkungan memadamkan ... Kabut asap dari kebakaran hutan di Indonesia, mengakibatkan pembatalan ...",
+    "snippet_highlighted_words": [
+      "kebakaran hutan",
+      "Indonesia"
+    ],
+    "about_this_result": {
+      "source": {
+        "description": "This result comes from mkri.id",
+        "source_info_link": "https://mkri.id/index.php?page=web.Berita&id=12056",
+        "security": "secure",
+        "icon": "https://serpapi.com/searches/63ec2cb42c084497608a71bc/images/c7d4185c0bb4457749fda288e7c1aab154a9607a9c8aea2078abd0d3def34364a1d1f4323322f870662d6aa70d0c78dbb5aefe150a06399f.png"
+      }
+    },
+    "about_page_link": "https://www.google.com/search?q=About+https://mkri.id/index.php?page%3Dweb.Berita%26id%3D12056&tbm=ilp&ilps=AB_Lh3rd0NeioJEzSdQQ_mPGsWrC0xHGdA",
+    "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&ilps=AB_Lh3rd0NeioJEzSdQQ_mPGsWrC0xHGdA&q=About+https%3A%2F%2Fmkri.id%2Findex.php%3Fpage%3Dweb.Berita%26id%3D12056",
+    "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:WByoc1leNSIJ:https://mkri.id/index.php%3Fpage%3Dweb.Berita%26id%3D12056&cd=93&hl=en&ct=clnk&gl=us"
+  },
+  {
+    "position": 83,
+    "title": "Pemerintah Siapkan Strategi Pencegahan dan Penanganan ...",
+    "link": "https://www.kemenkopmk.go.id/pemerintah-siapkan-strategi-pencegahan-dan-penanganan-karhutla-2020",
+    "displayed_link": "https://www.kemenkopmk.go.id › pe...",
+    "date": "Dec 6, 2019",
+    "snippet": "... strategi dan program guna menanggulangi masalah kebakaran hutan dan lahan (karhutla) yang masih kerap terjadi di Indonesia.",
+    "snippet_highlighted_words": [
+      "kebakaran hutan",
+      "Indonesia"
+    ],
+    "about_this_result": {
+      "source": {
+        "description": "This result comes from www.kemenkopmk.go.id",
+        "source_info_link": "https://www.kemenkopmk.go.id/pemerintah-siapkan-strategi-pencegahan-dan-penanganan-karhutla-2020",
+        "security": "secure",
+        "icon": "https://serpapi.com/searches/63ec2cb42c084497608a71bc/images/c7d4185c0bb4457749fda288e7c1aab10d4f61d2e6f3b2c0723c66a9b4607b1384c1e52a822854fb245f4ab89787582d70c5fbafc439f897.png"
+      }
+    },
+    "about_page_link": "https://www.google.com/search?q=About+https://www.kemenkopmk.go.id/pemerintah-siapkan-strategi-pencegahan-dan-penanganan-karhutla-2020&tbm=ilp&ilps=AB_Lh3q9IHMdft8tret6id5htHsbzHvgIA",
+    "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&ilps=AB_Lh3q9IHMdft8tret6id5htHsbzHvgIA&q=About+https%3A%2F%2Fwww.kemenkopmk.go.id%2Fpemerintah-siapkan-strategi-pencegahan-dan-penanganan-karhutla-2020",
+    "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:pRKPonPFIfIJ:https://www.kemenkopmk.go.id/pemerintah-siapkan-strategi-pencegahan-dan-penanganan-karhutla-2020&cd=94&hl=en&ct=clnk&gl=us"
+  },
+  {
+    "position": 84,
+    "title": "KEBAKARAN HUTAN INDONESIA DAN UPAYA ... - OSF",
+    "link": "https://osf.io/gnvwp/download/?format=pdf",
+    "displayed_link": "https://osf.io › gnvwp › download",
+    "snippet": "Kebakaran hutan ialah bencana yang kerap terjadi di negara Indonesia pada musim kering atau kemarau. Kebakaran ini sangat merugikan di berbagai sektor ...",
+    "snippet_highlighted_words": [
+      "Kebakaran hutan",
+      "Indonesia"
+    ],
+    "about_this_result": {
+      "source": {
+        "description": "This result comes from osf.io",
+        "source_info_link": "https://osf.io/gnvwp/download/?format=pdf",
+        "security": "secure",
+        "icon": "https://serpapi.com/searches/63ec2cb42c084497608a71bc/images/c7d4185c0bb4457749fda288e7c1aab1eccc46ab3ce318bec24bf90bc2dd527141d5d9555f0aee44e59d895d51843da99e9ff950b061fc3a.png"
+      }
+    },
+    "about_page_link": "https://www.google.com/search?q=About+https://osf.io/gnvwp/download/?format%3Dpdf&tbm=ilp&ilps=AB_Lh3rH6o2NnOkp3z6lP5gp0wPtJVQNwg",
+    "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&ilps=AB_Lh3rH6o2NnOkp3z6lP5gp0wPtJVQNwg&q=About+https%3A%2F%2Fosf.io%2Fgnvwp%2Fdownload%2F%3Fformat%3Dpdf",
+    "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:Q3WnT3enDIMJ:https://osf.io/gnvwp/download/%3Fformat%3Dpdf&cd=95&hl=en&ct=clnk&gl=us"
+  },
+  {
+    "position": 85,
+    "title": "Mengurai Akar Masalah Kebakaran Hutan dan Lahan - LIPI",
+    "link": "http://lipi.go.id/berita/single/Mengurai-Akar-Masalah-Kebakaran-Hutan-dan-Lahan/21792",
+    "displayed_link": "http://lipi.go.id › berita › single › Me...",
+    "date": "Sep 24, 2019",
+    "snippet": "Jakarta, Humas LIPI. Kebakaran hutan dan lahan menjadi kejadian yang terus berulang di Indonesia setiap musim kemarau tiba.",
+    "snippet_highlighted_words": [
+      "Kebakaran hutan",
+      "Indonesia"
+    ],
+    "about_this_result": {
+      "source": {
+        "description": "This result comes from lipi.go.id",
+        "source_info_link": "http://lipi.go.id/berita/single/Mengurai-Akar-Masalah-Kebakaran-Hutan-dan-Lahan/21792",
+        "security": "not secure",
+        "icon": "https://serpapi.com/searches/63ec2cb42c084497608a71bc/images/c7d4185c0bb4457749fda288e7c1aab12df5ce161116d7a266ec65cb4c9c23739fa37f58a69b1dd4316ae6e6444ea17e905609368abcc87e.png"
+      }
+    },
+    "about_page_link": "https://www.google.com/search?q=About+http://lipi.go.id/berita/single/Mengurai-Akar-Masalah-Kebakaran-Hutan-dan-Lahan/21792&tbm=ilp&ilps=AB_Lh3q07LSug_NfgzoCOi37pr3K6Om-aQ",
+    "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&ilps=AB_Lh3q07LSug_NfgzoCOi37pr3K6Om-aQ&q=About+http%3A%2F%2Flipi.go.id%2Fberita%2Fsingle%2FMengurai-Akar-Masalah-Kebakaran-Hutan-dan-Lahan%2F21792",
+    "cached_page_link": "http://webcache.googleusercontent.com/search?q=cache:gE4cBtvy1SgJ:lipi.go.id/berita/single/Mengurai-Akar-Masalah-Kebakaran-Hutan-dan-Lahan/21792&cd=96&hl=en&ct=clnk&gl=us"
+  },
+  {
+    "position": 86,
+    "title": "Kerugian Kebakaran Hutan 2015 Rp220 Triliun, Presiden ...",
+    "link": "https://setkab.go.id/kerugian-kebakaran-hutan-2015-rp220-triliun-presiden-jokowi-minta-tahun-ini-tidak-terulang-lagi/",
+    "displayed_link": "https://setkab.go.id › Berita",
+    "date": "Jan 23, 2017",
+    "snippet": "Presiden Joko Widodo (Jokowi) mengingatkan, kasus kebakaran hutan dan lahan yang terjadi pada 2015 lalu telah membuat pemerintah ...",
+    "snippet_highlighted_words": [
+      "kebakaran hutan"
+    ],
+    "about_this_result": {
+      "source": {
+        "description": "This result comes from setkab.go.id",
+        "source_info_link": "https://setkab.go.id/kerugian-kebakaran-hutan-2015-rp220-triliun-presiden-jokowi-minta-tahun-ini-tidak-terulang-lagi/",
+        "security": "secure",
+        "icon": "https://serpapi.com/searches/63ec2cb42c084497608a71bc/images/c7d4185c0bb4457749fda288e7c1aab10074046993dca92dc7c7e79fa3f19508851fc005a91de67b786cd108d2c974c6d85e9eb2795294c3.png"
+      }
+    },
+    "about_page_link": "https://www.google.com/search?q=About+https://setkab.go.id/kerugian-kebakaran-hutan-2015-rp220-triliun-presiden-jokowi-minta-tahun-ini-tidak-terulang-lagi/&tbm=ilp&ilps=AB_Lh3oo3PFtm-d-aghE3GGwWq4XrSYYRw",
+    "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&ilps=AB_Lh3oo3PFtm-d-aghE3GGwWq4XrSYYRw&q=About+https%3A%2F%2Fsetkab.go.id%2Fkerugian-kebakaran-hutan-2015-rp220-triliun-presiden-jokowi-minta-tahun-ini-tidak-terulang-lagi%2F",
+    "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:KQHOqTAv844J:https://setkab.go.id/kerugian-kebakaran-hutan-2015-rp220-triliun-presiden-jokowi-minta-tahun-ini-tidak-terulang-lagi/&cd=97&hl=en&ct=clnk&gl=us"
+  },
+  {
+    "position": 87,
+    "title": "Memutus Siklus Empat Tahunan Kebakaran Hutan",
+    "link": "https://indonesia.go.id/kategori/budaya/4572/memutus-siklus-empat-tahunan-kebakaran-hutan?lang=1",
+    "displayed_link": "https://indonesia.go.id › budaya › me...",
+    "date": "Mar 31, 2022",
+    "snippet": "Indonesia mengalami bencana karhutla pada 2015 dan 2019. Kemarau 2022 diperkirakan akan panjang dan kerontang. Pemerintah pusat, pemprov ...",
+    "snippet_highlighted_words": [
+      "Indonesia"
+    ],
+    "about_this_result": {
+      "source": {
+        "description": "This result comes from indonesia.go.id",
+        "source_info_link": "https://indonesia.go.id/kategori/budaya/4572/memutus-siklus-empat-tahunan-kebakaran-hutan?lang=1",
+        "security": "secure",
+        "icon": "https://serpapi.com/searches/63ec2cb42c084497608a71bc/images/c7d4185c0bb4457749fda288e7c1aab15f5f7b4ac7e555e943b440de69841cb2076c3af72e3f43520afc72a71ee2fc3b90781d8914e165b8.png"
+      }
+    },
+    "about_page_link": "https://www.google.com/search?q=About+https://indonesia.go.id/kategori/budaya/4572/memutus-siklus-empat-tahunan-kebakaran-hutan?lang%3D1&tbm=ilp&ilps=AB_Lh3oyVT7qaX_-krZJubKgWtTgUbUp6Q",
+    "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&ilps=AB_Lh3oyVT7qaX_-krZJubKgWtTgUbUp6Q&q=About+https%3A%2F%2Findonesia.go.id%2Fkategori%2Fbudaya%2F4572%2Fmemutus-siklus-empat-tahunan-kebakaran-hutan%3Flang%3D1",
+    "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:rQeZ0GLiuXYJ:https://indonesia.go.id/kategori/budaya/4572/memutus-siklus-empat-tahunan-kebakaran-hutan%3Flang%3D1&cd=98&hl=en&ct=clnk&gl=us"
+  },
+  {
+    "position": 88,
+    "title": "Kebakaran Hutan dan Lahan - BPBD Sumsel",
+    "link": "http://bpbd.sumselprov.go.id/playlist/watch/kebakaran-hutan-dan-lahan",
+    "displayed_link": "http://bpbd.sumselprov.go.id › watch",
+    "thumbnail": "https://i.ytimg.com/vi/5oGDjwLu8R4/mqdefault.jpg?sqp=-oaymwEFCLIBEGQ&rs=AMzJL3ljOo0BPXlUOpkWZFM1kOYKfZaxJQ",
+    "snippet": "Film Animasi mengenai kebakaran hutan dan lahan, pelajari sebabnya dan akibatnya. Mari kita bersama-sama menjaga dan melestarikan hutan kita ...",
+    "rich_snippet": {
+      "top": {
+        "extensions": [
+          "BPBD Sumsel",
+          "BNPB Indonesia",
+          "Jul 13, 2020"
+        ],
+        "detected_extensions": {
+          "jul": 13
+        }
+      }
+    },
+    "about_this_result": {
+      "source": {
+        "description": "South Sumatra is a province of Indonesia. It is located on the southeast of the island of Sumatra, The province spans 91,592.43 km² and had a population of 8,467,432 at the 2020 Census. The capital of the province is Palembang.",
+        "source_info_link": "http://bpbd.sumselprov.go.id/playlist/watch/kebakaran-hutan-dan-lahan",
+        "security": "not secure",
+        "icon": "https://serpapi.com/searches/63ec2cb42c084497608a71bc/images/c7d4185c0bb4457749fda288e7c1aab1fc1eefbcaae226f3de257914ce35a19961fe4dd873e02efbae6838cc4411d567c7e524629587b728.png"
+      }
+    },
+    "about_page_link": "https://www.google.com/search?q=About+http://bpbd.sumselprov.go.id/playlist/watch/kebakaran-hutan-dan-lahan&tbm=ilp&ilps=AB_Lh3o2QDwBDhMm77qtkpVklKda2vgy_Q",
+    "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&ilps=AB_Lh3o2QDwBDhMm77qtkpVklKda2vgy_Q&q=About+http%3A%2F%2Fbpbd.sumselprov.go.id%2Fplaylist%2Fwatch%2Fkebakaran-hutan-dan-lahan"
+  },
+  {
+    "position": 89,
+    "title": "Karhutla dalam Lima Tahun Terakhir - Greenpeace Indonesia",
+    "link": "https://www.greenpeace.org/indonesia/publikasi/44219/karhutla-dalam-lima-tahun-terakhir/",
+    "displayed_link": "https://www.greenpeace.org › publikasi",
+    "date": "Oct 22, 2020",
+    "snippet": "1,3 juta hektar (30 persen) dari area kebakaran yang dipetakan antara 2015 – 2019 berada di konsesi kelapa sawit dan bubur kertas (pulp). Pada ...",
+    "snippet_highlighted_words": [
+      "kebakaran"
+    ],
+    "about_this_result": {
+      "source": {
+        "description": "This result comes from www.greenpeace.org",
+        "source_info_link": "https://www.greenpeace.org/indonesia/publikasi/44219/karhutla-dalam-lima-tahun-terakhir/",
+        "security": "secure",
+        "icon": "https://serpapi.com/searches/63ec2cb42c084497608a71bc/images/c7d4185c0bb4457749fda288e7c1aab16fad1c4c274f03bcae0319af66b4651b206242b23bef066bc87c7fe14cb135719b494197b1e75614.png"
+      }
+    },
+    "about_page_link": "https://www.google.com/search?q=About+https://www.greenpeace.org/indonesia/publikasi/44219/karhutla-dalam-lima-tahun-terakhir/&tbm=ilp&ilps=AB_Lh3o0iBKb6mr5V3R51hSSyIkly8xZRw",
+    "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&ilps=AB_Lh3o0iBKb6mr5V3R51hSSyIkly8xZRw&q=About+https%3A%2F%2Fwww.greenpeace.org%2Findonesia%2Fpublikasi%2F44219%2Fkarhutla-dalam-lima-tahun-terakhir%2F",
+    "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:0P_Mh2yfMvEJ:https://www.greenpeace.org/indonesia/publikasi/44219/karhutla-dalam-lima-tahun-terakhir/&cd=100&hl=en&ct=clnk&gl=us"
+  },
+  {
+    "position": 90,
+    "title": "Kerugian dari Kebakaran Hutan",
+    "link": "https://openknowledge.worldbank.org/bitstream/handle/10986/23840/Forest%20Fire%20Notes%20-%20Bahasa%20final%20april%2018.pdf?sequence=6&isAllowed=y",
+    "displayed_link": "https://openknowledge.worldbank.org › handle",
+    "snippet": "Sekitar 33 persen dari jumlah lahan yang terbakar merupakan lahan gambut, yang menyebabkan kabut asap berbahaya yang menyelimuti wilayah Indonesia dan kawasan ...",
+    "snippet_highlighted_words": [
+      "terbakar",
+      "Indonesia"
+    ],
+    "about_this_result": {
+      "source": {
+        "description": "This result comes from openknowledge.worldbank.org",
+        "source_info_link": "https://openknowledge.worldbank.org/bitstream/handle/10986/23840/Forest%20Fire%20Notes%20-%20Bahasa%20final%20april%2018.pdf?sequence=6&isAllowed=y",
+        "security": "secure",
+        "icon": "https://serpapi.com/searches/63ec2cb42c084497608a71bc/images/c7d4185c0bb4457749fda288e7c1aab1d871d81dcdb4c10f2201bba4b303a04968ac079359630d86bf4b6945bc7128ed852f1ef2c1eb048a.png"
+      }
+    },
+    "about_page_link": "https://www.google.com/search?q=About+https://openknowledge.worldbank.org/bitstream/handle/10986/23840/Forest%2520Fire%2520Notes%2520-%2520Bahasa%2520final%2520april%252018.pdf?sequence%3D6%26isAllowed%3Dy&tbm=ilp&ilps=AB_Lh3qT-3xyU9XR6jlvMMztU53UJm5JQQ",
+    "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&ilps=AB_Lh3qT-3xyU9XR6jlvMMztU53UJm5JQQ&q=About+https%3A%2F%2Fopenknowledge.worldbank.org%2Fbitstream%2Fhandle%2F10986%2F23840%2FForest%2520Fire%2520Notes%2520-%2520Bahasa%2520final%2520april%252018.pdf%3Fsequence%3D6%26isAllowed%3Dy",
+    "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:PGE-4d4UQTQJ:https://openknowledge.worldbank.org/bitstream/handle/10986/23840/Forest%2520Fire%2520Notes%2520-%2520Bahasa%2520final%2520april%252018.pdf%3Fsequence%3D6%26isAllowed%3Dy&cd=101&hl=en&ct=clnk&gl=us",
+    "related_pages_link": "https://www.google.com/search?ucbcb=1&q=related:https://openknowledge.worldbank.org/bitstream/handle/10986/23840/Forest%2520Fire%2520Notes%2520-%2520Bahasa%2520final%2520april%252018.pdf%3Fsequence%3D6%26isAllowed%3Dy+Kebakaran+Hutan+Indonesia"
+  },
+  {
+    "position": 91,
+    "title": "Kebakaran di Indonesia makin merebak - Berita Harian",
+    "link": "https://www.bharian.com.my/dunia/asean/2019/09/606214/kebakaran-di-indonesia-makin-merebak",
+    "displayed_link": "https://www.bharian.com.my › asean",
+    "date": "Sep 12, 2019",
+    "snippet": "PEKANBARU: Jumlah kebakaran hutan hujan Indonesia naik mendadak, menyebarkan kabut ke seluruh Asia Tenggara, menurut data satelit hari ini.",
+    "snippet_highlighted_words": [
+      "kebakaran hutan",
+      "Indonesia"
+    ],
+    "about_this_result": {
+      "source": {
+        "description": "This result comes from www.bharian.com.my",
+        "source_info_link": "https://www.bharian.com.my/dunia/asean/2019/09/606214/kebakaran-di-indonesia-makin-merebak",
+        "security": "secure",
+        "icon": "https://serpapi.com/searches/63ec2cb42c084497608a71bc/images/c7d4185c0bb4457749fda288e7c1aab1752c272607fe599aa78e3ced91e12e38daea01a5deb805a742775973029402e61096ccdbb3420be6.png"
+      }
+    },
+    "about_page_link": "https://www.google.com/search?q=About+https://www.bharian.com.my/dunia/asean/2019/09/606214/kebakaran-di-indonesia-makin-merebak&tbm=ilp&ilps=AB_Lh3q8dxZUivvgRc9MVfUTfDO3SG4JSA",
+    "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&ilps=AB_Lh3q8dxZUivvgRc9MVfUTfDO3SG4JSA&q=About+https%3A%2F%2Fwww.bharian.com.my%2Fdunia%2Fasean%2F2019%2F09%2F606214%2Fkebakaran-di-indonesia-makin-merebak",
+    "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:LaqY5adVzmgJ:https://www.bharian.com.my/dunia/asean/2019/09/606214/kebakaran-di-indonesia-makin-merebak&cd=102&hl=en&ct=clnk&gl=us"
+  },
+  {
+    "position": 92,
+    "title": "Berita kebakaran hutan terkini dan terbaru hari ini",
+    "link": "https://www.okezone.com/tag/kebakaran-hutan",
+    "displayed_link": "https://www.okezone.com › tag › ke...",
+    "snippet": "Panglima TNI Laksamana Yudo Margono meminta kepada jajarannya untuk mengatasi ancaman kebakaran hutan dan lahan. Nasional. Rabu 08 Februari 2023 10:35 WIB.",
+    "snippet_highlighted_words": [
+      "kebakaran hutan"
+    ],
+    "about_this_result": {
+      "source": {
+        "description": "This result comes from www.okezone.com",
+        "source_info_link": "https://www.okezone.com/tag/kebakaran-hutan",
+        "security": "secure",
+        "icon": "https://serpapi.com/searches/63ec2cb42c084497608a71bc/images/c7d4185c0bb4457749fda288e7c1aab1b176510ed4610fb2d283627ca93a61a7c229acf442d5918166fc57982df266462f8eb109110d81d4.png"
+      }
+    },
+    "about_page_link": "https://www.google.com/search?q=About+https://www.okezone.com/tag/kebakaran-hutan&tbm=ilp&ilps=AB_Lh3oCZ7ck8yu3WwGeEwCV7XeyzxDpvg",
+    "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&ilps=AB_Lh3oCZ7ck8yu3WwGeEwCV7XeyzxDpvg&q=About+https%3A%2F%2Fwww.okezone.com%2Ftag%2Fkebakaran-hutan",
+    "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:y4kVWKG6VhwJ:https://www.okezone.com/tag/kebakaran-hutan&cd=103&hl=en&ct=clnk&gl=us"
+  },
+  {
+    "position": 93,
+    "title": "Contoh Artikel Kebakaran Hutan di Indonesia Beserta ...",
+    "link": "https://mamikos.com/info/contoh-artikel-kebakaran-hutan-pljr/",
+    "displayed_link": "https://mamikos.com › info › contoh...",
+    "date": "Feb 5, 2023",
+    "snippet": "Contoh Artikel Kebakaran Hutan di Indonesia Beserta Strukturnya Lengkap - Kamu sedang ada tugas menulis artikel bertema kerusakan hutan?",
+    "snippet_highlighted_words": [
+      "Kebakaran Hutan",
+      "Indonesia"
+    ],
+    "about_this_result": {
+      "source": {
+        "description": "This result comes from mamikos.com",
+        "source_info_link": "https://mamikos.com/info/contoh-artikel-kebakaran-hutan-pljr/",
+        "security": "secure",
+        "icon": "https://serpapi.com/searches/63ec2cb42c084497608a71bc/images/c7d4185c0bb4457749fda288e7c1aab1df18a57806b808b4b5dbfd417b20bbb9ff39a0e5649f05fe052e07d3b7e93768a0bc7791eeff17c3.png"
+      }
+    },
+    "about_page_link": "https://www.google.com/search?q=About+https://mamikos.com/info/contoh-artikel-kebakaran-hutan-pljr/&tbm=ilp&ilps=AB_Lh3qyeQ0eT2UStgQysU6wk3nlZ91yrw",
+    "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&ilps=AB_Lh3qyeQ0eT2UStgQysU6wk3nlZ91yrw&q=About+https%3A%2F%2Fmamikos.com%2Finfo%2Fcontoh-artikel-kebakaran-hutan-pljr%2F",
+    "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:TqpcYdwEd40J:https://mamikos.com/info/contoh-artikel-kebakaran-hutan-pljr/&cd=104&hl=en&ct=clnk&gl=us"
+  },
+  {
+    "position": 94,
+    "title": "Bank Indonesia: Kebakaran Hutan Ancam Pertumbuhan ...",
+    "link": "https://ekonomi.bisnis.com/read/20190925/9/1152291/bank-indonesia-kebakaran-hutan-ancam-pertumbuhan-ekonomi-",
+    "displayed_link": "https://ekonomi.bisnis.com › read › b...",
+    "date": "Sep 25, 2019",
+    "snippet": "Kebakaran hutan dan lahan (karhutla) yang tengah mengamuk Indonesia dinilai dapat mengganggu pertumbuhan ekonomi jika permasalahan ini terus ...",
+    "snippet_highlighted_words": [
+      "Kebakaran hutan",
+      "Indonesia"
+    ],
+    "about_this_result": {
+      "source": {
+        "description": "This result comes from ekonomi.bisnis.com",
+        "source_info_link": "https://ekonomi.bisnis.com/read/20190925/9/1152291/bank-indonesia-kebakaran-hutan-ancam-pertumbuhan-ekonomi-",
+        "security": "secure",
+        "icon": "https://serpapi.com/searches/63ec2cb42c084497608a71bc/images/c7d4185c0bb4457749fda288e7c1aab1c9cf413a6b3567a6129e21e0ffbf00176e96235929529a011809ebeb534ff0172d81fee85b832733.png"
+      }
+    },
+    "about_page_link": "https://www.google.com/search?q=About+https://ekonomi.bisnis.com/read/20190925/9/1152291/bank-indonesia-kebakaran-hutan-ancam-pertumbuhan-ekonomi-&tbm=ilp&ilps=AB_Lh3rEcS4vpsrul-4lupiZ1QvvQNdOZw",
+    "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&ilps=AB_Lh3rEcS4vpsrul-4lupiZ1QvvQNdOZw&q=About+https%3A%2F%2Fekonomi.bisnis.com%2Fread%2F20190925%2F9%2F1152291%2Fbank-indonesia-kebakaran-hutan-ancam-pertumbuhan-ekonomi-",
+    "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:2gmy3K4aMYEJ:https://ekonomi.bisnis.com/read/20190925/9/1152291/bank-indonesia-kebakaran-hutan-ancam-pertumbuhan-ekonomi-&cd=105&hl=en&ct=clnk&gl=us"
+  },
+  {
+    "position": 95,
+    "title": "Kebakaran Hutan - Pengertian, Penyebab, Dampak ...",
+    "link": "https://rimbakita.com/kebakaran-hutan/",
+    "displayed_link": "https://rimbakita.com › kebakaran-hu...",
+    "snippet": "Artinya, hutan di Indonesia termasuk jenis hutan yang paling sulit untuk terbakar. Namun kenyataannya, peristiwa kebakaran hutan seakan tidak bisa lepas dari ...",
+    "snippet_highlighted_words": [
+      "Indonesia",
+      "kebakaran hutan"
+    ],
+    "rich_snippet": {
+      "top": {
+        "detected_extensions": {
+          "rating": 4.3,
+          "votes": 61
+        },
+        "extensions": [
+          "Rating: 4.3",
+          "‎61 votes"
+        ]
+      }
+    },
+    "about_this_result": {
+      "source": {
+        "description": "This result comes from rimbakita.com",
+        "source_info_link": "https://rimbakita.com/kebakaran-hutan/",
+        "security": "secure",
+        "icon": "https://serpapi.com/searches/63ec2cb42c084497608a71bc/images/c7d4185c0bb4457749fda288e7c1aab1db421730a6ca4d24952580e6aa26adaed25e60bc28e0a88fd690ab5f07285eae907c41b7b8b32d93.png"
+      }
+    },
+    "about_page_link": "https://www.google.com/search?q=About+https://rimbakita.com/kebakaran-hutan/&tbm=ilp&ilps=AB_Lh3p7wOo-qf5hb-iKwkPCzn3bCP5Gtg",
+    "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&ilps=AB_Lh3p7wOo-qf5hb-iKwkPCzn3bCP5Gtg&q=About+https%3A%2F%2Frimbakita.com%2Fkebakaran-hutan%2F",
+    "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:zvoWXF1KfhoJ:https://rimbakita.com/kebakaran-hutan/&cd=106&hl=en&ct=clnk&gl=us"
+  },
+  {
+    "position": 96,
+    "title": "Luas Lahan Terbakar Seluruh Indonesia Mencapai 857 Ribu ...",
+    "link": "https://www.liputan6.com/news/read/4092703/luas-lahan-terbakar-seluruh-indonesia-mencapai-857-ribu-hektare",
+    "displayed_link": "https://www.liputan6.com › read › lu...",
+    "date": "Oct 23, 2019",
+    "snippet": "Kebakaran hutan dan lahan (karhutla) tidak hanya terjadi di lahan gambut tetapi juga lahan mineral.",
+    "snippet_highlighted_words": [
+      "Kebakaran hutan"
+    ],
+    "about_this_result": {
+      "source": {
+        "description": "This result comes from www.liputan6.com",
+        "source_info_link": "https://www.liputan6.com/news/read/4092703/luas-lahan-terbakar-seluruh-indonesia-mencapai-857-ribu-hektare",
+        "security": "secure",
+        "icon": "https://serpapi.com/searches/63ec2cb42c084497608a71bc/images/c7d4185c0bb4457749fda288e7c1aab1c11e30785aa328529ffa69c33594193286eb79a4384a51c5c3c968f0b0abb9a82e9abf3bcc65b366.png"
+      }
+    },
+    "about_page_link": "https://www.google.com/search?q=About+https://www.liputan6.com/news/read/4092703/luas-lahan-terbakar-seluruh-indonesia-mencapai-857-ribu-hektare&tbm=ilp&ilps=AB_Lh3o0hfL16mcUMw97wtaMQ5LSwBgbNA",
+    "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&ilps=AB_Lh3o0hfL16mcUMw97wtaMQ5LSwBgbNA&q=About+https%3A%2F%2Fwww.liputan6.com%2Fnews%2Fread%2F4092703%2Fluas-lahan-terbakar-seluruh-indonesia-mencapai-857-ribu-hektare",
+    "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:_FBFp_LboPcJ:https://www.liputan6.com/news/read/4092703/luas-lahan-terbakar-seluruh-indonesia-mencapai-857-ribu-hektare&cd=107&hl=en&ct=clnk&gl=us"
+  },
+  {
+    "position": 97,
+    "title": "10 Kebakaran Hutan Terparah dalam Sejarah - SINDOnews",
+    "link": "https://international.sindonews.com/berita/1443259/45/10-kebakaran-hutan-terparah-dalam-sejarah?showpage=all",
+    "displayed_link": "https://international.sindonews.com › ...",
+    "date": "Sep 28, 2019",
+    "snippet": "Kebakaran hutan di Indonesia menjadi bencana tahunan yang terus terjadi. Sepanjang sejarah dunia terdapat beberapa kebakaran hutan terparah ...",
+    "snippet_highlighted_words": [
+      "Kebakaran hutan",
+      "Indonesia",
+      "kebakaran hutan"
+    ],
+    "about_this_result": {
+      "source": {
+        "description": "This result comes from international.sindonews.com",
+        "source_info_link": "https://international.sindonews.com/berita/1443259/45/10-kebakaran-hutan-terparah-dalam-sejarah?showpage=all",
+        "security": "secure",
+        "icon": "https://serpapi.com/searches/63ec2cb42c084497608a71bc/images/c7d4185c0bb4457749fda288e7c1aab1306bc9e833a0a1f1004baab54bbb2a6ed99cd4496773f4367cdcde09ffd1623b2d77b09fb03a3f21.png"
+      }
+    },
+    "about_page_link": "https://www.google.com/search?q=About+https://international.sindonews.com/berita/1443259/45/10-kebakaran-hutan-terparah-dalam-sejarah?showpage%3Dall&tbm=ilp&ilps=AB_Lh3qHtVmZaH-Iy6udVtF7SIc-I_JuYA",
+    "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&ilps=AB_Lh3qHtVmZaH-Iy6udVtF7SIc-I_JuYA&q=About+https%3A%2F%2Finternational.sindonews.com%2Fberita%2F1443259%2F45%2F10-kebakaran-hutan-terparah-dalam-sejarah%3Fshowpage%3Dall",
+    "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:5ORsh4volX0J:https://international.sindonews.com/berita/1443259/45/10-kebakaran-hutan-terparah-dalam-sejarah%3Fshowpage%3Dall&cd=108&hl=en&ct=clnk&gl=us"
+  },
+  {
+    "position": 98,
+    "title": "Kebakaran Hutan, Partisipasi Publik, dan Peran Media",
+    "link": "https://www.recoftc.org/indonesia/stories/kebakaran-hutan-partisipasi-publik-dan-peran-media-kombinasi-jurnalisme-warga-dan-keilmuan",
+    "displayed_link": "https://www.recoftc.org › stories › ke...",
+    "snippet": "Kebakaran hutan dan lahan (karhutla) di Indonesia semakin sering terjadi dan seakan menjadi sesuatu yang lumrah. Perspectives. Foto: ©RECOFTC Indonesia. © ...",
+    "snippet_highlighted_words": [
+      "Kebakaran hutan",
+      "Indonesia",
+      "Indonesia"
+    ],
+    "about_this_result": {
+      "source": {
+        "description": "This result comes from www.recoftc.org",
+        "source_info_link": "https://www.recoftc.org/indonesia/stories/kebakaran-hutan-partisipasi-publik-dan-peran-media-kombinasi-jurnalisme-warga-dan-keilmuan",
+        "security": "secure",
+        "icon": "https://serpapi.com/searches/63ec2cb42c084497608a71bc/images/c7d4185c0bb4457749fda288e7c1aab10c4dc033fbecb37a21588d66fc8bc30cf4bd22bf2d98879e22539c162e7c3f3514386f903924f514.png"
+      }
+    },
+    "about_page_link": "https://www.google.com/search?q=About+https://www.recoftc.org/indonesia/stories/kebakaran-hutan-partisipasi-publik-dan-peran-media-kombinasi-jurnalisme-warga-dan-keilmuan&tbm=ilp&ilps=AB_Lh3oggowWg2g6-sU4E_ScyycxwhLx-A",
+    "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&ilps=AB_Lh3oggowWg2g6-sU4E_ScyycxwhLx-A&q=About+https%3A%2F%2Fwww.recoftc.org%2Findonesia%2Fstories%2Fkebakaran-hutan-partisipasi-publik-dan-peran-media-kombinasi-jurnalisme-warga-dan-keilmuan",
+    "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:B9FxqZ_ItBgJ:https://www.recoftc.org/indonesia/stories/kebakaran-hutan-partisipasi-publik-dan-peran-media-kombinasi-jurnalisme-warga-dan-keilmuan&cd=109&hl=en&ct=clnk&gl=us"
+  },
+  {
+    "position": 99,
+    "title": "Program-Program AS untuk Mendukung Upaya Indonesia ...",
+    "link": "https://id.usembassy.gov/id/program-program-as-untuk-mendukung-upaya-indonesia-dalam-mengatasi-kebakaran-hutan-dan-kabut-asap/",
+    "displayed_link": "https://id.usembassy.gov › program-...",
+    "date": "Oct 28, 2015",
+    "snippet": "Bantuan ini mencakup dukungan bagi kru pemadam kebakaran lapangan di provinsi-pronvisi yang terkena dampak terburuk akibat kebakaran hutan, ...",
+    "snippet_highlighted_words": [
+      "kebakaran hutan"
+    ],
+    "about_this_result": {
+      "source": {
+        "description": "This result comes from id.usembassy.gov",
+        "source_info_link": "https://id.usembassy.gov/id/program-program-as-untuk-mendukung-upaya-indonesia-dalam-mengatasi-kebakaran-hutan-dan-kabut-asap/",
+        "security": "secure",
+        "icon": "https://serpapi.com/searches/63ec2cb42c084497608a71bc/images/c7d4185c0bb4457749fda288e7c1aab17c6b4c503fa10ddf8b514b6a2c0f1d30bf8872fe1572be807cf1f5aafdd088cb05202560acc96b13.png"
+      }
+    },
+    "about_page_link": "https://www.google.com/search?q=About+https://id.usembassy.gov/id/program-program-as-untuk-mendukung-upaya-indonesia-dalam-mengatasi-kebakaran-hutan-dan-kabut-asap/&tbm=ilp&ilps=AB_Lh3q-GH1LOL5lSwqnEXin-in4beCcVg",
+    "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&ilps=AB_Lh3q-GH1LOL5lSwqnEXin-in4beCcVg&q=About+https%3A%2F%2Fid.usembassy.gov%2Fid%2Fprogram-program-as-untuk-mendukung-upaya-indonesia-dalam-mengatasi-kebakaran-hutan-dan-kabut-asap%2F",
+    "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:IMPqcnM1p9EJ:https://id.usembassy.gov/id/program-program-as-untuk-mendukung-upaya-indonesia-dalam-mengatasi-kebakaran-hutan-dan-kabut-asap/&cd=110&hl=en&ct=clnk&gl=us",
+    "related_pages_link": "https://www.google.com/search?ucbcb=1&q=related:https://id.usembassy.gov/id/program-program-as-untuk-mendukung-upaya-indonesia-dalam-mengatasi-kebakaran-hutan-dan-kabut-asap/+Kebakaran+Hutan+Indonesia"
+  }
+]
